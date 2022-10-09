@@ -1,0 +1,20 @@
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - shell: bash
+        run: |
+          ./apod.sh
+          git config user.name sirekanian
+          git config user.email sirekanian@pm.me
+          git add json apod.nasa.gov
+          git commit -m updated || true
+          git push
