@@ -52,7 +52,7 @@ for i in json/*.json; do
     output="$directory/$filename"
     if [ ! -f "$output" ] && [ "${output%%/*}" == "apod.nasa.gov" ]; then
       echo "Downloading $output"
-      convert -scale 360^ -strip -interlace plane -sampling-factor 4:2:0 -quality 80% "$j" "$output"
+      curl -s "$j" | convert -scale 360^ -strip -interlace plane -sampling-factor 4:2:0 -quality 80% - "$output"
     fi
   done
 done
