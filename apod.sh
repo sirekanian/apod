@@ -45,12 +45,13 @@ done
 
 for i in json/*.json; do
   for j in $(jq -r '.[] | select(.media_type=="image") | .url' "$i"); do
-    path="${j#*//}"
+    path="${j#https://apod.nasa.gov/apod/}"
+    if [ "$j" == "$path" ]; then continue; fi
     filename=$(basename "$path")
     directory=$(dirname "$path")
     mkdir -p "$directory"
     output="$directory/$filename"
-    if [ ! -f "$output" ] && [ "${output%%/*}" == "apod.nasa.gov" ]; then
+    if [ ! -f "$output" ]; then
       echo "Downloading $output"
       curl -s "$j" | convert -scale 360^ -strip -interlace plane -sampling-factor 4:2:0 -quality 80% - "$output"
     fi
