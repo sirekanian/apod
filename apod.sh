@@ -56,3 +56,11 @@ for i in json/*.json; do
     fi
   done
 done
+
+cp ".readme.md" ".readme.tmp"
+last="$(jq -c last "$OUT")"
+echo "$last" | jq -r 'keys[]' | while read -r key; do
+  value="$(echo "$last" | jq -r ".$key")"
+  sed -i "s#{{$key}}#$value#g" ".readme.tmp"
+done
+cp ".readme.tmp" "README.md" && rm ".readme.tmp"
