@@ -63,4 +63,5 @@ echo "$last" | jq -r 'keys[]' | while read -r key; do
   value="$(echo "$last" | jq -r ".$key")"
   sed -i "s#{{$key}}#$value#g" ".readme.tmp"
 done
+sed -i "s#{{thumbnail}}#$output#g" ".readme.tmp"
 cp ".readme.tmp" "README.md" && rm ".readme.tmp"
