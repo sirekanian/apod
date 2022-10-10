@@ -15,6 +15,6 @@ jobs:
           ./apod.sh
           git config user.name sirekanian
           git config user.email sirekanian@pm.me
-          git add json apod.nasa.gov README.md
+          git add json image README.md
           git commit -m updated || true
           git push
