@@ -31,30 +31,28 @@ for YEAR in $(seq "${MIN:0:4}" "${MAX:0:4}"); do
       END=""
     fi
     OUT="json/$START.json"
-    if [ ! -f "$OUT" ] || [ -z "$END" ]; then
-      echo "Downloading $OUT"
-      curl -s "$BASE_URL&start_date=$START&end_date=$END" | jq >"$OUT"
+    if [ -f "$OUT" ] && [ "$END" ]; then
+      continue
     fi
+    echo "Downloading $OUT"
+    curl -s "$BASE_URL&start_date=$START&end_date=$END" | jq >"$OUT"
     if [ "$(jq -r type "$OUT")" != "array" ]; then
       cat "$OUT"
       rm "$OUT"
       exit 1
     fi
-  done
-done
-
-for i in json/*.json; do
-  for j in $(jq -r '.[] | select(.media_type=="image") | .url' "$i"); do
-    path="${j#https://apod.nasa.gov/apod/}"
-    if [ "$j" == "$path" ]; then continue; fi
-    filename=$(basename "$path")
-    directory=$(dirname "$path")
-    mkdir -p "$directory"
-    output="$directory/$filename"
-    if [ ! -f "$output" ]; then
-      echo "Downloading $output"
-      curl -s "$j" | convert -scale 360^ -strip -interlace plane -sampling-factor 4:2:0 -quality 80% - "$output"
-    fi
+    for URL in $(jq -r '.[] | select(.media_type=="image") | .url' "$OUT"); do
+      path="${URL#https://apod.nasa.gov/apod/}"
+      if [ "$URL" == "$path" ]; then continue; fi
+      filename=$(basename "$path")
+      directory=$(dirname "$path")
+      mkdir -p "$directory"
+      output="$directory/$filename"
+      if [ ! -f "$output" ]; then
+        echo "Downloading $output"
+        curl -s "$URL" | convert -scale 360^ -strip -interlace plane -sampling-factor 4:2:0 -quality 80% - "$output"
+      fi
+    done
   done
 done
 
