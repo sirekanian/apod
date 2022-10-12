@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2210/Pelican_Almeida_960.jpg
+https://apod.nasa.gov/apod/image/2210/SquidFinal3smaller1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2210/Pelican_Almeida_960.jpg
+https://sirekanian.com/apod/image/2210/SquidFinal3smaller1024.jpg
 
-## Stars, Dust, Pillars, and Jets in the Pelican Nebula
+## Ou4: The Giant Squid Nebula
 
-Copyright: Adriano Almeida
+Copyright: Tommy Lease
 
 [![the picture of the day][1]][2]
 
-_Explanation: What dark structures arise within the Pelican Nebula? On the whole, the nebula appears like a bird (a pelican) and is seen toward the constellation of a different bird: Cygnus, a Swan. But inside, the Pelican Nebula is a place lit up by new stars and befouled by dark dust. Smoke-sized dust grains start as simple carbon compounds formed in the cool atmospheres of young stars but are dispersed by stellar winds and explosions.  Two impressive Herbig-Haro jets are seen emitted by the star HH 555 on the right, and these jets are helping to destroy the light year-long dust pillar that contains it.  Other pillars and jets are also visible. The featured image was scientifically-colored to emphasize light emitted by small amounts of heavy elements in a nebula made predominantly of the light elements hydrogen and helium.  The Pelican Nebula (IC 5067 and IC 5070) is about 2,000 light-years away and can be found with a small telescope to the northeast of the bright star Deneb.    Explore Your Universe: Random APOD Generator_
+_Explanation: A mysterious squid-like cosmic cloud, this nebula is very faint, but also very large in planet Earth's sky. In the image, composed with 30 hours of narrowband image data, it spans nearly three full moons toward the royal constellation Cepheus. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue-green emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, a more recent investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2210/Pelican_Almeida_960.jpg
+[1]: image/2210/SquidFinal3smaller1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2210/Pelican_Almeida_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2210/SquidFinal3smaller1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
