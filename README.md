@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2210/NGC1300_HST_1080.jpg
+https://apod.nasa.gov/apod/image/2210/GrbRings_SwiftMiller_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2210/NGC1300_HST_1080.jpg
+https://sirekanian.com/apod/image/2210/GrbRings_SwiftMiller_960.jpg
 
-## Barred Spiral Galaxy NGC 1300
+## X-Ray Rings Around a Gamma Ray Burst
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research._
+_Explanation: Why would x-ray rings appear around a gamma-ray burst?  The surprising answer has little to do with the explosion itself but rather with light reflected off areas of dust-laden gas in our own Milky Way Galaxy.  GRB 221009A was a tremendous explosion -- a very bright gamma-ray burst (GRB) that occurred far across the universe with radiation just arriving in our Solar System last week.  Since GRBs can also emit copious amounts of x-rays, a bright flash of x-rays arrived nearly simultaneously with the gamma-radiation. In this case, the X-rays also bounced off regions high in dust right here in our Milky Way Galaxy, creating the unusual reflections. The greater the angle between reflecting Milky Way dust and the GRB, the greater the radius of the X-ray rings, and, typically, the longer it takes for these light-echoes to arrive._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2210/NGC1300_HST_1080.jpg
+[1]: image/2210/GrbRings_SwiftMiller_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2210/NGC1300_HST_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2210/GrbRings_SwiftMiller_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
