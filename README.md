@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2210/2022-10-25pseTaj600h.jpg
+https://apod.nasa.gov/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2210/2022-10-25pseTaj600h.jpg
+https://sirekanian.com/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
 
-## Sunset, Moonset, Taj Mahal
+## Seven Years of Halley Dust
 
-Copyright: Neelam and Ajay Talwar
+Copyright: Petr Horalek
 
 [![the picture of the day][1]][2]
 
-_Explanation: On October 25th, Sun and New Moon set together as seen from Agra, India. Their close conjunction near the western horizon, a partial solar eclipse, was captured in this elevated view in hazy skies near the solitary dome of the Taj Mahal. Of course, the partial solar eclipse was also seen from most of Europe, northern Africa, the Middle East, and western parts of Asia. This eclipse was the last of two solar eclipses (both partial eclipses) in 2022. But the next Full Moon will slide through planet Earth's shadow on November 7/8, in a total lunar eclipse._
+_Explanation: History's first known periodic comet Halley (1P/Halley) returns to the inner Solar System every 75 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. Including meteors near the shower maximum on October 21, this composite view compiles Orionid meteors captured from years 2015 through 2022. About 47 bright meteors are registered in the panoramic night skyscape. Against a starry background extending along the Milky Way, the Orionid meteors all seem to radiate from a point just north of Betelgeuse in the familiar constellation of the Hunter. In the foreground are mountains in eastern Slovakia near the city of Presov._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2210/2022-10-25pseTaj600h.jpg
+[1]: image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2210/2022-10-25pseTaj600h.jpg
+[2]: https://apod.nasa.gov/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
 
 [3]: https://github.com/sirekanian/spacetime
