@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
+https://apod.nasa.gov/apod/image/2210/LDN673_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
+https://sirekanian.com/apod/image/2210/LDN673_1024.jpg
 
-## Seven Years of Halley Dust
+## LDN 673: Dark Clouds in Aquila
 
-Copyright: Petr Horalek
+Copyright: Capella Observatory Team
 
 [![the picture of the day][1]][2]
 
-_Explanation: History's first known periodic comet Halley (1P/Halley) returns to the inner Solar System every 75 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. Including meteors near the shower maximum on October 21, this composite view compiles Orionid meteors captured from years 2015 through 2022. About 47 bright meteors are registered in the panoramic night skyscape. Against a starry background extending along the Milky Way, the Orionid meteors all seem to radiate from a point just north of Betelgeuse in the familiar constellation of the Hunter. In the foreground are mountains in eastern Slovakia near the city of Presov._
+_Explanation: Part of a dark expanse that splits the crowded plane of our Milky Way galaxy, the Aquila Rift arcs through planet Earth's skies near bright star Altair. In eerie silhouette against the Milky Way's faint starlight, its dusty molecular clouds likely contain raw material to form hundreds of thousands of stars and astronomers search the dark clouds for telltale signs of star birth. This telescopic close-up looks toward the region at a fragmented Aquila dark cloud complex identified as LDN 673, stretching across a field of view slightly wider than the full moon. In the scene, visible indications of energetic outflows associated with young stars include the small red tinted nebulosity RNO 109 above and right of center, and Herbig-Haro object HH32 below. These dark clouds might look scary, but they're estimated to be some 600 light-years away. At that distance, this field of view spans about 7 light-years._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
+[1]: image/2210/LDN673_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2210/2016-2022_Orionids_Pano_1100px_0.jpg
+[2]: https://apod.nasa.gov/apod/image/2210/LDN673_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
