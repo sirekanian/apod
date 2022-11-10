@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2211/WildTriplet_Hubble_960.jpg
+https://apod.nasa.gov/apod/image/2211/wr18_woronow_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2211/WildTriplet_Hubble_960.jpg
+https://sirekanian.com/apod/image/2211/wr18_woronow_960.jpg
 
-## Galaxies: Wild's Triplet from Hubble
+## The Asymmetric Nebula Surrounding Wolf-Rayet Star 18
 
-Copyright: (empty)
+Copyright: Alex Woronow
 
 [![the picture of the day][1]][2]
 
-_Explanation: How many galaxies are interacting here?  This grouping of galaxies is called the Wild Triplet, not only for the discoverer, but for the number of bright galaxies that appear. It had been assumed that all three galaxies, collectively cataloged as Arp 248, are interacting, but more recent investigations reveal that only the brightest two galaxies are sparring gravitationally: the big galaxies at the top and bottom. The spiral galaxy in the middle of the featured image by the  Hubble Space Telescope is actually far in the distance, as is the galaxy just below it and all of the other numerous galaxies in the field.  A striking result of these giants jousting is a tremendous bridge of stars, gas, and dust that stretches between them -- a bridge almost 200,000 light-years long. Light we see today from Wild's Triplet left about 200 million years ago, when dinosaurs roamed the Earth. In perhaps a billion years or so, the two interacting galaxies will merge to form a single large spiral galaxy.   Lunar Eclipse of November 2022: Notable Submissions to APOD_
+_Explanation: Why does the nebula around the star WR-18 shine brighter on one side? Also known as NGC 3199, this active star and its surrounding nebula lie about 12,000 light-years away toward the nautical southern constellation of Carina. The featured deep image has been highly processed to bring out filamentary details of the glowing gas in the bubble-shaped nebula.  The nebula is about 75 light-years across. Near the nebula's center is a Wolf-Rayet star, WR-18, which is a massive, hot, short-lived star that generates an intense and complex stellar wind. In fact, Wolf-Rayet stars are known to create nebulas with interesting shapes as their powerful winds sweep up surrounding interstellar material. In this case, the bright right edge was initially thought to indicate that a bow shock was being produced as the star plowed through a uniform medium, like a boat through water. Recent measurements and analyses, however, have shown the star is not moving quickly toward the bright edge. A more likely explanation has emerged that the material surrounding the star is not uniform, but clumped and denser near the bright edge._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2211/WildTriplet_Hubble_960.jpg
+[1]: image/2211/wr18_woronow_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2211/WildTriplet_Hubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2211/wr18_woronow_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
