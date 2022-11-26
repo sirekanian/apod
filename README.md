@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png
+https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2211/LDN1251v7social1024.png
+https://sirekanian.com/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
 
-## Lynds Dark Nebula 1251
+## NGC 6744: Extragalactic Close-Up
 
-Copyright: Stefano Attalienti
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, the dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk on the scene, almost buried behind the dusty expanse. This alluring view spans over four full moons on the sky, or 35 light-years at the estimated distance of LDN 1251._
+_Explanation: Beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across. That's larger than the Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo, with its galactic disk tilted towards our line of sight. This Hubble close-up of the nearby island universe spans about 24,000 light-years or so across NGC 6744's central region. The Hubble view combines visible light and ultraviolet image data. The giant galaxy's yellowish core is dominated by the visible light from old, cool stars. Beyond the core are star-forming regions and young star clusters scattered along the inner spiral arms. NGC 6744's young star clusters are bright at ultraviolet wavelengths, shown in blue and magenta hues. Spiky stars scattered around the frame are foreground stars and well within our own Milky Way._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2211/LDN1251v7social1024.png
+[1]: image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2211/LDN1251v7social1024.png
+[2]: https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
 
 [3]: https://github.com/sirekanian/spacetime
