@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
+https://apod.nasa.gov/apod/image/2211/LastRingPortrait_Cassini_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
+https://sirekanian.com/apod/image/2211/LastRingPortrait_Cassini_1080.jpg
 
-## NGC 6744: Extragalactic Close-Up
+## Saturn at Night
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across. That's larger than the Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo, with its galactic disk tilted towards our line of sight. This Hubble close-up of the nearby island universe spans about 24,000 light-years or so across NGC 6744's central region. The Hubble view combines visible light and ultraviolet image data. The giant galaxy's yellowish core is dominated by the visible light from old, cool stars. Beyond the core are star-forming regions and young star clusters scattered along the inner spiral arms. NGC 6744's young star clusters are bright at ultraviolet wavelengths, shown in blue and magenta hues. Spiky stars scattered around the frame are foreground stars and well within our own Milky Way._
+_Explanation: Saturn is still bright in planet Earth's night skies. Telescopic views of the distant gas giant and its beautiful rings often make it a star at star parties. But this stunning view of Saturn's rings and night side just isn't possible from telescopes closer to the Sun than the outer planet. They can only bring Saturn's day into view. In fact, this image of Saturn's slender sunlit crescent with night's shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. Saturn's night will not be seen again until another spaceship from Earth calls._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
+[1]: image/2211/LastRingPortrait_Cassini_1080.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2211/STSCI-H-p1827h-NGC6744_1024x925.jpg
+[2]: https://apod.nasa.gov/apod/image/2211/LastRingPortrait_Cassini_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
