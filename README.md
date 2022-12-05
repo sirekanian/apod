@@ -11,18 +11,18 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png
+https://www.youtube.com/embed/0fKBhvDjuy0?rel=0
 
 The thumbnail url will look like this:<br>
 https://sirekanian.com/apod/image/2212/Mars-Stereo.png
 
-## Stereo Mars near Opposition
+## Video: Powers of Ten
 
-Copyright: Marco Lorenzi
+Copyright: Charles (empty) Ray EamesEames Office
 
 [![the picture of the day][1]][2]
 
-_Explanation: Mars looks sharp in these two rooftop telescope views captured in late November from Singapore, planet Earth. At the time, Mars was about 82 million kilometers from Singapore and approaching its opposition, opposite the Sun in planet Earth's sky on December 8. Olympus Mons, largest of the volcanoes in the Tharsis Montes region (and largest known volcano in the Solar System), is near Mars' western limb. In both the images it's the whitish donut-shape at the upper right. The dark area visible near center is the Terra Sirenum region while the long dark peninsula closest to the planet's eastern limb is Sinus Gomer. Near its tip is Gale crater, the Curiosity rover's landing site in 2012. Above Sinus Gomer, white spots are other volcanoes in the Elysium region. At top of the planet is the north polar cap covered with ice and clouds. Taken about two days apart, these images of the same martian hemisphere form a stereo pair. Look at the center of the frame and cross your eyes until the separate images come together to see the Red Planet in 3D._
+_Explanation: How different does the universe look on very small scales?  On very large scales? The most famous short science film of its generation gives breathtaking comparisons. That film, Powers of Ten, originally created in the 1960s, has been officially posted to YouTube and embedded here.  From a picnic blanket near Chicago out past the Virgo Cluster of Galaxies, every ten seconds the film zooms out to show a square a factor of ten times larger on each side. The 9-minute video then reverses, zooming back in a factor of ten every two seconds and ends up inside a single proton. The Powers of Ten sequence is actually based on the book Cosmic View by Kees Boeke in 1957, as is a similar but mostly animated film Cosmic Zoom that was also created in the late 1960s. The changing perspectives are so enthralling and educational that sections have been recreated using more modern computerized techniques, including the first few minutes of the movie Contact. Ray and husband Charles Eames, the film's creators, were known as quite visionary spirits and even invented their own popular chair._
 
 ## Usages
 
@@ -30,6 +30,6 @@ The repository is used by [Spacetime][3] android application.
 
 [1]: image/2212/Mars-Stereo.png
 
-[2]: https://apod.nasa.gov/apod/image/2212/Mars-Stereo.png
+[2]: https://www.youtube.com/embed/0fKBhvDjuy0?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
