@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/art001e002132_apod1024.jpg
+https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2212/art001e002132_apod1024.jpg
+https://sirekanian.com/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
 
-## Orion and the Ocean of Storms
+## Mars Rises above the Lunar Limb
 
-Copyright: (empty)
+Copyright: Tom Glenn
 
 [![the picture of the day][1]][2]
 
-_Explanation: A camera on board the uncrewed Orion spacecraft captured this view on December 5 as Orion approached its return powered flyby of the Moon.  Below one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, shadow line between lunar night and day, runs along the left of the frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. Of course the Orion spacecraft is now headed toward a December 11 splashdown in planet Earth's water-flooded Pacific Ocean._
+_Explanation: On the night of December 7 Mars wandered near the Full Moon. In fact the Red Planet was occulted, passing behind the Moon, when viewed from locations across Europe and North America. About an hour after disappearing behind the lunar disk Mars reappears in this stack of sharp video frames captured from San Diego, planet Earth. With the Moon in the foreground Mars was a mere 82 million kilometers distant, near its own opposition. Full Moon and full Mars were bright enough to provide the spectacular image with no exposure adjustments necessary. In the image Mars appears to rise just over ancient, dark-floored, lunar crater Abel very close to the southeastern edge of the Moon's near side. Humboldt is the large impact crater to its north (left)._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2212/art001e002132_apod1024.jpg
+[1]: image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2212/art001e002132_apod1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
