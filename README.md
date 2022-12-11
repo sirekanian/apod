@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
+https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne900.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
+https://sirekanian.com/apod/image/2212/22466-22467anaVantuyne900.jpg
 
-## Mars Rises above the Lunar Limb
+## America and the Sea of Serenity
 
-Copyright: Tom Glenn
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: On the night of December 7 Mars wandered near the Full Moon. In fact the Red Planet was occulted, passing behind the Moon, when viewed from locations across Europe and North America. About an hour after disappearing behind the lunar disk Mars reappears in this stack of sharp video frames captured from San Diego, planet Earth. With the Moon in the foreground Mars was a mere 82 million kilometers distant, near its own opposition. Full Moon and full Mars were bright enough to provide the spectacular image with no exposure adjustments necessary. In the image Mars appears to rise just over ancient, dark-floored, lunar crater Abel very close to the southeastern edge of the Moon's near side. Humboldt is the large impact crater to its north (left)._
+_Explanation: Get out your red/blue glasses and check out this stereo view of another world. Fifty years ago the scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17's landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif's peak. Beyond the mountains, toward the lunar limb, lies the Moon's Mare Serenitatis._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
+[1]: image/2212/22466-22467anaVantuyne900.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2212/Mars_Moon_fullsize_TGlenn1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2212/22466-22467anaVantuyne900.jpg
 
 [3]: https://github.com/sirekanian/spacetime
