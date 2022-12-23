@@ -199,5 +199,15 @@
     "service_version": "v1",
     "title": "Sun Halo at Sixty-three Degrees North",
     "url": "https://apod.nasa.gov/apod/image/2212/GS_20221217_Solhalo_Pan_v3_1100.jpg"
+  },
+  {
+    "copyright": "Martin Pugh",
+    "date": "2022-12-22",
+    "explanation": "Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies",
+    "hdurl": "https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1365: Majestic Island Universe",
+    "url": "https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg"
   }
 ]
