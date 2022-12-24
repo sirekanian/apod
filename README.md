@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg
+https://apod.nasa.gov/apod/image/2212/SaturnInsideOut2_cassini_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg
+https://sirekanian.com/apod/image/2212/SaturnInsideOut2_cassini_960.jpg
 
-## NGC 1365: Majestic Island Universe
+## Cassini Looks Out from Saturn
 
-Copyright: Martin Pugh
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies_
+_Explanation: This is what Saturn looks like from inside the rings. In 2017, for the first time, NASA directed the Cassini spacecraft to swoop between Saturn and its rings. During the dive, the robotic spacecraft took hundreds of images showing unprecedented detail for structures in Saturn's atmosphere. Looking back out, however, the spacecraft was also able to capture impressive vistas. In the featured image, taken a few hours before closest approach, Saturn's unusual northern hexagon is seen surrounding the North Pole. Saturn's B ring is the closest visible, while the dark Cassini Division separates B from the outer A.  A close inspection will find the two small moons that shepherd the F-ring, the farthest ring discernable.  A few months after this image was taken -- and after more than a decade of exploration and discovery -- the Cassini spacecraft ran low on fuel and was directed to enter Saturn's atmosphere, where it surely melted._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2212/NGC1365-CDK24-CDK17_1024.jpg
+[1]: image/2212/SaturnInsideOut2_cassini_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2212/SaturnInsideOut2_cassini_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
