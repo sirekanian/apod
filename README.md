@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg
+https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2212/FullCircleRainbow_Moesch_960.jpg
+https://sirekanian.com/apod/image/2212/M88_2022weebly.jpg
 
-## A Full Circle Rainbow over Norway
+## Messier 88
 
-Copyright: Lukas Moesch
+Copyright: Adam Block
 
 [![the picture of the day][1]][2]
 
-_Explanation: Have you ever seen an entire rainbow? From the ground, typically, only the top portion of a rainbow is visible because directions toward the ground have fewer raindrops. From the air, though, the entire 360-degree circle of a rainbow is more commonly visible. Pictured here, a full-circle rainbow was captured over the Lofoten Islands of Norway in September by a drone passing through a rain shower. An observer-dependent phenomenon primarily caused by the internal reflection of sunlight by raindrops, the rainbow has a full diameter of 84 degrees. The Sun is in the exact opposite direction from the rainbow's center.  As a bonus, a second rainbow that was more faint and color-reversed was visible outside the first._
+_Explanation: Charles Messier described the 88th entry in his 18th century catalog of Nebulae and Star Clusters as a nebula without stars. Of course the gorgeous M88 is now understood to be a spiral galaxy full of stars, gas, and dust, not unlike our own Milky Way. In fact, M88 is one of the brightest galaxies in the Virgo Galaxy Cluster some 50 million light-years away. M88's beautiful spiral arms are easy to trace in this sharp cosmic portait.  The arms are lined with young blue star clusters, pink star-forming regions, and obscuring dust lanes extending from a yellowish core dominated by an older population of stars. Spiral galaxy M88 spans over 100,000 light-years._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2212/FullCircleRainbow_Moesch_960.jpg
+[1]: image/2212/M88_2022weebly.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg
 
 [3]: https://github.com/sirekanian/spacetime
