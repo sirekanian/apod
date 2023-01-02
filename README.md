@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg
+https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2212/mars_clusters1024.jpg
+https://sirekanian.com/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg
 
-## Mars and the Star Clusters
+## The Largest Rock in our Solar System
 
-Copyright: Gabor Balazs
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: At this year's end Mars still shines brightly in planet Earth's night as it wanders through the head-strong constellation Taurus. Its bright yellowish hue dominates this starry field of view that includes Taurus' alpha star Aldebaran and the Hyades and Pleiades star clusters. While red giant Aldebaran appears to anchor the V-shape of the Hyades at the left of the frame, Aldebaran is not a member of the Hyades star cluster. The Hyades cluster is 151 light-years away making it the nearest established open star cluster, but Aldebaran lies at less than half that distance, along the same line-of-sight.  At the right, some 400 light-years distant is the open star cluster cataloged as Messier 45, also known as the Pleiades or Seven Sisters. In Greek myth, the Pleiades were daughters of the astronomical titan Atlas and sea-nymph Pleione._
+_Explanation: There, that dot on the right, that's the largest rock known in our Solar System. It is larger than every known asteroid, moon, and comet nucleus.  It is larger than any other local rocky planet.  This rock is so large its gravity makes it into a large ball that holds heavy gases near its surface.  (It used to be the largest known rock of any type until the recent discoveries of large dense planets orbiting other stars.)  The Voyager 1 spacecraft took the featured picture -- famously called Pale Blue Dot -- of this giant space rock in 1990 from the outer Solar System.  Today, this rock starts another orbit around its parent star, for roughly the 5 billionth time, spinning over 350 times during each trip.  Happy Gregorian Calendar New Year to all inhabitants of this rock we call Earth._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2212/mars_clusters1024.jpg
+[1]: image/2301/PaleBlueDotOrig_Voyager1_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2301/PaleBlueDotOrig_Voyager1_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
