@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg
+https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg
+https://sirekanian.com/apod/image/2301/KembleCascade_Lease_960.jpg
 
-## After Sunset Planet Parade
+## Kemble’s Cascade of Stars
 
-Copyright: Tunc Tezel
+Copyright: Tommy Lease
 
 [![the picture of the day][1]][2]
 
-_Explanation: Look up tonight and see a whole bunch of planets. Just after sunset, looking west, planets Venus, Saturn, Jupiter and Mars will all be simultaneously visible. Listed west to east, this planetary lineup will have Venus nearest the horizon, but setting shortly after the Sun.  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  Taken late last month, the featured image captured all of these planets and more: the Moon and planet Mercury were also simultaneously visible.  Below visibility were the planets Neptune and Uranus, making this a nearly all-planet panorama. In the foreground are hills around the small village of Gökçeören, Kaş, Turkey, near the Mediterranean coast.  Bright stars Altair, Fomalhaut, and Aldebaran are also prominent, as well as the Pleiades star cluster. Venus will rise higher in the sky at sunset as January continues, but Saturn will descend._
+_Explanation: This line of stars is real. A little too faint to see with the unaided eye, Kemble’s Cascade of stars inspires awe when seen with binoculars.  Like the Big Dipper though, Kemble’s Cascade is an asterism, not a constellation. The asterism is visible in the northern sky toward the long-necked constellation of the Giraffe (Camelopardalis). This string of about 20 unrelated stars, each of similar brightness, spans over five times the angular width of the full moon. Stretching diagonally from the upper left to the lower right, Kemble's Cascade was popularized last century by astronomy enthusiast Lucian Kemble.  The bright object near the top left of the image is the relatively compact Jolly Roger open cluster of stars, officially designated as NGC 1502._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2301/AllPlanets_Tezel_1080_annotated.jpg
+[1]: image/2301/KembleCascade_Lease_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2301/AllPlanets_Tezel_1080_annotated.jpg
+[2]: https://apod.nasa.gov/apod/image/2301/KembleCascade_Lease_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
