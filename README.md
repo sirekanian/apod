@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2301/ic348-ngc1333_1024.jpg
+https://apod.nasa.gov/apod/image/2301/jwst-ngc346-800.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2301/ic348-ngc1333_1024.jpg
+https://sirekanian.com/apod/image/2301/jwst-ngc346-800.png
 
-## Stardust in Perseus
+## Young Star Cluster NGC 346
 
-Copyright: Jack Groves
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: This cosmic expanse of dust, gas, and stars covers some 6 degrees on the sky in the heroic constellation Perseus. At upper left in the gorgeous skyscape is the intriguing young star cluster IC 348 and neighboring Flying Ghost Nebula with clouds of obscuring interstellar dust cataloged as Barnard 3 and 4. At right, another active star forming region NGC 1333 is connected by dark and dusty tendrils on the outskirts of the giant Perseus Molecular Cloud, about 850 light-years away. Other dusty nebulae are scattered around the field of view, along with the faint reddish glow of hydrogen gas. In fact, the cosmic dust tends to hide the newly formed stars and young stellar objects or protostars from prying optical telescopes. Collapsing due to self-gravity, the protostars form from the dense cores embedded in the molecular cloud. At the molecular cloud's estimated distance, this field of view would span over 90 light-years._
+_Explanation: The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region's dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope's NIRcam. Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as and molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb's sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2301/ic348-ngc1333_1024.jpg
+[1]: image/2301/jwst-ngc346-800.png
 
-[2]: https://apod.nasa.gov/apod/image/2301/ic348-ngc1333_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2301/jwst-ngc346-800.png
 
 [3]: https://github.com/sirekanian/spacetime
