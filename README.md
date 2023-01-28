@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a_1024.jpg
+https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2301/ngc1275_heic0817a_1024.jpg
+https://sirekanian.com/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg
 
-## Active Galaxy NGC 1275
+## Comet ZTF: Orbital Plane Crossing
 
-Copyright: (empty)
+Copyright: Dan Bartlett
 
 [![the picture of the day][1]][2]
 
-_Explanation: Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. This color composite image made from Hubble Space Telescope data recorded during 2006. It highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 spans over 100,000 light years and lies about 230 million light years away._
+_Explanation: The current darling of the northern night, Comet C/2022 E3 ZTF is captured in this telescopic image from a dark sky location at June Lake, California, USA. Of course Comet ZTF has been growing brighter in recent days, headed for its closest approach to Earth on February 1.  But this view was recorded on January 23, very close to the time planet Earth crossed the orbital plane of long-period Comet ZTF. The comet's broad, whitish dust tail is still curved and fanned out away from the Sun as Comet ZTF sweeps along its orbit. Due to perspective near the orbital plane crossing, components of the fanned out dust tail appear on both sides of the comet's green tinted coma though, to lend Comet ZTF a visually striking (left) anti-tail. Buffeted by solar activity the comet's narrower ion tail also streams away from the coma diagonally to the right, across the nearly three degree wide field of view.   Comet ZTF Gallery: Notable Submissions to APOD_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2301/ngc1275_heic0817a_1024.jpg
+[1]: image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2301/ngc1275_heic0817a_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2301/C2022E3ZTF_2023_01_23_054036PST_DEBartlett1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
