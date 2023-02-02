@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_1080.jpg
+https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2301/ngc6355_hubble_1080.jpg
+https://sirekanian.com/apod/image/2302/Trappist1h_Carroll_960.jpg
 
-## Globular Star Cluster NGC 6355 from Hubble
+## The Seventh World of Trappist-1
 
-Copyright: (empty)
+Copyright: Michael Carroll
 
 [![the picture of the day][1]][2]
 
-_Explanation: Globular clusters once ruled the Milky Way.  Back in the old days, back when our Galaxy first formed, perhaps thousands of globular clusters roamed our Galaxy.  Today, there are less than 200 left.  Over the eons, many globular clusters were destroyed by repeated fateful encounters with each other or the Galactic center.  Surviving relics are older than any Earth fossil, older than any other structures in our Galaxy, and limit the universe itself in raw age.  There are few, if any, young globular clusters left in our Milky Way Galaxy because conditions are not ripe for more to form. The featured image shows a Hubble Space Telescope view of 13-billion year old NGC 6355, a surviving globular cluster currently passing near the Milky Way's center.  Globular cluster stars are concentrated toward the image center and highlighted by bright blue stars. Most other stars in the frame are dimmer, redder, and just coincidently lie near the direction to NGC 6355._
+_Explanation: Seven worlds orbit the ultracool dwarf star TRAPPIST-1. A mere 40 light-years away, many of the exoplanets were discovered in 2016 using the Transiting Planets and Planetesimals Small Telescope (TRAPPIST) located in the Atlas Mountains of Morocco, and later confirmed with telescope including NASA's Spitzer Space Telescope. The TRAPPIST-1 planets are likely all rocky and similar in size to Earth, and so compose one of the largest treasure troves of terrestrial planets ever detected around a single star. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of ice or even liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of potentially habitable planets.  All seven exoplanets appear in the featured illustration, which imagines a view from the most distant known world of this system, TRAPPIST-1h, as having a rocky landscape covered in ice. Meanwhile, in the imagined background, one of the system's inner planets crosses in front of the dim, orange, nearly Jupiter-sized parent star.   Astrophysicists: Browse 3,000+ codes in the Astrophysics Source Code Library_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2301/ngc6355_hubble_1080.jpg
+[1]: image/2302/Trappist1h_Carroll_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
