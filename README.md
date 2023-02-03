@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg
+https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2302/Trappist1h_Carroll_960.jpg
+https://sirekanian.com/apod/image/2302/NGC1975RunningMan_1024.jpg
 
-## The Seventh World of Trappist-1
+## Reflections on the 1970s
 
-Copyright: Michael Carroll
+Copyright: Daniel Stern
 
 [![the picture of the day][1]][2]
 
-_Explanation: Seven worlds orbit the ultracool dwarf star TRAPPIST-1. A mere 40 light-years away, many of the exoplanets were discovered in 2016 using the Transiting Planets and Planetesimals Small Telescope (TRAPPIST) located in the Atlas Mountains of Morocco, and later confirmed with telescope including NASA's Spitzer Space Telescope. The TRAPPIST-1 planets are likely all rocky and similar in size to Earth, and so compose one of the largest treasure troves of terrestrial planets ever detected around a single star. Because they orbit very close to their faint, tiny star they could also have regions where surface temperatures allow for the presence of ice or even liquid water, a key ingredient for life. Their tantalizing proximity to Earth makes them prime candidates for future telescopic explorations of the atmospheres of potentially habitable planets.  All seven exoplanets appear in the featured illustration, which imagines a view from the most distant known world of this system, TRAPPIST-1h, as having a rocky landscape covered in ice. Meanwhile, in the imagined background, one of the system's inner planets crosses in front of the dim, orange, nearly Jupiter-sized parent star.   Astrophysicists: Browse 3,000+ codes in the Astrophysics Source Code Library_
+_Explanation: The 1970s are sometimes ignored by astronomers. For example, this beautiful grouping of reflection nebulae in Orion - NGC 1977, NGC 1975, and NGC 1973 - is usually overlooked in favor of the substantial glow from the nearby stellar nursery better known as the Orion Nebula. Found along Orion's sword just north of the bright Orion Nebula complex, these reflection nebulae are also associated with Orion's giant molecular cloud about 1,500 light-years away, but are dominated by the characteristic blue color of interstellar dust reflecting light from hot young stars. In this sharp color image a portion of the Orion Nebula appears along the bottom border with the cluster of reflection nebulae at picture center. NGC 1977 stretches across the field just below center, separated from NGC 1973 (above right) and NGC 1975 (above left) by dark regions laced with faint red emission from hydrogen atoms. Taken together, the dark regions suggest the popular moniker, the Running Man Nebula. At the estimated distance of Orion's dusty molecular cloud this running man would be about 15 light-years across._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2302/Trappist1h_Carroll_960.jpg
+[1]: image/2302/NGC1975RunningMan_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2302/Trappist1h_Carroll_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/NGC1975RunningMan_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
