@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg
+https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg
+https://sirekanian.com/apod/image/2302/Rcw58_Selby_960.jpg
 
-## A Comet and Two Dippers
+## Stellar Wind-Shaped Nebula RCW 58
 
-Copyright: Petr HoralekInstitute of Physics in Opava
+Copyright: Mike SelbyMark HansonNatalia LewandowskaSUNY Oswego
 
 [![the picture of the day][1]][2]
 
-_Explanation: Can you still see the comet?  Yes. Even as C/2022 E3 (ZTF) fades, there is still time to see it if you know where and when to look. Geometrically, Comet ZTF has passed its closest to both the Sun and the Earth and is now headed back to the outer Solar System. Its orbit around the Sun has it gliding across the northern sky all month, after passing near Polaris and both the Big and Little Dippers last month. Pictured, Comet ZTF was photographed between the two dippers in late January while sporting an ion tail that extended over 10 degrees. Now below naked-eye visibility, Comet ZTF can be found with binoculars or a small telescope and a good sky map.  A good time to see the comet over the next week is after the Sun sets -- but before the Moon rises. The comet will move nearly in front of Mars in a few days   Comet ZTF Gallery: Notable Submissions to APOD_
+_Explanation: Imagine traveling to a star about 100 times as massive as our Sun, a million times more luminous, and with 30 times the surface temperature. Such stars exist, and some are known as Wolf Rayet (WR) stars, named after French astronomers Charles Wolf and Georges Rayet. The central star in this image is WR 40 which is located toward the constellation of Carina. Stars like WR 40 live fast and die young in comparison with the Sun. They quickly exhaust their core hydrogen supply, move on to fusing heavier core elements, and expand while ejecting their outer layers via high stellar winds. In this case, the central star WR 40 ejects the atmosphere at a speed of nearly 100 kilometers per second, and these outer layers have become the expanding oval-shaped nebula RCW 58.   Almost Hyperspace: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2302/ZtfDippersB_Horalek_960_annotated.jpg
+[1]: image/2302/Rcw58_Selby_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2302/ZtfDippersB_Horalek_960_annotated.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
