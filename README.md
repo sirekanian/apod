@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_960.jpg
+https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2302/Rcw58_Selby_960.jpg
+https://sirekanian.com/apod/image/2302/PearlCloudDennis7_1024.jpg
 
-## Stellar Wind-Shaped Nebula RCW 58
+## Nacreous Clouds over Lapland
 
-Copyright: Mike SelbyMark HansonNatalia LewandowskaSUNY Oswego
+Copyright: Dennis Lehtonen
 
 [![the picture of the day][1]][2]
 
-_Explanation: Imagine traveling to a star about 100 times as massive as our Sun, a million times more luminous, and with 30 times the surface temperature. Such stars exist, and some are known as Wolf Rayet (WR) stars, named after French astronomers Charles Wolf and Georges Rayet. The central star in this image is WR 40 which is located toward the constellation of Carina. Stars like WR 40 live fast and die young in comparison with the Sun. They quickly exhaust their core hydrogen supply, move on to fusing heavier core elements, and expand while ejecting their outer layers via high stellar winds. In this case, the central star WR 40 ejects the atmosphere at a speed of nearly 100 kilometers per second, and these outer layers have become the expanding oval-shaped nebula RCW 58.   Almost Hyperspace: Random APOD Generator_
+_Explanation: Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from Kilpisjärvi, Finland. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured looking south at 69 degrees north latitude at sunset on January 24.  A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds can diffract sunlight even after sunset and just before the dawn._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2302/Rcw58_Selby_960.jpg
+[1]: image/2302/PearlCloudDennis7_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2302/Rcw58_Selby_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
