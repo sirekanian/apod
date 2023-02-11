@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7_1024.jpg
+https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2302/PearlCloudDennis7_1024.jpg
+https://sirekanian.com/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg
 
-## Nacreous Clouds over Lapland
+## ZTF meets ATLAS
 
-Copyright: Dennis Lehtonen
+Copyright: Stefan Bemmerl
 
 [![the picture of the day][1]][2]
 
-_Explanation: Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from Kilpisjärvi, Finland. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured looking south at 69 degrees north latitude at sunset on January 24.  A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds can diffract sunlight even after sunset and just before the dawn._
+_Explanation: Fading as it races across planet Earth's northern skies comet C/2022 E3 (ZTF) shares this telescopic frame with comet C/2022 U2 (ATLAS). Captured on the night of February 6 from a garden observatory in Germany's Bavarian Forest, the starry field of view toward the constellation Auriga spans about 2.5 degrees. Discovered by sky survey projects in 2022 (the Zwicky Transient Facility and the Asteroid Terrestrial-impact Last Alert System) these long-period comets are outbound, reaching perihelion just last month. The much fainter comet ATLAS made its closest approach to our fair planet on January 29 at a distance of about 4.6 light-minutes, compared to a mere 2.4 light-minutes for comet ZTF on February 2. This comet ATLAS lacks the well-developed tails of the formerly naked-eye comet ZTF. But both comets sport greenish tinted comas, emission from diatomic carbon molecules fluorescing in sunlight. Continuing its dash across planet Earth's sky, the good-binocular comet ZTF will appear close to bright planet Mars tonight._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2302/PearlCloudDennis7_1024.jpg
+[1]: image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2302/PearlCloudDennis7_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/C2022E3ZTFmeetsC2022U2Atlasbeschriftet1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
