@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg
+https://apod.nasa.gov/apod/image/2302/JupiterOccultationFefoBouvier1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg
+https://sirekanian.com/apod/image/2302/JupiterOccultationFefoBouvier1024.jpg
 
-## Arp 78: Peculiar Galaxy in Aries
+## Crescent Moon Occultation
 
-Copyright: Josep Drudis
+Copyright: Fefo Bouvier
 
 [![the picture of the day][1]][2]
 
-_Explanation: Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen above and right of the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars in matching yellowish hues._
+_Explanation: On February 22, a young Moon shared the western sky at sunset with bright planets Venus and Jupiter along the ecliptic plane. The beautiful celestial conjunction was visible around planet Earth. But from some locations Jupiter hid for a while, occulted by the crescent lunar disk. The Solar System's ruling gas giant was captured here just before it disappeared behind the Moon's dark edge, seen over the Río de la Plata at Colonia del Sacramento, Uruguay.  In the serene river and skyscape Venus is not so shy, shining brightly closer to the horizon through the fading twilight. Next week Venus and Jupiter will appear even closer in your evening sky._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg
+[1]: image/2302/JupiterOccultationFefoBouvier1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2302/JupiterOccultationFefoBouvier1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
