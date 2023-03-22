@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/wfzz8FUD4TM?rel=0
+https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg
+https://sirekanian.com/apod/image/2303/TaurusDust_Chander_1080.jpg
 
-## M1: The Expanding Crab Nebula
+## Dark Nebulae and Star Formation in Taurus
 
-Copyright: Detlef Hartmann
+Copyright: Vikas Chander
 
 [![the picture of the day][1]][2]
 
-_Explanation: Are your eyes good enough to see the Crab Nebula expand?  The Crab Nebula is cataloged as M1, the first on Charles Messier's famous list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, an expanding cloud of debris from the explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across today, the nebula is still expanding at a rate of over 1,000 kilometers per second. Over the past decade, its expansion has been documented in this stunning time-lapse movie. In each year from 2008 to 2022, an image was produced with the same telescope and camera from a remote observatory in Austria. The sharp, processed frames even reveal the dynamic energetic emission surrounding the rapidly spinning pulsar at the center.  The Crab Nebula lies about 6,500 light-years away toward the constellation of the Bull (Taurus)._
+_Explanation: Can dust be beautiful? Yes, and it can also be useful.  The Taurus molecular cloud has several bright stars, but it is the dark dust that really draws attention.  The pervasive dust has waves and ripples and makes picturesque dust bunnies, but perhaps more importantly, it marks regions where interstellar gas is dense enough to gravitationally contract to form stars. In the image center is a light cloud lit by neighboring stars that is home not only to a famous nebula, but to a very young and massive famous star.  Both the star, T Tauri, and the nebula, Hind's Variable Nebula, are seen to vary dramatically in brightness -- but not necessarily at the same time, adding to the mystery of this intriguing region. T Tauri and similar stars are now generally recognized to be Sun-like stars that are less than a few million years old and so still in the early stages of formation. The featured image spans about four degrees not far from the Pleiades star cluster, while the featured dust field lies about 400 light-years away._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2303/MayanMilkyWay_Fernandez_1080.jpg
+[1]: image/2303/TaurusDust_Chander_1080.jpg
 
-[2]: https://www.youtube.com/embed/wfzz8FUD4TM?rel=0
+[2]: https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
