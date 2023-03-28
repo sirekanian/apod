@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-//player.vimeo.com/video/108650530?title=0{{url}}byline=0{{url}}portrait=0{{url}}badge=0{{url}}color=ffffff
+https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2303/_GHR3094-venerelunafirma800.jpg
+https://sirekanian.com/apod/image/2303/ArcticHenge_Letelier_960.jpg
 
-## Wanderers
+## Aurora Over Arctic Henge
 
-Copyright: (empty)
+Copyright: Cari Letelier
 
 [![the picture of the day][1]][2]
 
-_Explanation: How far out will humanity explore? If this video's fusion of real space imagery and fictional space visualizations is on the right track, then at least the Solar System. Some of the video's wondrous sequences depict future humans drifting through the rings of Saturn, exploring Jupiter from a nearby spacecraft, and jumping off a high cliff in the low gravity of a moon of Uranus. Although no one can know the future, wandering and exploring beyond boundaries -- both physical and intellectual -- is part of the human spirit and has frequently served humanity well in the past._
+_Explanation: Reports of powerful solar flares started a seven-hour quest north to capture modern monuments against an aurora-filled sky.  The peaks of iconic Arctic Henge in Raufarhöfn in northern Iceland were already aligned with the stars: some are lined up toward the exact north from one side and toward exact south from the other. The featured image, taken after sunset late last month, looks directly south, but since the composite image covers so much of the sky, the north star Polaris is actually visible at the very top of the frame. Also visible are familiar constellations including the Great Bear (Ursa Major) on the left, and the Hunter (Orion) on the lower right. The quest was successful.  The sky lit up dramatically with bright and memorable auroras that shimmered with amazing colors including red, pink, yellow, and green -- sometimes several at once._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2303/_GHR3094-venerelunafirma800.jpg
+[1]: image/2303/ArcticHenge_Letelier_960.jpg
 
-[2]: //player.vimeo.com/video/108650530?title=0{{url}}byline=0{{url}}portrait=0{{url}}badge=0{{url}}color=ffffff
+[2]: https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
