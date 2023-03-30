@@ -235,7 +235,7 @@
   {
     "copyright": "Giorgia Hofer",
     "date": "2023-03-25",
-    "explanation": "On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.",
+    "explanation": "On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from San Pietro di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.",
     "hdurl": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma.jpg",
     "media_type": "image",
     "service_version": "v1",
@@ -269,5 +269,15 @@
     "service_version": "v1",
     "title": "A Multiple Green Flash Sunset",
     "url": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg"
+  },
+  {
+    "copyright": "Aleix RoigAstroCatInfo",
+    "date": "2023-03-29",
+    "explanation": "Which star created this bubble? It wasn't the bright star on the bubble's right. And it also wasn't a giant space dolphin. It was the star in the blue nebula's center, a famously energetic Wolf-Rayet star. Wolf-Rayet stars in general have over 20 times the mass of our Sun and expel fast particle winds that can create iconic looking nebulas. In this case, the resulting star bubble spans over 60 light years, is about 70,000 years old, and happens to look like the head of a dolphin.  Named Sh2-308 and dubbed the Dolphin-Head Nebula, the gas ball lies about 5,000 light years away and covers as much sky as the full moon -- although it is much dimmer. The nearby red-tinged clouds on the left of the featured image may owe their glow and shape to energetic light emitted from the same Wolf-Rayet star.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_5688.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sh2-308: A Dolphin Shaped Star Bubble",
+    "url": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg"
   }
 ]
