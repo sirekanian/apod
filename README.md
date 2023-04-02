@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg
+https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2303/Doodad200mmAPOD1024crop.jpg
+https://sirekanian.com/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg
 
-## NGC 4372 and the Dark Doodad
+## NGC 2442: Galaxy in Volans
 
-Copyright: Matias Tomasello
+Copyright: Nicolas Rolland
 
 [![the picture of the day][1]][2]
 
-_Explanation: The delightful Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. The dusty cosmic cloud is seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across the center of this telephoto field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way Galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. The Dark Doodad's well defined silhouette belongs to the Musca molecular cloud, but its better known alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback. The Dark Doodad is around 700 light-years distant and over 30 light-years long._
+_Explanation: Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep colorful image, with spiky foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with the smaller galaxy seen near the top left of the frame. The two interacting galaxies are separated by about 150,000 light-years at the estimated distance of NGC 2442._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2303/Doodad200mmAPOD1024crop.jpg
+[1]: image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg
+[2]: https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
