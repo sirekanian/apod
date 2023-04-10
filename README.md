@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2304/M100_HubbleWfc3_960.jpg
+https://apod.nasa.gov/apod/image/2304/egg_hst_0c1099.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2304/M100_HubbleWfc3_960.jpg
+https://sirekanian.com/apod/image/2304/egg_hst_0c1099.jpg
 
-## M100: A Grand Design Spiral Galaxy
+## The Egg Nebula in Polarized Light
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  It is a large galaxy of over 100 billion stars with well-defined spiral arms that is similar to our own Milky Way Galaxy.  One of the brightest members of the Virgo Cluster of galaxies, M100 (alias NGC 4321) is 56 million light-years distant toward the constellation of Berenice's Hair (Coma Berenices).  This Hubble Space Telescope image of M100 was taken with the Wide Field Camera 3 and accentuates bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Studies of variable stars in M100 have played an important role in determining the size and age of the Universe._
+_Explanation: Where is the center of the Egg Nebula? Emerging from a cosmic egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.  The Egg Nebula is a rapidly evolving pre- planetary nebula spanning about one light year. It lies some 3,000 light-years away toward the northern constellation Cygnus. Thick dust blocks the center star from view, while the dust shells farther out reflect light from this star.  Light vibrating in the plane defined by each dust grain, the central star, and the observer is preferentially reflected, causing an effect known as polarization.  Measuring the orientation of the polarized light for the Egg Nebula gives clues to location of the hidden source.  Taken by Hubble's Advanced Camera for Surveys_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2304/M100_HubbleWfc3_960.jpg
+[1]: image/2304/egg_hst_0c1099.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2304/M100_HubbleWfc3_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2304/egg_hst_0c1099.jpg
 
 [3]: https://github.com/sirekanian/spacetime
