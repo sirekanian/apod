@@ -55,6 +55,7 @@
     "url": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg"
   },
   {
+    "copyright": "Rheinhold Wittich",
     "date": "2023-04-07",
     "explanation": "Brilliant, blue, supergiant star Rigel marks the foot of Orion the Hunter in planet Earth's night. Designated Beta Orionis, it's at the center of this remarkably deep and wide field of view.  Rigel's blue color indicates that it is much hotter than its rival supergiant in Orion the yellowish Betelgeuse (Alpha Orionis), though both stars are massive enough to eventually end their days as core collapse supernovae. Some 860 light-years away, Rigel is hotter than the Sun too and extends to about 74 times the solar radius. That's about the size of the orbit of Mercury. In the 10 degree wide frame toward the nebula rich constellation, the Orion Nebula is at the upper left. To the right of Rigel and illuminated by its brilliant blue starlight lies the dusty Witch Head Nebula. Rigel is part of a multiple star system, though its companion stars are much fainter.",
     "hdurl": "https://apod.nasa.gov/apod/image/2304/Rigel_wide.jpg",
@@ -80,5 +81,15 @@
     "service_version": "v1",
     "title": "The Egg Nebula in Polarized Light",
     "url": "https://apod.nasa.gov/apod/image/2304/egg_hst_0c1099.jpg"
+  },
+  {
+    "copyright": "Daniel Stern",
+    "date": "2023-04-10",
+    "explanation": "To some, it looks like a giant chicken running across the sky. To others, it looks like a gaseous nebula where star formation takes place. Cataloged as IC 2944, the Running Chicken Nebula spans about 100 light years and lies about 6,000 light years away toward the constellation of the Centaur (Centaurus).  The featured image, shown in scientifically assigned colors, was captured recently in a 16-hour exposure over three nights. The star cluster Collinder 249 is visible embedded in the nebula's glowing gas.  Although difficult to discern here, several dark molecular clouds with distinct shapes can be found inside the nebula.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_9006.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 2944: The Running Chicken Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg"
   }
 ]
