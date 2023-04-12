@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg
+https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2304/ChickenRun_Stern_960.jpg
+https://sirekanian.com/apod/image/2304/PolarisIfn_Zayaz_960.jpg
 
-## IC 2944: The Running Chicken Nebula
+## North Star: Polaris and Surrounding Dust
 
-Copyright: Daniel Stern
+Copyright: Javier Zayaz
 
 [![the picture of the day][1]][2]
 
-_Explanation: To some, it looks like a giant chicken running across the sky. To others, it looks like a gaseous nebula where star formation takes place. Cataloged as IC 2944, the Running Chicken Nebula spans about 100 light years and lies about 6,000 light years away toward the constellation of the Centaur (Centaurus).  The featured image, shown in scientifically assigned colors, was captured recently in a 16-hour exposure over three nights. The star cluster Collinder 249 is visible embedded in the nebula's glowing gas.  Although difficult to discern here, several dark molecular clouds with distinct shapes can be found inside the nebula._
+_Explanation: Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the eight-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame as well as the globular star cluster NGC 188 on the far left.  The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Explore Your Universe: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2304/ChickenRun_Stern_960.jpg
+[1]: image/2304/PolarisIfn_Zayaz_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
