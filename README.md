@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg
+https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg
+https://sirekanian.com/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg
 
-## NGC 2419: Intergalactic Wanderer
+## Portrait of NGC 3628
 
-Copyright: (empty)
+Copyright: Mike Selby
 
 [![the picture of the day][1]][2]
 
-_Explanation: Stars of the globular cluster NGC 2419 are packed into this Hubble Space Telescope field of view toward the mostly stealthy constellation Lynx. The two brighter spiky stars near the edge of the frame are within our own galaxy. NGC 2419 itself is remote though, some 300,000 light-years away. In comparison, the Milky Way's satellite galaxy, the Large Magellanic Cloud, is only about 160,000 light-years distant. Roughly similar to other large globular star clusters like Omega Centauri, NGC 2419 is intrinsically bright, but appears faint because it is so far away. Its extreme distance makes it difficult to study and compare its properties with other globular clusters that roam the halo of our Milky Way galaxy. Sometimes called "the Intergalactic Wanderer", NGC 2419 really does seem to have come from beyond the Milky Way. Measurements of the cluster's motion through space suggest it once belonged to the Sagittarius dwarf spheroidal galaxy, another small satellite galaxy being disrupted by repeated encounters with the much larger Milky Way._
+_Explanation: Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby (below), likely a satellite of NGC 3628, and a very faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the left edge of the frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral's disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2304/hubble_ngc2419_potw1908a_1024.jpg
+[1]: image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
