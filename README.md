@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2304/Elves_Binotto_1080.jpg
+https://apod.nasa.gov/apod/image/2304/EclipseMap_nasa_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2304/Elves_Binotto_1080.jpg
+https://sirekanian.com/apod/image/2304/EclipseMap_nasa_1080.jpg
 
-## ELVES Lightning over Italy
+## Map of Total Solar Eclipse Path in 2024 April
 
-Copyright: Valter Binotto
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What's that red ring in the sky? Lightning. The most commonly seen type of lightning involves flashes of bright white light between clouds. Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including red sprites and blue jets. Less well known and harder to photograph is a different type of upper atmospheric lightning known as ELVES. ELVES are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  The red ELVES ring pictured had a radius of about 350 km and was captured in late March about 100 kilometers above Ancona, Italy. Years of experience and ultra-fast photography were used to capture this ELVES -- which lasted only about 0.001 second._
+_Explanation: Would you like to see a total eclipse of the Sun?  If so, do any friends or relatives live near the path of next April's eclipse?  If yes again, then you might want to arrange a well-timed visit. Next April 8, the path of a total solar eclipse will cross North America from western Mexico to eastern Canada, entering the USA in southern Texas and exiting in northern Maine.  All of North America will experience the least a partial solar eclipse.  Featured here is a map of the path of totality.  Many people who have seen a total solar eclipse tell stories about it for the rest of their lives.  As a warmup, an annular solar eclipse will be visible later this year -- in mid-October._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2304/Elves_Binotto_1080.jpg
+[1]: image/2304/EclipseMap_nasa_1080.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2304/Elves_Binotto_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2304/EclipseMap_nasa_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
