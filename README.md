@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/TwilightFlower1024.jpg
+https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/TwilightFlower1024.jpg
+https://sirekanian.com/apod/image/2305/Helix2_CFHT_960.jpg
 
-## Twilight in a Flower
+## The Helix Nebula from CFHT
 
-Copyright: Dario Giannobile
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Transformed into the petals of a flower, 16 exposures show the passage of day into night in this creative timelapse skyscape. Start at the top and move counterclockwise to follow consecutive moments as the twilight sky turns an ever darker blue and night blossoms. Each exposure was recorded on the evening of April 22, calculated to maintain a consistent balance of light and color.  Close to the western horizon on that date, a crescent Moon and Venus are the two brightest celestial beacons. Petal to petal the pair spiral closer to the flower's center. In silhouette around the center of the twilight flower are Sicily's megalithic rocks of Argimusco._
+_Explanation: Will our Sun look like this one day?  The Helix Nebula is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The Helix Nebula, given a technical designation of NGC 7293, lies about 700 light-years away towards the constellation of the Water Bearer (Aquarius) and spans about 2.5 light-years. The featured picture was taken with the Canada-France-Hawaii Telescope (CFHT) located atop a dormant volcano in Hawaii, USA. A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/TwilightFlower1024.jpg
+[1]: image/2305/Helix2_CFHT_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/TwilightFlower1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
