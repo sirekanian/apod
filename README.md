@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/WR134SHO_1024.jpg
+https://apod.nasa.gov/apod/image/2305/m63_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/WR134SHO_1024.jpg
+https://sirekanian.com/apod/image/2305/m63_1024.jpg
 
-## WR 134 Ring Nebula
+## Curly Spiral Galaxy M63
 
-Copyright: Craig Stocks
+Copyright: Sophie Paulin
 
 [![the picture of the day][1]][2]
 
-_Explanation: Made with narrowband filters, this cosmic snapshot covers a field of view about the size of the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized sulfur, hydrogen, and oxygen gas. Embedded in the region's interstellar clouds of gas and dust, the complex, glowing arcs are sections of bubbles or shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 50 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernovae enrich the interstellar material with heavy elements to be incorporated in future generations of stars._
+_Explanation: A bright spiral galaxy of the northern sky, Messier 63 is nearby, about 30 million light-years distant toward the loyal constellation Canes Venatici. Also cataloged as NGC 5055, the majestic island universe is nearly 100,000 light-years across, about the size of our own Milky Way. Its bright core and majestic spiral arms lend the galaxy its popular name, The Sunflower Galaxy. This exceptionally deep exposure also follows faint, arcing star streams far into the galaxy's halo. Extending nearly 180,000 light-years from the galactic center, the star streams are likely remnants of tidally disrupted satellites of M63. Other satellite galaxies of M63 can be spotted in the remarkable wide-field image, including faint dwarf galaxies, which could contribute to M63's star streams in the next few billion years._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/WR134SHO_1024.jpg
+[1]: image/2305/m63_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/WR134SHO_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2305/m63_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
