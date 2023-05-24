@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_960.jpg
+https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/M101Sn_Stocks_after_960.jpg
+https://sirekanian.com/apod/image/2305/JupiterSwirls_JunoGill_960.jpg
 
-## Supernova Discovered in Nearby Spiral Galaxy M101
+## Jupiter's Swirls from Juno
 
-Copyright: Craig Stocks
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: A nearby star has exploded and humanity's telescopes are turning to monitor it.  The supernova, dubbed SN 2023ixf, was discovered by Japanese astronomer Koichi Itagaki three days ago and subsequently located on automated images from the Zwicky Transient Facility two days earlier.  SN 2023ixf occurred in the photogenic Pinwheel Galaxy M101, which, being only about 21 million light years away, makes it the closest supernova seen in the past five years, the second closest in the past 10 years, and the second supernova found in M101 in the past 15 years.  Rapid follow up observations already indicate that SN 2023ixf is a Type II supernova, an explosion that occurs after a massive star runs out of nuclear fuel and collapses.  The featured image shows home spiral galaxy two days ago with the supernova highlighted, while the roll-over image shows the same galaxy a month before. SN 2023ixf will likely brighten and remain visible to telescopes for months.  Studying such a close and young Type II supernova may yield new clues about massive stars and how they explode._
+_Explanation: Big storms are different on Jupiter. On Earth, huge hurricanes and colossal cyclones are centered on regions of low pressure, but on Jupiter, it is the high-pressure, anti-cyclone storms that are the largest. On Earth, large storms can last weeks, but on Jupiter they can last years. On Earth, large storms can be as large as a country, but on Jupiter, large storms can be as large as planet Earth. Both types of storms are known to exhibit lightning. The featured image of Jupiter's clouds was composed from images and data captured by the robotic Juno spacecraft as it swooped close to the massive planet in August 2020.  A swirling white oval is visible nearby, while numerous smaller cloud swirls extend into the distance.  On Jupiter, light-colored clouds are usually higher up than dark clouds. Despite their differences, studying storm clouds on distant Jupiter provides insights into storms and other weather patterns on familiar Earth.     Surf the Universe: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/M101Sn_Stocks_after_960.jpg
+[1]: image/2305/JupiterSwirls_JunoGill_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
