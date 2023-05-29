@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/neptunetriton_voyager_960.jpg
+https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/neptunetriton_voyager_960.jpg
+https://sirekanian.com/apod/image/2305/IdaDactyl_galileo_960.jpg
 
-## Crescent Neptune and Triton
+## Ida and Dactyl: Asteroid and Moon
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Gliding through the outer Solar System, in 1989 the Voyager 2 spacecraft looked toward the Sun to find this view of most distant planet Neptune and its moon Triton together in a crescent phase.  The elegant image of ice-giant planet and largest moon was taken from behind just after Voyager's closest approach. It could not have been taken from Earth because the most distant planet never shows a crescent phase to sunward eyes. Heading for the heliopause and beyond, the spacecraft's parting vantage point also robs Neptune of its familiar blue hue._
+_Explanation: This asteroid has a moon.  The robot spacecraft Galileo on route to Jupiter in 1993 encountered and photographed two asteroids during its long interplanetary voyage.  The second minor planet it photographed, 243 Ida, was unexpectedly discovered to have a moon. The tiny moon, Dactyl, is only about 1.6 kilometers across and seen as a small dot on the right of the sharpened featured image.  In contrast, the potato-shaped Ida is much larger, measuring about 60 kilometers long and 25 km wide.  Dactyl is the first moon of an asteroid ever discovered -- now many asteroids are known to have moons. The names Ida and Dactyl are from Greek mythology._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/neptunetriton_voyager_960.jpg
+[1]: image/2305/IdaDactyl_galileo_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/neptunetriton_voyager_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
