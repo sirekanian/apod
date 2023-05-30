@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg
+https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/IdaDactyl_galileo_960.jpg
+https://sirekanian.com/apod/image/2305/SeaBlueSky_Horalek_960.jpg
 
-## Ida and Dactyl: Asteroid and Moon
+## Milky Way over a Turquoise Wonderland
 
-Copyright: (empty)
+Copyright: Petr HorálekInstitute of Physics in Opava
 
 [![the picture of the day][1]][2]
 
-_Explanation: This asteroid has a moon.  The robot spacecraft Galileo on route to Jupiter in 1993 encountered and photographed two asteroids during its long interplanetary voyage.  The second minor planet it photographed, 243 Ida, was unexpectedly discovered to have a moon. The tiny moon, Dactyl, is only about 1.6 kilometers across and seen as a small dot on the right of the sharpened featured image.  In contrast, the potato-shaped Ida is much larger, measuring about 60 kilometers long and 25 km wide.  Dactyl is the first moon of an asteroid ever discovered -- now many asteroids are known to have moons. The names Ida and Dactyl are from Greek mythology._
+_Explanation: What glows there?  The answer depends: sea or sky? In the sea, the unusual blue glow is bioluminescence. Specifically, the glimmer arises from Noctiluca scintillans, single-celled plankton stimulated by the lapping waves. The plankton use their glow to startle and illuminate predators.  This mid-February display on an island in the Maldives was so intense that the astrophotographer described it as a turquoise wonderland. In the sky, by contrast, are the more familiar glows of stars and nebulas. The white band rising from the artificially-illuminated green plants is created by billions of stars in the central disk of our Milky Way Galaxy.  Also visible in the sky is the star cluster Omega Centauri, toward the left, and the famous Southern Cross asterism in the center. Red-glowing nebulas include the bright Carina Nebula, just right of center, and the expansive Gum Nebula on the upper right._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/IdaDactyl_galileo_960.jpg
+[1]: image/2305/SeaBlueSky_Horalek_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/IdaDactyl_galileo_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
