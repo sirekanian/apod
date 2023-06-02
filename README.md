@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg
+https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2305/M27_Cosgrove_960.jpg
+https://sirekanian.com/apod/image/2306/Chandrafirstlight_0_1024.jpg
 
-## M27: The Dumbbell Nebula
+## Recycling Cassiopeia A
 
-Copyright: Patrick A. Cosgrove
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created._
+_Explanation: Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy's star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2305/M27_Cosgrove_960.jpg
+[1]: image/2306/Chandrafirstlight_0_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
