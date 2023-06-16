@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/YEXuGgRCyS0?rel=0
+https://apod.nasa.gov/apod/image/2306/M15-3_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/IssMoon_Yang_960.jpg
+https://sirekanian.com/apod/image/2306/M15-3_1024.jpg
 
-## Moons Across Jupiter
+## M15: Dense Globular Star Cluster
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Jupiter's moons circle Jupiter. The featured video depicts Europa and Io, two of Jupiter's largest moons, crossing in front of the grand planet's Great Red Spot, the largest known storm system in our Solar System. The video was composed from images taken by the robotic Cassini spacecraft as it passed Jupiter in 2000, on its way to Saturn. The two moons visible are volcanic Io, in the distance, and icy Europa.  In the time-lapse video, Europa appears to overtake Io, which is odd because Io is closer to Jupiter and moves faster. The explanation is that the motion of the fast Cassini spacecraft changes the camera location significantly during imaging.  Jupiter is currently being visited by NASA's robotic Juno spacecraft, while ESA's Jupiter Icy Moons Explorer (JUICE), launched in April, is enroute._
+_Explanation: Messier 15 is an immense swarm of over 100,000 stars. A 13 billion year old relic of the early formative years of our galaxy it's one of about 170 globular star clusters that still roam the halo of the Milky Way. Centered in this sharp reprocessed Hubble image, M15 lies some 35,000 light-years away toward the constellation Pegasus. Its diameter is about 200 light-years, but more than half its stars are packed into the central 10 light-years or so, making one of the densest concentrations of stars known. Hubble-based measurements of the increasing velocities of M15's central stars are evidence that a massive black hole resides at the center of the dense cluster. M15 is also known to harbour a planetary nebula. Called Pease 1 (aka PN Ps 1), it can be seen in this image as a small blue blob below and just right of center._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/IssMoon_Yang_960.jpg
+[1]: image/2306/M15-3_1024.jpg
 
-[2]: https://www.youtube.com/embed/YEXuGgRCyS0?rel=0
+[2]: https://apod.nasa.gov/apod/image/2306/M15-3_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
