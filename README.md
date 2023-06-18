@@ -11,18 +11,18 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image600.jpg
+https://www.youtube.com/embed/zIqG42AD4Gw?rel=0
 
 The thumbnail url will look like this:<br>
 https://sirekanian.com/apod/image/2306/baltic-sea-timelapse-image600.jpg
 
-## Sunset to Sunrise over the Baltic Sea
+## Planet Earth at Night II
 
-Copyright: Bernd Pröschold
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: This serene view from the coast of Sweden looks across the Baltic sea and compresses time, presenting the passage of one night in a single photograph. From sunset to sunrise, moonlight illuminates the creative sea and skyscape. Fleeting clouds, fixed stars, and flowing northern lights leave their traces in planet Earth's sky. To construct the timelapse image, 3296 video frames were recorded on the night of a nearly full moon between 7:04pm and 6:35am local time. As time progresses from left to right, a single column of pixels was taken from the corresponding individual frame and combined in sequence into a single digital image 3296 pixels wide.  Happy Birthday APOD_
+_Explanation: Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet's curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.  Tomorrow's answer: How many sides does northern Saturn have?  < | Archive | Submissions | Index | Search | Calendar | RSS | Education | About APOD | Discuss | >  Authors {{explanation}} editors: Robert Nemiroff (MTU) {{explanation}} Jerry Bonnell (UMCP) NASA Official: Phillip Newman Specific rights apply. NASA Web Privacy Policy and Important Notices A service of: ASD at NASA / GSFC {{explanation}} Michigan Tech. U._
 
 ## Usages
 
@@ -30,6 +30,6 @@ The repository is used by [Spacetime][3] android application.
 
 [1]: image/2306/baltic-sea-timelapse-image600.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2306/baltic-sea-timelapse-image600.jpg
+[2]: https://www.youtube.com/embed/zIqG42AD4Gw?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
