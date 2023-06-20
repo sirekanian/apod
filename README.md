@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/zIqG42AD4Gw?rel=0
+https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/baltic-sea-timelapse-image600.jpg
+https://sirekanian.com/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
 
-## Planet Earth at Night II
+## The Busy Center of the Lagoon Nebula
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Recorded during 2017, timelapse sequences from the International Space Station are compiled in this serene video of planet Earth at Night. Fans of low Earth orbit can start by enjoying the view as green and red aurora borealis slather up the sky. The night scene tracks from northwest to southeast across North America, toward the Gulf of Mexico and the Florida coast. A second sequence follows European city lights, crosses the Mediterranean Sea, and passes over a bright Nile river in northern Africa. Seen from the orbital outpost, erratic flashes of lightning appear in thunder storms below and stars rise above the planet's curved horizon through a faint atmospheric airglow. Of course, from home you can always check out the vital signs of Planet Earth Now.  Tomorrow's answer: How many sides does northern Saturn have?  < | Archive | Submissions | Index | Search | Calendar | RSS | Education | About APOD | Discuss | >  Authors {{explanation}} editors: Robert Nemiroff (MTU) {{explanation}} Jerry Bonnell (UMCP) NASA Official: Phillip Newman Specific rights apply. NASA Web Privacy Policy and Important Notices A service of: ASD at NASA / GSFC {{explanation}} Michigan Tech. U._
+_Explanation: The center of the Lagoon Nebula is a whirlwind of spectacular star formation. Visible near the image center, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  A tremendously bright nearby star, Herschel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 15 light years, combines images taken in four colors by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of the Archer (Sagittarius)._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/baltic-sea-timelapse-image600.jpg
+[1]: image/2306/LagoonCenter_HubblePobes_960.jpg
 
-[2]: https://www.youtube.com/embed/zIqG42AD4Gw?rel=0
+[2]: https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
