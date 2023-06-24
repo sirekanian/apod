@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
+https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
+https://sirekanian.com/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
 
-## The Busy Center of the Lagoon Nebula
+## Giant Galaxies in Pavo
 
-Copyright: (empty)
+Copyright: Mike Selby
 
 [![the picture of the day][1]][2]
 
-_Explanation: The center of the Lagoon Nebula is a whirlwind of spectacular star formation. Visible near the image center, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  A tremendously bright nearby star, Herschel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 15 light years, combines images taken in four colors by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of the Archer (Sagittarius)._
+_Explanation: Over 500,000 light years across, NGC 6872 (top right) is a truly enormous barred spiral galaxy, at least 5 times the size of our own very large Milky Way. The appearance of this giant galaxy's distorted and stretched out spiral arms suggests the magnificent wings of a giant bird. Of course its popular moniker is the Condor galaxy. It lies about 200 million light-years distant toward the southern constellation Pavo, the Peacock. Lined with star-forming regions, the distorted spiral arms are due to NGC 6872's gravitational interaction with the nearby smaller galaxy IC 4970, seen just above the giant galaxy's core. The Pavo galaxy group's dominant giant elliptical galaxy, NGC 6876 is below and left of the soaring Condor galaxy._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/LagoonCenter_HubblePobes_960.jpg
+[1]: image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
