@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
+https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
+https://sirekanian.com/apod/image/2306/PIA24547_fig1_1024.jpg
 
-## Giant Galaxies in Pavo
+## 3D Ingenuity
 
-Copyright: Mike Selby
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Over 500,000 light years across, NGC 6872 (top right) is a truly enormous barred spiral galaxy, at least 5 times the size of our own very large Milky Way. The appearance of this giant galaxy's distorted and stretched out spiral arms suggests the magnificent wings of a giant bird. Of course its popular moniker is the Condor galaxy. It lies about 200 million light-years distant toward the southern constellation Pavo, the Peacock. Lined with star-forming regions, the distorted spiral arms are due to NGC 6872's gravitational interaction with the nearby smaller galaxy IC 4970, seen just above the giant galaxy's core. The Pavo galaxy group's dominant giant elliptical galaxy, NGC 6876 is below and left of the soaring Condor galaxy._
+_Explanation: The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to capture this 3D close-up (get out your red/blue glasses) of the Mars Ingenuity helicopter on mission sol 45. That's Earth-date 2021 April 5. Casting a shadow on the Martian surface, Ingenuity is standing alone on its four landing legs next to the rover's wheel tracks. The experimental helicopter's solar panel, charging batteries that keep it warm through the cold Martian nights and power its flight, sits just above Ingenuity's two 1.2 meter (4 foot) long counter-rotating blades. Thirteen sols later, on April 19, Ingenuity became the first aircraft to perform powered, controlled flight on another planet. It has since gone on to complete more than 50 flights through the thin atmosphere of Mars._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
+[1]: image/2306/PIA24547_fig1_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2306/NGC-6872-LRGB-rev-5-crop-CDK-1000-22-May-2023_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
