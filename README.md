@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg
+https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/PIA24547_fig1_1024.jpg
+https://sirekanian.com/apod/image/2306/LightningCloud_JunoGill_960.jpg
 
-## 3D Ingenuity
+## Lightning on Jupiter
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to capture this 3D close-up (get out your red/blue glasses) of the Mars Ingenuity helicopter on mission sol 45. That's Earth-date 2021 April 5. Casting a shadow on the Martian surface, Ingenuity is standing alone on its four landing legs next to the rover's wheel tracks. The experimental helicopter's solar panel, charging batteries that keep it warm through the cold Martian nights and power its flight, sits just above Ingenuity's two 1.2 meter (4 foot) long counter-rotating blades. Thirteen sols later, on April 19, Ingenuity became the first aircraft to perform powered, controlled flight on another planet. It has since gone on to complete more than 50 flights through the thin atmosphere of Mars._
+_Explanation: Does lightning occur only on Earth?  No.  Spacecraft in our Solar System have detected lightning on other planets, including Mars, Jupiter and Saturn, and lightning is likely on Venus, Uranus, and Neptune.  Lightning is a sudden rush of electrically charged particles from one location to another. On Earth, drafts of colliding ice and water droplets usually create lightning-generating charge separation, but what happens on Jupiter? Images and data from NASA's Jupiter-orbiting Juno spacecraft bolster previous speculation that Jovian lightning is also created in clouds containing water and ice.  In the featured Juno photograph, an optical flash was captured in a large cloud vortex near Jupiter's north pole.  During the next few months, Juno will perform several close sweeps over Jupiter's night side, likely allowing the robotic probe to capture more data and images of Jovian lightning._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/PIA24547_fig1_1024.jpg
+[1]: image/2306/LightningCloud_JunoGill_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
