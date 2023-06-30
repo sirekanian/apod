@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg
+https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2306/LightningCloud_JunoGill_960.jpg
+https://sirekanian.com/apod/image/2306/Gwb_Nanograv_960_annotated.jpg
 
-## Lightning on Jupiter
+## A Message from the Gravitational Universe
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Does lightning occur only on Earth?  No.  Spacecraft in our Solar System have detected lightning on other planets, including Mars, Jupiter and Saturn, and lightning is likely on Venus, Uranus, and Neptune.  Lightning is a sudden rush of electrically charged particles from one location to another. On Earth, drafts of colliding ice and water droplets usually create lightning-generating charge separation, but what happens on Jupiter? Images and data from NASA's Jupiter-orbiting Juno spacecraft bolster previous speculation that Jovian lightning is also created in clouds containing water and ice.  In the featured Juno photograph, an optical flash was captured in a large cloud vortex near Jupiter's north pole.  During the next few months, Juno will perform several close sweeps over Jupiter's night side, likely allowing the robotic probe to capture more data and images of Jovian lightning._
+_Explanation: Monitoring 68 pulsars with very large radio telescopes, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) has uncovered evidence for the gravitational wave (GW) background by carefully measuring slight shifts in the arrival times of pulses.  These shifts are correlated between different pulsars in a way that indicates that they are caused by GWs. This GW background is likely due to hundreds of thousands or even millions of supermassive black hole binaries.  Teams in Europe, Asia and Australia have also independently reported their results today. Previously, the LIGO and Virgo detectors have detected higher-frequency GWs from the merging of individual pairs of massive orbiting objects, such as stellar-mass black holes. The featured illustration highlights this spacetime-shaking result by depicting two orbiting supermassive black holes and several of the pulsars that would appear to have slight timing shifts.  The imprint these GWs make on spacetime itself is illustrated by a distorted grid.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2306/LightningCloud_JunoGill_960.jpg
+[1]: image/2306/Gwb_Nanograv_960_annotated.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg
 
 [3]: https://github.com/sirekanian/spacetime

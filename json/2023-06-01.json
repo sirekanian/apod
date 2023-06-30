@@ -232,5 +232,43 @@
     "service_version": "v1",
     "title": "Lightning on Jupiter",
     "url": "https://apod.nasa.gov/apod/image/2306/LightningCloud_JunoGill_960.jpg"
+  },
+  {
+    "copyright": "\nSoumyadeep Mukherjee\n",
+    "date": "2023-06-26",
+    "explanation": "You've surely seen it, but you might not have noticed it.  During a cloudless twilight, just before sunrise or after sunset, part of the atmosphere above the horizon appears slightly dark and off-color.  Called the Belt of Venus, this transitional band between the dark eclipsed sky and the bright day sky can be seen most prominently in the direction opposite the Sun.  Straight above, blue sky is normal sunlight reflecting off the atmosphere, while near the horizon the clear sky can appear more orange or red.  In the Belt of Venus, the atmosphere reflects more light from the setting (or rising) Sun and so appears more red.  Featured here, the Belt of Venus was photographed over several Himalayan mountains including, second from the right, Mount Everest, the tallest mountain on Earth.  Although usually not mentioned, the belt is frequently caught by accident in other photographs.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_4000_annotated.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Belt of Venus over Mount Everest",
+    "url": "https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_960.jpg"
+  },
+  {
+    "date": "2023-06-27",
+    "explanation": "These two global views of Mars were captured at ultraviolet wavelengths, beyond the spectrum visible to human eyes. Recorded by the MAVEN spacecraft's Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the Red Planet's surface features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's summer season. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind since 2014.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "MAVEN's Ultraviolet Mars",
+    "url": "https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png"
+  },
+  {
+    "copyright": "Emmanuel Astronomono",
+    "date": "2023-06-28",
+    "explanation": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars fill this gorgeous starscape.  Covering over 3 degrees or the width of 6 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near center, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2306/M24_2023grapod.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Messier 24: Sagittarius Star Cloud",
+    "url": "https://apod.nasa.gov/apod/image/2306/M24_2023grapod1024.jpg"
+  },
+  {
+    "date": "2023-06-29",
+    "explanation": "Monitoring 68 pulsars with very large radio telescopes, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) has uncovered evidence for the gravitational wave (GW) background by carefully measuring slight shifts in the arrival times of pulses.  These shifts are correlated between different pulsars in a way that indicates that they are caused by GWs. This GW background is likely due to hundreds of thousands or even millions of supermassive black hole binaries.  Teams in Europe, Asia and Australia have also independently reported their results today. Previously, the LIGO and Virgo detectors have detected higher-frequency GWs from the merging of individual pairs of massive orbiting objects, such as stellar-mass black holes. The featured illustration highlights this spacetime-shaking result by depicting two orbiting supermassive black holes and several of the pulsars that would appear to have slight timing shifts.  The imprint these GWs make on spacetime itself is illustrated by a distorted grid.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library",
+    "hdurl": "https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_3000_annotated.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Message from the Gravitational Universe",
+    "url": "https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg"
   }
 ]
