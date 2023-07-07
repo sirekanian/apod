@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg
+https://apod.nasa.gov/apod/image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2307/VenusUv_akatsuki_1024.jpg
+https://sirekanian.com/apod/image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg
 
-## Venus in Ultraviolet from Akatsuki
+## Fireworks vs Supermoon
 
-Copyright: JAXA
+Copyright: Michael Seeley
 
 [![the picture of the day][1]][2]
 
-_Explanation: Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki's instruments investigated unknowns about Earth's sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet's rotation speed. In the featured image taken by Akatsuki's UVI camera, the day-side of Venus is seen shown with planet-scale V-shaped cloud pattern. The image displays three ultraviolet colors and indicates a dip in the relative abundance of sulfur dioxide shown in faint blue.  Analyses of Akatsuki images and data has shown, among other discoveries, that Venus has equatorial jet similar to Earth's jet stream._
+_Explanation: On July 4, an almost Full Moon rose in planet Earth's evening skies. Also known as a Buck Moon, the full lunar phase (full on July 3 at 11:39 UTC) was near perigee, the closest point in the Moon's almost monthly orbit around planet Earth. That qualified this July's Full Moon as a supermoon, the first of four supermoons in 2023. Seen from Cocoa Beach along Florida's Space Coast on July 4, any big, bright, beautiful Full Moon would still have to compete for attention though. July's super-moonrise was captured here against a super-colorful fireworks display._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2307/VenusUv_akatsuki_1024.jpg
+[1]: image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2307/VenusUv_akatsuki_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2307/CocoaBeach_BuckMoon_Seeley-201_1100.jpg
 
 [3]: https://github.com/sirekanian/spacetime
