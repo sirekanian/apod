@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2307/PSP_007769_9010_IRB_Stickney1024.jpg
+https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2307/PSP_007769_9010_IRB_Stickney1024.jpg
+https://sirekanian.com/apod/image/2307/SpottedSun_Sanli_960.jpg
 
-## Stickney Crater
+## Sunspots on an Active Sun
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so large that the impact that blasted out the crater likely came close to shattering the tiny moon. This enhanced-color image of Stickney and surroundings was recorded by the HiRISE camera onboard the Mars Reconnaissance Orbiter as it passed within some six thousand kilometers of Phobos in March of 2008. Even though the surface gravity of asteroid-like Phobos is less than 1/1000th Earth's gravity, streaks suggest loose material slid down inside the crater walls over time. Light bluish regions near the crater's rim could indicate a relatively freshly exposed surface. The origin of the curious grooves along the surface is mysterious but may be related to tidal stresses experienced by close-orbiting Phobos or the crater-forming impact itself._
+_Explanation: Why is our Sun so active now? No one is sure.  An increase in surface activity was expected because our Sun is approaching solar maximum in 2025. However, last month our Sun sprouted more sunspots than in any month during the entire previous 11-year solar cycle -- and even dating back to 2002. The featured picture is a composite of images taken every day from January to June by NASA's Solar Dynamic Observatory.  Showing a high abundance of sunspots, large individual spots can be tracked across the Sun's disk, left to right, over about two weeks.  As a solar cycle continues, sunspots typically appear closer to the equator.  Sunspots are just one way that our Sun displays surface activity -- another is flares and coronal mass ejections (CMEs) that expel particles out into the Solar System. Since these particles can affect astronauts and electronics, tracking surface disturbances is of more than aesthetic value.  Conversely, solar activity can have very high aesthetic value -- in the Earth's atmosphere when they trigger aurora._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2307/PSP_007769_9010_IRB_Stickney1024.jpg
+[1]: image/2307/SpottedSun_Sanli_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2307/PSP_007769_9010_IRB_Stickney1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
