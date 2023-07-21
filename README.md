@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg
+https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2307/CwLeo_Hubble_960.jpg
+https://sirekanian.com/apod/image/2307/M64Hubble1024.jpg
 
-## Shells and Arcs around Star CW Leonis
+## M64: The Black Eye Galaxy Close Up
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What's happening around this star? No one is sure. CW Leonis is the closest carbon star, a star that appears orange because of atmospheric carbon dispersed from interior nuclear fusion. But CW Leonis also appears engulfed in a gaseous carbon-rich nebula. What causes the nebula's complexity is unknown, but its geometry of shells and arcs are surely intriguing. The featured image by the Hubble Space Telescope details this complexity. The low surface gravity of carbon stars enhances their ability to expel carbon and carbon compounds into space. Some of this carbon ends up forming dark dust that is commonly seen in the nebulas of young star-forming regions and the disks of galaxies.  Humans and all Earth-based life are carbon-based, and at least some of our carbon was likely once circulating in the atmospheres of near-death stars like carbon stars._
+_Explanation: This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral's central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64's central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy's only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy's central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2307/CwLeo_Hubble_960.jpg
+[1]: image/2307/M64Hubble1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
