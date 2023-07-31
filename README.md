@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2307/AS11-40-5872HR1024.jpg
+https://apod.nasa.gov/apod/image/2307/AuroraPingvllir_Casado_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2307/AS11-40-5872HR1024.jpg
+https://sirekanian.com/apod/image/2307/AuroraPingvllir_Casado_960.jpg
 
-## Apollo 11: Catching Some Sun
+## Spiral Aurora over Icelandic Divide
 
-Copyright: (empty)
+Copyright: Juan Carlos Casado
 
 [![the picture of the day][1]][2]
 
-_Explanation: Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken fifty-four years ago, July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories._
+_Explanation: Admire the beauty but fear the beast. The beauty is the aurora overhead, here taking the form of a great green spiral, seen between picturesque clouds with the bright Moon to the side and stars in the background.  The beast is the wave of charged particles that creates the aurora but might, one day, impair civilization.  In 1859, following notable auroras seen all across the globe, a pulse of charged particles from a coronal mass ejection (CME) associated with a solar flare impacted Earth's magnetosphere so forcefully that it created the Carrington Event. This assault from the Sun compressed the Earth's magnetic field so violently that it created high currents and sparks along telegraph wires, shocking many telegraph operators.  Were a Carrington-class event to impact the Earth today, speculation holds that damage might occur to global power grids and electronics on a scale never yet experienced.  The featured aurora was imaged in 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth's large Eurasian and North American tectonic plates.   Almost Hyperspace: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2307/AS11-40-5872HR1024.jpg
+[1]: image/2307/AuroraPingvllir_Casado_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2307/AS11-40-5872HR1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2307/AuroraPingvllir_Casado_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
