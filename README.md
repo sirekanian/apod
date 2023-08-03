@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2307/AuroraPingvllir_Casado_960.jpg
+https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2307/AuroraPingvllir_Casado_960.jpg
+https://sirekanian.com/apod/image/2308/M82_HubblePathak_1080.jpg
 
-## Spiral Aurora over Icelandic Divide
+## M82: Galaxy with a Supergalactic Wind
 
-Copyright: Juan Carlos Casado
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Admire the beauty but fear the beast. The beauty is the aurora overhead, here taking the form of a great green spiral, seen between picturesque clouds with the bright Moon to the side and stars in the background.  The beast is the wave of charged particles that creates the aurora but might, one day, impair civilization.  In 1859, following notable auroras seen all across the globe, a pulse of charged particles from a coronal mass ejection (CME) associated with a solar flare impacted Earth's magnetosphere so forcefully that it created the Carrington Event. This assault from the Sun compressed the Earth's magnetic field so violently that it created high currents and sparks along telegraph wires, shocking many telegraph operators.  Were a Carrington-class event to impact the Earth today, speculation holds that damage might occur to global power grids and electronics on a scale never yet experienced.  The featured aurora was imaged in 2016 over Thingvallavatn Lake in Iceland, a lake that partly fills a fault that divides Earth's large Eurasian and North American tectonic plates.   Almost Hyperspace: Random APOD Generator_
+_Explanation: Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic highlights a specific color of red light strongly emitted by ionized hydrogen gas, showing detailed filaments of this gas and dust.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, French, German, Hebrew, Indonesian, Japanese, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2307/AuroraPingvllir_Casado_960.jpg
+[1]: image/2308/M82_HubblePathak_1080.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2307/AuroraPingvllir_Casado_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
