@@ -56,5 +56,44 @@
     "service_version": "v1",
     "title": "SN 1006: A Supernova Ribbon from Hubble",
     "url": "https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg"
+  },
+  {
+    "copyright": "\nAbe Jones\n",
+    "date": "2023-08-07",
+    "explanation": "The Pelican Nebula is slowly being transformed.  IC 5070 (the official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The featured picture was produced in three specific colors -- light emitted by sulfur, hydrogen, and oxygen --  that can help us to better understand these interactions.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2308/LDN935_Jones_1840.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pelican Nebula in Gas, Dust, and Stars",
+    "url": "https://apod.nasa.gov/apod/image/2308/LDN935_Jones_960.jpg"
+  },
+  {
+    "copyright": "\nJordi L. Coy\n",
+    "date": "2023-08-08",
+    "explanation": "What's that below the Moon? Jupiter -- and its largest moons.  Many skygazers across planet Earth enjoyed the close conjunction of Earth's Moon passing nearly in front of Jupiter in mid-June. The featured image is a single exposure of the event taken from Morón de la Frontera, Spain. The sunlit lunar crescent on the left is overexposed, while the Moon's night side, on the right, is only faintly illuminated by Earthshine. Lined up diagonally below the Moon, left to right, are Jupiter's bright Galilean satellites: Callisto, Ganymede, Io (hard to see as it is very near to Jupiter), and Europa.  In fact, Callisto, Ganymede, and Io are larger than Earth's Moon, while Europa is only slightly smaller. NASA's robotic spacecraft Juno is currently orbiting Jupiter and made a close pass near Io only a week ago.  If you look up in the night sky tonight, you will again see two of the brightest objects angularly close together -- because tonight is another Moon-Jupiter conjunction.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2308/MoonsJupiter_Coy_2630.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon Meets Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/2308/MoonsJupiter_Coy_960.jpg"
+  },
+  {
+    "copyright": "\nPetr Horálek /\nInstitute of Physics in Opava\n",
+    "date": "2023-08-09",
+    "explanation": "This is a good week to see meteors.  Comet dust will rain down on planet Earth, streaking through dark skies during peak nights of the annual Perseid Meteor Shower.  The featured composite image was taken during the 2018 Perseids from the Poloniny Dark Sky Park in Slovakia.  The dome of the observatory in the foreground is on the grounds of Kolonica Observatory. Although the comet dust particles travel parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky in the eponymous constellation Perseus.  The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance, like train tracks.  The Perseid Meteor Shower is expected to reach its highest peak on Saturday after midnight.  Since a crescent Moon will rise only very late that night, cloudless skies will be darker than usual, making a high number of faint meteors potentially visible this year.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2308/Perseids18_Horalek_1494.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Meteor Shower: Perseids from Perseus",
+    "url": "https://apod.nasa.gov/apod/image/2308/Perseids18_Horalek_960.jpg"
+  },
+  {
+    "date": "2023-08-10",
+    "explanation": "On mission sol 872 (Earth date August 3) Ingenuity snapped this sharp image on its 54th flight above the surface of the Red Planet. During the flight the Mars Helicopter hovered about 5 meters, or just over 16 feet, above the Jezero crater floor. Tips of Ingenuity's landing legs peek over the left and right edges in the camera's field of view. Tracks visible near the upper right corner lead to the Perseverance Mars Rover, seen looking on from a distance at the top right edge of the frame. Planned as a brief \"pop-up\" flight, Ingenuity's 54th flight lasted less than 25 seconds. It followed Ingenuity's 53rd flight made on July 22 that resulted in an unscheduled landing.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Five Meters over Mars",
+    "url": "https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg"
   }
 ]

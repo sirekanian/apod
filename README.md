@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg
+https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2308/SN1006_Hubble_960.jpg
+https://sirekanian.com/apod/image/2308/PIA25969_Ingenuity1024.jpg
 
-## SN 1006: A Supernova Ribbon from Hubble
+## Five Meters over Mars
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What created this unusual space ribbon?  The answer: one of the most violent explosions ever witnessed by ancient humans. Back in the year 1006 AD, light reached Earth from a stellar explosion in the constellation of the Wolf (Lupus), creating a "guest star" in the sky that appeared brighter than Venus and lasted for over two years. The supernova, now cataloged at SN 1006, occurred about 7,000 light years away and has left a large remnant that continues to expand and fade today.  Pictured here is a small part of that expanding supernova remnant dominated by a thin and outwardly moving shock front that heats and ionizes surrounding ambient gas. The supernova remnant SN 1006 now has a diameter of nearly 60 light years._
+_Explanation: On mission sol 872 (Earth date August 3) Ingenuity snapped this sharp image on its 54th flight above the surface of the Red Planet. During the flight the Mars Helicopter hovered about 5 meters, or just over 16 feet, above the Jezero crater floor. Tips of Ingenuity's landing legs peek over the left and right edges in the camera's field of view. Tracks visible near the upper right corner lead to the Perseverance Mars Rover, seen looking on from a distance at the top right edge of the frame. Planned as a brief "pop-up" flight, Ingenuity's 54th flight lasted less than 25 seconds. It followed Ingenuity's 53rd flight made on July 22 that resulted in an unscheduled landing._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2308/SN1006_Hubble_960.jpg
+[1]: image/2308/PIA25969_Ingenuity1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2308/SN1006_Hubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
