@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2308/MSH11080.jpg
+https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2308/MSH11080.jpg
+https://sirekanian.com/apod/image/2308/SeasonSaturnapodacasely1024.jpg
 
-## Meteors along the Milky Way
+## A Season of Saturn
 
-Copyright: Under dark
+Copyright: Andy Casely
 
 [![the picture of the day][1]][2]
 
-_Explanation: Under dark and mostly moonless night skies, many denizens of planet Earth were able to watch this year's Perseid meteor shower. Seen from a grassy hillside from Shiraz, Iran these Perseid meteors streak along the northern summer Milky Way before dawn on Sunday, August 13. Frames used to construct the composited image were captured near the active annual meteor shower's peak between 02:00 AM and 04:30 AM local time. Not in this night skyscape, the shower's radiant in the heroic constellation Perseus is far above the camera's field of view. But fans of northern summer nights can still spot a familiar asterism. Formed by bright stars Deneb, Vega, and Altair, the Summer Triangle spans the luminous band of the Milky Way._
+_Explanation: Ringed planet Saturn will be at its 2023 opposition, opposite the Sun in Earth's skies, on August 27. While that puts the sixth planet from the Sun at its brightest and well-placed for viewing, its beautiful ring system isn't visible to the unaided eye. Still, this sequence of telescopic images taken a year apart over the last six years follows both Saturn and rings as seen from inner planet Earth. The gas giant's ring plane tilts from most open in 2018 to approaching edge-on in 2023 (top to bottom). That's summer to nearly the autumn equinox for Saturn's northern hemisphere. In the sharp planetary portraits Saturn's northern hexagon and a large storm system are clearly visible in 2018. In 2023 ice moon Tethys is transiting, casting its shadow across southern hemisphere cloud bands while Saturn's cold blue south pole is emerging from almost a decade of winter darkness._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2308/MSH11080.jpg
+[1]: image/2308/SeasonSaturnapodacasely1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2308/MSH11080.jpg
+[2]: https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
