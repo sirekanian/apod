@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely1024.jpg
+https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2308/SeasonSaturnapodacasely1024.jpg
+https://sirekanian.com/apod/image/2308/fasidivenere.jpg
 
-## A Season of Saturn
+## Crescents of Venus
 
-Copyright: Andy Casely
+Copyright: Roberto Ortu
 
 [![the picture of the day][1]][2]
 
-_Explanation: Ringed planet Saturn will be at its 2023 opposition, opposite the Sun in Earth's skies, on August 27. While that puts the sixth planet from the Sun at its brightest and well-placed for viewing, its beautiful ring system isn't visible to the unaided eye. Still, this sequence of telescopic images taken a year apart over the last six years follows both Saturn and rings as seen from inner planet Earth. The gas giant's ring plane tilts from most open in 2018 to approaching edge-on in 2023 (top to bottom). That's summer to nearly the autumn equinox for Saturn's northern hemisphere. In the sharp planetary portraits Saturn's northern hexagon and a large storm system are clearly visible in 2018. In 2023 ice moon Tethys is transiting, casting its shadow across southern hemisphere cloud bands while Saturn's cold blue south pole is emerging from almost a decade of winter darkness._
+_Explanation: Just as the Moon goes through phases, Venus' visible sunlit hemisphere waxes and wanes. This sequence of telescopic images illustrates the steady changes for Venus during its recent 2023 apparition as our evening star. Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth. Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun. Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental) inferior conjunction. And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth's morning star. On August 21, NASA's Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its closest approach yet to the Sun._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2308/SeasonSaturnapodacasely1024.jpg
+[1]: image/2308/fasidivenere.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2308/SeasonSaturnapodacasely1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg
 
 [3]: https://github.com/sirekanian/spacetime
