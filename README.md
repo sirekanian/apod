@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg
+https://apod.nasa.gov/apod/image/2308/M66_JwstTomlinson_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2308/fasidivenere.jpg
+https://sirekanian.com/apod/image/2308/M66_JwstTomlinson_1080.jpg
 
-## Crescents of Venus
+## Unusual Spiral Galaxy M66 from Webb
 
-Copyright: Roberto Ortu
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Just as the Moon goes through phases, Venus' visible sunlit hemisphere waxes and wanes. This sequence of telescopic images illustrates the steady changes for Venus during its recent 2023 apparition as our evening star. Gliding along its interior orbit between Earth and Sun, Venus grows larger during that period because it is approaching planet Earth. Its crescent narrows though, as the inner planet swings closer to our line-of-sight to the Sun. Closest to the Earth-Sun line but passing about 8 degrees south of the Sun, on August 13 Venus reached its (non-judgmental) inferior conjunction. And now Venus shines above the eastern horizon in predawn skies, completing its transition to planet Earth's morning star. On August 21, NASA's Parker Solar Probe completed its sixth gravity assist flyby of Venus, using the encounter to maneuver the probe toward its closest approach yet to the Sun._
+_Explanation: Why isn't spiral galaxy M66 symmetric?  Usually, density waves of gas, dust, and newly formed stars circle a spiral galaxy's center and create a nearly symmetric galaxy.  The differences between M66's spiral arms and the apparent displacement of its nucleus are all likely caused by previous close interactions and the tidal gravitational pulls of nearby galaxy neighbors M65 and NGC 3628. The galaxy, featured here in infrared light taken by the James Webb Space Telescope, spans about 100,000 light years, lies about 35 million light years distant, and is the largest galaxy in a group known as the Leo Triplet.  Like many spiral galaxies, the long and intricate dust lanes of M66 are seen intertwined with the bright stars and intergalactic dust that follow the spiral arms._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2308/fasidivenere.jpg
+[1]: image/2308/M66_JwstTomlinson_1080.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2308/fasidivenere.jpg
+[2]: https://apod.nasa.gov/apod/image/2308/M66_JwstTomlinson_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
