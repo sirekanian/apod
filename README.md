@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2308/GianniTumino_SturgeonMoon_Palette_JPG_LOGO_1024.jpg
+https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2308/GianniTumino_SturgeonMoon_Palette_JPG_LOGO_1024.jpg
+https://sirekanian.com/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg
 
-## Full Moons of August
+## The Great Globular Cluster in Hercules
 
-Copyright: Gianni Tumino
+Copyright: Serge Brunier, Jean-François Bax, David Vernet
 
 [![the picture of the day][1]][2]
 
-_Explanation: Near perigee, the closest point in its almost moonthly orbit, a Full Moon rose as the Sun set on August 1. Its brighter than average lunar disk was captured in this dramatic moonrise sequence over dense cloud banks along the eastern horizon from Ragusa, Sicily. Illuminating night skies around planet Earth it was the second supermoon of 2023. Yet again near perigee, the third supermoon of 2023 will also shine on an August night. Rising as the Sun sets tonight this second Full Moon in August will be known to some as a Blue Moon, even though scattered sunlight gives the lunar disk a reddened hue. Defined as the second full moon in a calendar month, blue moons occur only once every 2 or 3 years. That's because lunar phases take 29.5 days, almost a calendar month, to go through a complete cycle. Tonight an August Blue Moon will find itself beside bright planet Saturn._
+_Explanation: In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The remarkable range of brightness recorded in this image follows stars into the dense cluster core._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2308/GianniTumino_SturgeonMoon_Palette_JPG_LOGO_1024.jpg
+[1]: image/2309/M13-totale-en-cours-crop8_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2308/GianniTumino_SturgeonMoon_Palette_JPG_LOGO_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
