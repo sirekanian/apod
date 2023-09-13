@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg
+https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg
+https://sirekanian.com/apod/image/2309/STSCI-HST-abell370_1024.jpg
 
-## Star Factory Messier 17
+## Galaxy Cluster Abell 370 and Beyond
 
-Copyright: Kim Quick
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1/3 degree wide field of view spans over 30 light-years. The sharp composite, color image highlights faint details of the region's gas and dust clouds against a backdrop of central Milky Way stars. Stellar winds and energetic light from hot, massive stars formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the cavernous appearance and undulating shapes. M17 is also known as the Omega Nebula or the Swan Nebula._
+_Explanation: Some 4 billion light-years away, massive galaxy cluster Abell 370 is captured in this sharp Hubble Space Telescope snapshot. The cluster of galaxies only appears to be dominated by two giant elliptical galaxies and infested with faint arcs. In reality, the fainter, scattered bluish arcs, along with the dramatic dragon arc below and left of center, are images of galaxies that lie far beyond Abell 370. About twice as distant, their otherwise undetected light is magnified and distorted by the cluster's enormous gravitational mass, overwhelmingly dominated by unseen dark matter. Providing a tantalizing glimpse of galaxies in the early universe, the effect is known as gravitational lensing. A consequence of warped spacetime, lensing was predicted by Einstein almost a century ago. Far beyond the spiky foreground Milky Way star at lower right, Abell 370 is seen toward the constellation Cetus, the Sea Monster. It was the last of six galaxy clusters imaged in the Frontier Fields project._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg
+[1]: image/2309/STSCI-HST-abell370_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
