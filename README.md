@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg
+https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2309/LRGBHa23_n7331r_800c.jpg
+https://sirekanian.com/apod/image/2309/_DSC7280-1s_1024.jpg
 
-## NGC 7331 and Beyond
+## Fireball over Iceland
 
-Copyright: Ian Gorenstein
+Copyright: Jennifer Franklin
 
 [![the picture of the day][1]][2]
 
-_Explanation: Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in images that evokes a strong sense of depth. The effect is further enhanced in this sharp image by galaxies that lie beyond the gorgeous island universe. The most prominent background galaxies are about one tenth the apparent size of NGC 7331 and so lie roughly ten times farther away. Their close alignment on the sky with NGC 7331 occurs just by chance. Lingering above the plane of the Milky Way, this striking visual grouping of galaxies is known to some as the Deer Lick Group._
+_Explanation: On September 12, from a location just south of the Arctic Circle, stones of Iceland's modern Arctic Henge point skyward in this startling scene. Entertaining an intrepid group of aurora hunters during a geomagnetic storm, alluring northern lights dance across the darkened sky when a stunning fireball meteor explodes. Awestruck, the camera-equipped skygazers captured video and still images of the boreal bolide, at its peak about as bright as a full moon. Though quickly fading from view, the fireball left a lingering visible trail or persistent train. The wraith-like trail was seen for minutes wafting in the upper atmosphere at altitudes of 60 to 90 kilometers along with the auroral glow._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2309/LRGBHa23_n7331r_800c.jpg
+[1]: image/2309/_DSC7280-1s_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg
+[2]: https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
