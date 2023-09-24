@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2309/CosmosinReflectionTrails.jpg
+https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2309/CosmosinReflectionTrails.jpg
+https://sirekanian.com/apod/image/2309/4pm-analemma-nz_1024.jpg
 
-## Cosmos in Reflection
+## Afternoon Analemma
 
-Copyright: Jeff Dai
+Copyright: Ian Griffin
 
 [![the picture of the day][1]][2]
 
-_Explanation: During the day, over 12,000 large mirrors reflect sunlight at the 100-megawatt, molten-salt, solar thermal power plant at the western edge of the Gobi desert near Dunhuang, Gansu Province, China. Individual mirror panels turn to track the sun like sunflowers. They conspire to act as a single super mirror reflecting the sunlight toward a fixed position, the power station's central tower. During the night the mirrors stand motionless though. They reflect the light of the countless distant stars, clusters and nebulae of the Milky Way and beyond. This sci-fi night skyscape was created with a camera fixed to a tripod near the edge of the giant mirror matrix on September 15. The camera's combined sequence of digital exposures captures concentric arcs of celestial star trails through the night with star trails in surreal mirrored reflection._
+_Explanation: An analemma is that figure-8 curve you get when you mark the position of the Sun at the same time each day for one year. To make this one, a 4x5 pinhole camera was set up looking north in southern New Zealand skies. The shutter was briefly opened each clear day in the afternoon at 4pm local time exposing the same photosensitized glass plate for the year spanning September 23, 2022 to September 19, 2023. On two days, the winter and summer solstices, the shutter was opened again 15 minutes after the main exposure and remained open until sunset to create the sun trails at the bottom and top of the curve. The equinox dates correspond to positions in the middle of the curve, not the crossover point. Of course, the curve itself is inverted compared to an analemma traced from the northern hemisphere. And while fall begins today at the Autumnal Equinox for the northern hemisphere, it's the Spring Equinox in the south._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2309/CosmosinReflectionTrails.jpg
+[1]: image/2309/4pm-analemma-nz_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2309/CosmosinReflectionTrails.jpg
+[2]: https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
