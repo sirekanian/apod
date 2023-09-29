@@ -238,5 +238,35 @@
     "service_version": "v1",
     "title": "Arp 142: The Hummingbird Galaxy",
     "url": "https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg"
+  },
+  {
+    "copyright": "\nAntoine & Dalia Grelin\n",
+    "date": "2023-09-26",
+    "explanation": "Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars above and to the right of the image center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2309/BlueHorse_Grelin_9342.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 4592: The Blue Horsehead Reflection Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2309/BlueHorse_Grelin_1080.jpg"
+  },
+  {
+    "copyright": "\nTheresa Clarke\n",
+    "date": "2023-09-27",
+    "explanation": "Not every road ends in a STEVE. A week ago, a sky enthusiast's journey began with a goal: to photograph an aurora over Lake Huron. Driving through rural Ontario, Canada, the forecasted sky show started unexpectedly early, causing the photographer to stop before arriving at the scenic Great Lake. Aurora images were taken toward the north -- but over land, not sea. While waiting for a second round of auroras, a peculiar band of light was noticed to the west.  Slowly, the photographer and friends realized that this western band was likely an unusual type of aurora: a Strong Thermal Emission Velocity Enhancement (STEVE). Moreover, this STEVE was putting on quite a show: appearing intertwined with the central band of our Milky Way Galaxy while intersecting the horizon just near the end of the country road. After capturing this cosmic X on camera, the photographer paused to appreciate the unexpected awesomeness of finding extraordinary beauty in an ordinary setting.     Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)",
+    "hdurl": "https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_4177.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "STEVE and Milky Way Cross over Rural Road",
+    "url": "https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_960.jpg"
+  },
+  {
+    "copyright": "Josep Drudis",
+    "date": "2023-09-28",
+    "explanation": "Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. It makes for a popular stop on telescopic tours of the constellation Sagittarius toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this deep telescopic view of the Lagoon's central reaches is about 40 light-years across. The bright hourglass shape near the center of the frame is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2309/M8-Mos-SL10-DCPrgb-st-154-cC-cr.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Deep Lagoon",
+    "url": "https://apod.nasa.gov/apod/image/2309/M8-Mos-SL10-DCPrgb-st-154-cC-cr1024.jpg"
   }
 ]
