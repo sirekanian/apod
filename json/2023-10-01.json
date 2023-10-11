@@ -67,5 +67,34 @@
     "service_version": "v1",
     "title": "The Once and Future Stars of Andromeda",
     "url": "https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg"
+  },
+  {
+    "copyright": "\nDoyle and Shannon Slifer\n",
+    "date": "2023-10-08",
+    "explanation": "What's that in front of the Sun?  The closest object is an airplane, visible just below the Sun's center and caught purely by chance.  Next out are numerous clouds in Earth's atmosphere, creating a series of darkened horizontal streaks. Farther out is Earth's Moon, seen as the large dark circular bite on the upper right. Just above the airplane and just below the Sun's surface are sunspots. The main sunspot group captured here, AR 2192, was in 2014 one of the largest ever recorded and had been crackling and bursting with flares since it came around the edge of the Sun a week before. This show of solar silhouettes was unfortunately short-lived.  Within a few seconds the plane flew away. Within a few minutes the clouds drifted off. Within a few hours the partial solar eclipse of the Sun by the Moon was over. Fortunately, when it comes to the Sun, even unexpected  alignments are surprisingly frequent. Perhaps one will be imaged this Saturday when a new partial solar eclipse will be visible from much of North and South America.    APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/PlaneEclipse_Slifer_1756.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Plane, Clouds, Moon, Spots, Sun",
+    "url": "https://apod.nasa.gov/apod/image/2310/PlaneEclipse_Slifer_960.jpg"
+  },
+  {
+    "copyright": "\nElias Chasiotis\n",
+    "date": "2023-10-09",
+    "explanation": "Yes, but have you ever seen a sunrise like this?  Here, after initial cloudiness, the Sun appeared to rise in two pieces and during a partial eclipse in 2019, causing the photographer to describe it as the most stunning sunrise of his life.  The dark circle near the top of the atmospherically-reddened Sun is the Moon -- but so is the dark peak just below it.  This is because along the way, the Earth's atmosphere had a layer of unusually warm air over the sea which acted like a gigantic lens and created a second image.  For a normal sunrise or sunset, this rare phenomenon of atmospheric optics is known as the Etruscan vase effect. The featured picture was captured in December 2019 from Al Wakrah, Qatar.  Some observers in a narrow band of Earth to the east were able to see a full annular solar eclipse -- where the Moon appears completely surrounded by the background Sun in a ring of fire.  The next solar eclipse, also an annular eclipse for well-placed observers, will occur this coming Saturday.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/DistortedSunrise_Chasiotis_2442.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Distorted Sunrise Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/2310/DistortedSunrise_Chasiotis_1080.jpg"
+  },
+  {
+    "date": "2023-10-10",
+    "explanation": "The Great Nebula in Orion has hidden stars.   To the unaided eye in visible light, it appears as a small fuzzy patch in the constellation of Orion. But this image was taken by the Webb Space Telescope in a representative-color composite of red and very near infrared light.  It confirms with impressive detail that the  Orion Nebula is a busy neighborhood of young stars, hot gas, and dark dust.  The rollover image shows the same image in representative colors further into the near infrared. The power behind much of the Orion Nebula (M42) is the Trapezium - a cluster of bright stars near the nebula's center.  The diffuse and filamentary glow surrounding the bright stars is mostly heated interstellar dust.  Detailed inspection of these images shows an unexpectedly large number of Jupiter-Mass Binary Objects (JuMBOs), pairs of Jupiter-mass objects which might give a clue to how stars are forming.  The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next few million years.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_2048.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hidden Orion from Webb",
+    "url": "https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_960.jpg"
   }
 ]

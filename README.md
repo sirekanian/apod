@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg
+https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg
+https://sirekanian.com/apod/image/2310/OrionNircShort_Webb_960.jpg
 
-## The Once and Future Stars of Andromeda
+## Hidden Orion from Webb
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: This picture of Andromeda shows not only where stars are now, but where stars will be. The big, beautiful Andromeda Galaxy, M31, is a spiral galaxy a mere 2.5 million light-years away.  Image data from space-based and ground-based observatories have been combined here to produce this intriguing composite view of Andromeda at wavelengths both inside and outside normally visible light. The visible light shows where M31's stars are now, highlighted in white and blue hues and imaged by the Hubble, Subaru, and Mayall telescopes.  The infrared light shows where M31's future stars will soon form, highlighted in orange hues and imaged by NASA's Spitzer Space Telescope.  The infrared light tracks enormous lanes of dust, warmed by stars, sweeping along Andromeda's spiral arms.  This dust is a tracer of the galaxy's vast interstellar gas, raw material for future star formation.  Of course, the new stars will likely form over the next hundred million years or so. That's well before Andromeda merges with our Milky Way Galaxy in about 5 billion years._
+_Explanation: The Great Nebula in Orion has hidden stars.   To the unaided eye in visible light, it appears as a small fuzzy patch in the constellation of Orion. But this image was taken by the Webb Space Telescope in a representative-color composite of red and very near infrared light.  It confirms with impressive detail that the  Orion Nebula is a busy neighborhood of young stars, hot gas, and dark dust.  The rollover image shows the same image in representative colors further into the near infrared. The power behind much of the Orion Nebula (M42) is the Trapezium - a cluster of bright stars near the nebula's center.  The diffuse and filamentary glow surrounding the bright stars is mostly heated interstellar dust.  Detailed inspection of these images shows an unexpectedly large number of Jupiter-Mass Binary Objects (JuMBOs), pairs of Jupiter-mass objects which might give a clue to how stars are forming.  The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next few million years.   APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2310/M31_HubbleSpitzerGendler_960.jpg
+[1]: image/2310/OrionNircShort_Webb_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2310/M31_HubbleSpitzerGendler_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
