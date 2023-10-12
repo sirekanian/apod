@@ -53,11 +53,11 @@
     "copyright": "Carnegie Institution for Science",
     "date": "2023-10-06",
     "explanation": "How big is our universe? This question, among others, was debated by two leading astronomers in 1920 in what has since become known as astronomy's Great Debate.  Many astronomers then believed that our Milky Way Galaxy was the entire universe.  Many others, though, believed that our galaxy was just one of many.  In the Great Debate, each argument was detailed, but no consensus was reached.  The answer came over three years later with the detected variation of single spot in the Andromeda Nebula, as shown on the original glass discovery plate digitally reproduced here. When Edwin Hubble compared images, he noticed that this spot varied, and on October 6, 1923 wrote \"VAR!\" on the plate.  The best explanation, Hubble knew, was that this spot was the image of a variable star that was very far away. So M31 was really the Andromeda Galaxy -- a galaxy possibly similar to our own.  Annotated 100 years ago, the featured image may not be pretty, but the variable spot on it opened a window through which humanity gazed knowingly, for the first time, into a surprisingly vast cosmos.",
-    "hdurl": "https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_2880.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/HubbleVarOrig_Carnegie_2880.jpg",
     "media_type": "image",
     "service_version": "v1",
     "title": "Edwin Hubble Discovers the Universe",
-    "url": "https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg"
+    "url": "https://apod.nasa.gov/apod/image/2310/HubbleVarOrig_Carnegie_960.jpg"
   },
   {
     "date": "2023-10-07",
@@ -96,5 +96,14 @@
     "service_version": "v1",
     "title": "Hidden Orion from Webb",
     "url": "https://apod.nasa.gov/apod/image/2310/OrionNircShort_Webb_960.jpg"
+  },
+  {
+    "date": "2023-10-11",
+    "explanation": "What's happening in the lower arm of this spiral galaxy? A supernova. Last month, supernova SN 2023rve was discovered with UAE's Al-Khatim Observatory and later found to be consistent with the death explosion of a massive star, possibly leaving behind a black hole. Spiral galaxy NGC 1097 is a relatively close 45 million light years away and visible with a small telescope toward the southern constellation of the Furnace (Fornax).  The galaxy is notable not only for its picturesque spiral arms, but also for faint jets consistent with ancient star streams left over from a galactic collision -- possibly with the small galaxy seen between its arms on the lower left. The featured image highlights the new supernova by blinking between two exposures taken several months apart. Finding supernovas in nearby galaxies can be important in determining the scale and expansion rate of our entire universe -- a topic currently of unexpected tension and much debate.    APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1097: Spiral Galaxy with Supernova",
+    "url": "https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif"
   }
 ]
