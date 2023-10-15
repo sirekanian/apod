@@ -109,7 +109,7 @@
   {
     "copyright": "David Cruz",
     "date": "2023-10-12",
-    "explanation": "Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel's Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant's light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.   APOD editor to speak: in Houghton, Michigan tonight, Thursday, October 12, at 6 pm",
+    "explanation": "Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel's Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant's light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.",
     "hdurl": "https://apod.nasa.gov/apod/image/2310/MuCephei_apod.jpg",
     "media_type": "image",
     "service_version": "v1",
@@ -125,5 +125,15 @@
     "service_version": "v1",
     "title": "Hydrogen Clouds of M33",
     "url": "https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg"
+  },
+  {
+    "copyright": "Vincenzo Mirabella",
+    "date": "2023-10-14",
+    "explanation": "Want to see a ring around the Sun? It's easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo's characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That's harder. The spectacular annular phase of today's (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon's narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.   Album growing: Selected eclipse images sent in to APOD",
+    "hdurl": "https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Circular Sun Halo",
+    "url": "https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg"
   }
 ]
