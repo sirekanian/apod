@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg
+https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2310/PDS70_ALMA_960.jpg
+https://sirekanian.com/apod/image/2310/AnnularMontagev21024.jpg
 
-## PDS 70: Disk, Planets, and Moons
+## A Sunrise at Sunset Point
 
-Copyright: (empty)
+Copyright: Martin Ratcliffe
 
 [![the picture of the day][1]][2]
 
-_Explanation: It's not the big ring that's attracting the most attention. Although the big planet-forming ring around the star PDS 70 is clearly imaged and itself quite interesting. It's also not the planet on the right, just inside the big disk, that’s being talked about the most.  Although the planet PDS 70c is a newly formed and, interestingly, similar in size and mass to Jupiter. It's the fuzzy patch around the planet PDS 70c that's causing the commotion. That fuzzy patch is thought to be a dusty disk that is now forming into moons -- and that had never been seen before. The featured image was taken in 2021 by the Atacama Large Millimeter Array (ALMA) of 66 radio telescopes in the high Atacama Desert of northern Chile.  Based on ALMA data, astronomers infer that the moon-forming exoplanetary disk has a radius similar to our Earth's orbit, and may one day form three or so Luna-sized moons -- not very different from our Jupiter's four._
+_Explanation: This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon's morning skies. Local temperatures fell as the Moon's shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2310/PDS70_ALMA_960.jpg
+[1]: image/2310/AnnularMontagev21024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
