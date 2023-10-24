@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg
+https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2310/quartermoon2022date.jpeg
+https://sirekanian.com/apod/image/2310/IoFlyby_Juno_960.jpg
 
-## Quarter Moons
+## Moon Io from Spacecraft Juno
 
-Copyright: Marcella Giulia Pace
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Half way between New Moon and Full Moon is the Moon's first quarter phase. That's a quarter of the way around its moonthly orbit. At the first quarter phase, half the Moon's visible side is illuminated by sunlight. For the Moon's third quarter phase, half way between Full Moon and New Moon, sunlight illuminates the other half of the visible lunar disk. At both first and third quarter phases, the terminator, or shadow line separating the lunar night and day, runs down the middle. Near the terminator, long shadows bring lunar craters and mountains in to sharp relief, making the quarter phases a good time to observe the Moon. But in case you missed some, all the quarter phases of the Moon and their calendar dates during 2022 can be found in this well-planned array of telephoto images. Of course, you can observe a first quarter Moon tonight.  International: Observe the Moon Night_
+_Explanation: There goes another one!  Volcanoes on Jupiter's moon Io keep erupting. To investigate, NASA's robotic Juno spacecraft has begun a series of visits to this very strange moon. Io is about the size of Earth's moon, but because of gravitational flexing by Jupiter and other moons, Io's interior gets heated and its surface has become covered with volcanoes.  The featured image is from last week's flyby, passing within 12,000 kilometers above the dangerously active world. The surface of Io is covered with sulfur and frozen sulfur dioxide, making it appear yellow, orange and brown. As hoped, Juno flew by just as a volcano was erupting -- with its faint plume visible near the top of the featured image.  Studying Io's volcanoes and plumes helps humanity better understand how Jupiter's complex system of moons, rings, and auroras interact. Juno is scheduled to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2310/quartermoon2022date.jpeg
+[1]: image/2310/IoFlyby_Juno_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg
+[2]: https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
