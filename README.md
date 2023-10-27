@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg
+https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2310/Arp87_HubblePathak_1080.jpg
+https://sirekanian.com/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg
 
-## Arp 87: Merging Galaxies from Hubble
+## Orionids in Taurus
 
-Copyright: (empty)
+Copyright: David Cortner
 
 [![the picture of the day][1]][2]
 
-_Explanation: This dance is to the death.  As these two large galaxies duel, a cosmic bridge of stars, gas, and dust currently stretches over 75,000 light-years and joins them.  The bridge itself is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. Together, the system is known as Arp 87. While such interactions are drawn out over billions of years, repeated close passages will ultimately create one merged galaxy. Although this scenario does look unusual, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 dancing pair are about 300 million light-years distant toward the constellation of the Lion (Leo). The prominent edge-on spiral galaxy at the far left appears to be a more distant background galaxy and not involved in the on-going merger._
+_Explanation: History's first known periodic comet, Comet Halley (1P/Halley), returns to the inner Solar System every 76 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. In fact, an unhurried series of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud. Impacting the atmosphere at about 66 kilometers per second their greenish streaks point back to the shower's radiant just north of Orion's bright star Betelgeuse off the lower left side of the frame. The familiar Pleiades star cluster anchors the dusty celestial scene at the right._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2310/Arp87_HubblePathak_1080.jpg
+[1]: image/2310/20231023_orionids_in_taurus_1024c.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg
 
 [3]: https://github.com/sirekanian/spacetime
