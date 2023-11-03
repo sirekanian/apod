@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg
+https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2310/IC63_GruntzBax1024.jpg
+https://sirekanian.com/apod/image/2311/ClusterFornax1024.jpg
 
-## The Ghosts of Gamma Cas
+## The Fornax Cluster of Galaxies
 
-Copyright: Guillaume Gruntz
+Copyright: Marcelo Rivera
 
 [![the picture of the day][1]][2]
 
-_Explanation: Gamma Cassiopeiae shines high in northern autumn evening skies. It's the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia. Gamma Cas shares the ethereal-looking scene with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.  About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, eroding under the influence of energetic radiation from hot and luminous gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of gamma Cas and friends._
+_Explanation: Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it's over 20 times more distant than our neighboring Andromeda Galaxy, but only about 10 percent farther along than the better known and more populated Virgo Galaxy Cluster. Seen across this three degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. Elliptical galaxies NGC 1399 and NGC 1404 are the dominant, bright cluster members toward the bottom center. A standout, large barred spiral galaxy, NGC 1365, is visible on the upper right as a prominent Fornax cluster member._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2310/IC63_GruntzBax1024.jpg
+[1]: image/2311/ClusterFornax1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
