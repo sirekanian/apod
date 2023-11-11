@@ -2,12 +2,12 @@
   {
     "copyright": "\nMaryBeth Kiczenski\n",
     "date": "2023-11-01",
-    "explanation": "Part of the Sun disappeared earlier this month, but few people were worried. The missing part, which included the center from some locations, just went behind the Moon in what is known as an annular solar eclipse.  Featured here is an eclipse sequence taken as the Moon was overtaking the rising Sun in the sky. The foreground hill is Factory Butte in Utah, USA. The rays flaring out from the Sun are not real -- they result from camera aperture diffraction and are known as sunstar. The Moon is real, but it is artificially brightened to enhance its outline -- which helps the viewer better visualize the Moon's changing position during this ring-of-fire eclipse. As stunning as this eclipse sequence is, it was considered just practice by the astrophotographer.  The reason? She hopes to use this experience to better photograph the total solar eclipse that will occur over North America on April 8, 2024.   Apply today (USA): Become a NASA Partner Eclipse Ambassador  Eclipse Album: Selected images sent in to APOD",
-    "hdurl": "https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_1480.jpg",
+    "explanation": "Part of the Sun disappeared earlier this month, but few people were worried. The missing part, which included the center from some locations, just went behind the Moon in what is known as an annular solar eclipse.  Featured here is an eclipse sequence taken as the Moon was overtaking the rising Sun in the sky. The foreground hill is Factory Butte in Utah, USA. The rays flaring out from the Sun are not real -- they result from camera aperture diffraction and are known as sunstar. The Moon is real, but appears only in silhouette in this ring-of-fire eclipse. As stunning as this eclipse sequence is, it was considered just practice by the astrophotographer.  The reason? She hopes to use this experience to better photograph the total solar eclipse that will occur over North America on April 8, 2024.   Apply today (USA): Become a NASA Partner Eclipse Ambassador  Eclipse Album: Selected images sent in to APOD",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/UtahEclipseB_Kiczenski_1480.jpg",
     "media_type": "image",
     "service_version": "v1",
     "title": "Annular Solar Eclipse over Utah",
-    "url": "https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg"
+    "url": "https://apod.nasa.gov/apod/image/2311/UtahEclipseB_Kiczenski_960.jpg"
   },
   {
     "copyright": "Marcelo Rivera",
@@ -83,5 +83,14 @@
     "service_version": "v1",
     "title": "M1: The Crab Nebula",
     "url": "https://apod.nasa.gov/apod/image/2311/M1_webb1024.png"
+  },
+  {
+    "date": "2023-11-10",
+    "explanation": "Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora's Cluster. It lies 3.5 billion light-years away toward the constellation Sculptor. Using the galaxy cluster's enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z=10.1. That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age. UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope. The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.  That makes UHZ1's growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/uhz1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "UHZ1: Distant Galaxy and Black Hole",
+    "url": "https://apod.nasa.gov/apod/image/2311/uhz1_1024.jpg"
   }
 ]
