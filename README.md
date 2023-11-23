@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg
+https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg
+https://sirekanian.com/apod/image/2311/ic342asi294large_1024.jpg
 
-## Planet Earth from Orion
+## IC 342: Hidden Galaxy in Camelopardalis
 
-Copyright: (empty)
+Copyright: Steve Cannistra
 
 [![the picture of the day][1]][2]
 
-_Explanation: One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center's historic Launch Complex 39B, one of Orion's external video cameras captured this view of its new perspective from space. In the foreground are Orion's Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module's 7-meter long extended solar array wings lies the spacecraft's beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again._
+_Explanation: Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg
+[1]: image/2311/ic342asi294large_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg
+[2]: https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime

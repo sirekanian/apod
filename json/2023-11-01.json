@@ -170,5 +170,45 @@
     "service_version": "v1",
     "title": "Planet Earth from Orion",
     "url": "https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg"
+  },
+  {
+    "copyright": "\nMehmet Ergün\n",
+    "date": "2023-11-19",
+    "explanation": "That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun's chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station's silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_1752.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Space Station, Solar Prominences, Sun",
+    "url": "https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_960.jpg"
+  },
+  {
+    "copyright": "\nMark Hanson & \nMartin Pugh,\nSSRO, \nPROMPT, \nCTIO,\nNSF\n",
+    "date": "2023-11-20",
+    "explanation": "Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years \"tall,\" the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_2604.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Horsehead Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg"
+  },
+  {
+    "copyright": "\nCristiano Gualco\n",
+    "date": "2023-11-21",
+    "explanation": "These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_2801.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fleming's Triangular Wisp",
+    "url": "https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg"
+  },
+  {
+    "copyright": "Steve Cannistra",
+    "date": "2023-11-22",
+    "explanation": "Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2311/ic342asi294large.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 342: Hidden Galaxy in Camelopardalis",
+    "url": "https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg"
   }
 ]
