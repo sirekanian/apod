@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg
+https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2311/ic342asi294large_1024.jpg
+https://sirekanian.com/apod/image/2311/ngc1555wide1024.jpg
 
-## IC 342: Hidden Galaxy in Camelopardalis
+## Along the Taurus Molecular Cloud
 
-Copyright: Steve Cannistra
+Copyright: Yuexiao Shen
 
 [![the picture of the day][1]][2]
 
-_Explanation: Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way._
+_Explanation: The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region's Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind's Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2311/ic342asi294large_1024.jpg
+[1]: image/2311/ngc1555wide1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
