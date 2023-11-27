@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg
+https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2311/Kirkjufell2023Nov9_1024.jpg
+https://sirekanian.com/apod/image/2311/Jet67P_Rosetta_960.jpg
 
-## Little Planet Aurora
+## A Dust Jet from the Surface of Comet 67P
 
-Copyright: Victor Lima
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky._
+_Explanation: Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2311/Kirkjufell2023Nov9_1024.jpg
+[1]: image/2311/Jet67P_Rosetta_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
