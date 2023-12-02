@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg
+https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2311/Jet67P_Rosetta_960.jpg
+https://sirekanian.com/apod/image/2312/_MG_2485-mod_APOD1024.jpg
 
-## A Dust Jet from the Surface of Comet 67P
+## Milky Way Rising
 
-Copyright: (empty)
+Copyright: José Rodrigues
 
 [![the picture of the day][1]][2]
 
-_Explanation: Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface._
+_Explanation: The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy's center is flanked on the left, by the European Southern Observatory's New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy's central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2311/Jet67P_Rosetta_960.jpg
+[1]: image/2312/_MG_2485-mod_APOD1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
