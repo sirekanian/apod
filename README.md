@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/afHfMMC-MJE?rel=0
+https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg
+https://sirekanian.com/apod/image/2312/Exaray_OsakaU_1080.jpg
 
-## Moon Setting Behind Teide Volcano
+## Energetic Particle Strikes the Earth
 
-Copyright: El Cielo de Canarias
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting._
+_Explanation: It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg
+[1]: image/2312/Exaray_OsakaU_1080.jpg
 
-[2]: https://www.youtube.com/embed/afHfMMC-MJE?rel=0
+[2]: https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
