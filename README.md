@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg
+https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/Exaray_OsakaU_1080.jpg
+https://sirekanian.com/apod/image/2312/TorchedDust_HubbleMecone_960.jpg
 
-## Energetic Particle Strikes the Earth
+## Stars Versus Dust in the Carina Nebula
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library_
+_Explanation: It's stars versus dust in the Carina Nebula and the stars are winning. More precisely, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed. Located in the Carina Nebula and inside a region known informally as Mystic Mountain, these pillars' appearance is dominated by opaque brown dust even though it is composed mostly of clear hydrogen gas. Even though some of the dust pillars look like torches, their ends are not on fire -- rather, they are illuminated by nearby stars.  About 7,500 light-years distant, the featured image was taken with the Hubble Space Telescope and highlights an interior region of Carina known as HH1066 which spans nearly a  light year. Within a few million years, the stars will likely win out completely and the dust torches will completely evaporate._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/Exaray_OsakaU_1080.jpg
+[1]: image/2312/TorchedDust_HubbleMecone_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/TorchedDust_HubbleMecone_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
