@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg
+https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg
+https://sirekanian.com/apod/image/2312/_MG_4553_rawfile1024.jpg
 
-## Vega and Comet 12P/Pons-Brooks
+## Pic du Pleiades
 
-Copyright: Dan Bartlett
+Copyright: Jean-Francois Graffand
 
 [![the picture of the day][1]][2]
 
-_Explanation: On December 4, periodic Comet 12P/Pons-Brooks shared this telescopic field of view with Vega, alpha star of the northern constellation Lyra. Fifth brightest star in planet Earth's night, Vega is some 25 light-years distant while the much fainter comet was about 21 light-minutes away. In recent months, outbursts have caused dramatic increases in brightness for Pons-Brooks though. Nicknamed the Devil Comet for its hornlike appearance, fans of interstellar spaceflight have also suggested the distorted shape of this large comet's central coma looks like the Millenium Falcon. A Halley-type comet, 12P/Pons-Brooks last visited the inner Solar System in 1954. Its next perihelion passage or closest approach to the Sun will be April 21, 2024. That's just two weeks after the April 8 total solar eclipse path crosses North America. But, highly inclined to the Solar System's ecliptic plane, the orbit of periodic Comet 12P/Pons-Brooks will never cross the orbit of planet Earth._
+_Explanation: Near dawn on November 19 the Pleiades stood in still dark skies over the French Pyrenees. But just before sunrise a serendipitous moment was captured in this single 3 second exposure; a bright meteor streak appeared to pierce the heart of the galactic star cluster. From the camera's perspective, star cluster and meteor were poised directly above the mountain top observatory on the Pic du Midi de Bigorre. And though astronomers might consider the Pleiades to be relatively close by, the grain of dust vaporizing as it plowed through planet Earth's upper atmosphere actually missed the cluster's tight grouping of young stars by about 400 light-years. While recording a night sky timelapse series, the camera and telephoto lens were fixed to a tripod on the Tour-de-France-cycled slopes of the Col du Tourmalet about 5 kilometers from the Pic du Midi._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg
+[1]: image/2312/_MG_4553_rawfile1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/_12P_Pons_Brooks_2023_12_04_184135PST_DEBartlett1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
