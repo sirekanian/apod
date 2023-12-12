@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile1024.jpg
+https://www.youtube.com/embed/JqH0diwqcUM?rel=0
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/_MG_4553_rawfile1024.jpg
+https://sirekanian.com/apod/image/2312/BigDipperMt2_Cullen_960.jpg
 
-## Pic du Pleiades
+## Solar Minimum versus Solar Maximum
 
-Copyright: Jean-Francois Graffand
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Near dawn on November 19 the Pleiades stood in still dark skies over the French Pyrenees. But just before sunrise a serendipitous moment was captured in this single 3 second exposure; a bright meteor streak appeared to pierce the heart of the galactic star cluster. From the camera's perspective, star cluster and meteor were poised directly above the mountain top observatory on the Pic du Midi de Bigorre. And though astronomers might consider the Pleiades to be relatively close by, the grain of dust vaporizing as it plowed through planet Earth's upper atmosphere actually missed the cluster's tight grouping of young stars by about 400 light-years. While recording a night sky timelapse series, the camera and telephoto lens were fixed to a tripod on the Tour-de-France-cycled slopes of the Col du Tourmalet about 5 kilometers from the Pic du Midi._
+_Explanation: The surface of our Sun is constantly changing.  Some years it is quiet, showing relatively few sunspots and active regions. Other years it is churning, showing many sunspots and throwing frequent Coronal Mass Ejections (CMEs) and flares. Reacting to magnetism, our Sun's surface goes through periods of relative calm, called Solar Minimum and relative unrest, called Solar Maximum, every 11 years. The featured video shows on the left a month in late 2019 when the Sun was near Solar Minimum, while on the right a month in 2014 when near Solar Maximum.  The video was taken by NASA's Solar Dynamic Observatory in far ultraviolet light. Our Sun is progressing again toward Solar Maximum in 2025, but displaying even now a surface with a surprisingly high amount of activity.   Night Sky Network webinar: APOD editor to review coolest space images of 2023_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/_MG_4553_rawfile1024.jpg
+[1]: image/2312/BigDipperMt2_Cullen_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/_MG_4553_rawfile1024.jpg
+[2]: https://www.youtube.com/embed/JqH0diwqcUM?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
