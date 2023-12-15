@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/JqH0diwqcUM?rel=0
+https://apod.nasa.gov/apod/image/2312/CasA_nircam_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/BigDipperMt2_Cullen_960.jpg
+https://sirekanian.com/apod/image/2312/CasA_nircam_1024.jpg
 
-## Solar Minimum versus Solar Maximum
+## Supernova Remnant Cassiopeia A
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: The surface of our Sun is constantly changing.  Some years it is quiet, showing relatively few sunspots and active regions. Other years it is churning, showing many sunspots and throwing frequent Coronal Mass Ejections (CMEs) and flares. Reacting to magnetism, our Sun's surface goes through periods of relative calm, called Solar Minimum and relative unrest, called Solar Maximum, every 11 years. The featured video shows on the left a month in late 2019 when the Sun was near Solar Minimum, while on the right a month in 2014 when near Solar Maximum.  The video was taken by NASA's Solar Dynamic Observatory in far ultraviolet light. Our Sun is progressing again toward Solar Maximum in 2025, but displaying even now a surface with a surprisingly high amount of activity.   Night Sky Network webinar: APOD editor to review coolest space images of 2023_
+_Explanation: Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. Light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed image of supernova remnant Cassiopeia A.  Tonight watch: The Geminids_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/BigDipperMt2_Cullen_960.jpg
+[1]: image/2312/CasA_nircam_1024.jpg
 
-[2]: https://www.youtube.com/embed/JqH0diwqcUM?rel=0
+[2]: https://apod.nasa.gov/apod/image/2312/CasA_nircam_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
