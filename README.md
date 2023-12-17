@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg
+https://apod.nasa.gov/apod/image/2312/PIA20522enceladusC.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/OrionBetelgeuse_occultation1024.jpg
+https://sirekanian.com/apod/image/2312/PIA20522enceladusC.jpg
 
-## Betelgeuse Eclipsed
+## Crescent Enceladus
 
-Copyright: Sebastian Voltmer
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Asteroid 319 Leona cast a shadow across planet Earth on December 12, as it passed in front of bright star Betelgeuse. But to see everyone's favorite red giant star fade this time, you had to stand near the center line of the narrow shadow path starting in central Mexico and extending eastward across southern Florida, the Atlantic Ocean, southern Europe, and Eurasia. The geocentric celestial event was captured in these two panels taken at Almodovar del Rio, Spain from before (left) and during the asteroid-star occultation. In both panels Betelgeuse is seen above and left, at the shoulder of the familiar constellation Orion. Its brightness diminishes noticeably during the exceedingly rare occultation when, for several seconds, the giant star was briefly eclipsed by a roughly 60 kilometer diameter main-belt asteroid._
+_Explanation: Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/OrionBetelgeuse_occultation1024.jpg
+[1]: image/2312/PIA20522enceladusC.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/OrionBetelgeuse_occultation1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/PIA20522enceladusC.jpg
 
 [3]: https://github.com/sirekanian/spacetime
