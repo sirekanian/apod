@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/solsticesolargraphy1024.jpg
+https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/solsticesolargraphy1024.jpg
+https://sirekanian.com/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
 
-## 183 Days in the Sun
+## A December Summer Night
 
-Copyright: solargraph
+Copyright: Ian Griffin
 
 [![the picture of the day][1]][2]
 
-_Explanation: A single 183 day exposure with a pinhole camera and photographic paper resulted in this long-duration solargraph. Recorded from solstice to solstice, June 21 to December 21, in 2022, it follows the Sun's daily arcing path through planet Earth's skies from Mertola, Portugal. On June 21, the Sun's highest point and longest arc represents the longest day and the astronomical beginning of summer in the northern hemisphere. The solstice date with the fewest hours of daylight is at the beginning of winter in the north, corresponding to the Sun's shortest and lowest arc in the 2022 solargraph. For 2023, the northern winter solstice was on December 22 at 3:27 UTC. That's December 21 for North America time zones._
+_Explanation: Colours of a serene evening sky are captured in this 8 minute exposure, made near this December's solstice from New Zealand, southern hemisphere, planet Earth. Looking south, star trails form the short concentric arcs around the rotating planet's south celestial pole positioned just off the top of the frame. At top and left of center are trails of the Southern Cross stars and a dark smudge from the Milky Way's Coalsack Nebula. Alpha and Beta Centauri make the brighter yellow and blue tinted trails, reflected below in the waters of Hoopers Inlet in the Pacific coast of the South Island's Otago Peninsula. On that short December summer night, aurora australis also gave luminous, green and reddish hues to the sky above the hills. Aurora shine as atoms and molecules in the upper atmosphere are excited by collisions with energetic particles. An upper atmospheric glow distinct from the aurora, a pale greenish airglow caused by a cascade of chemical reactions excited by sunlight, can be traced in diagonal bands at top left._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/solsticesolargraphy1024.jpg
+[1]: image/2312/DSCF6968-Enhanced-NR1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/solsticesolargraphy1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
