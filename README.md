@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
+https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
+https://sirekanian.com/apod/image/2312/ngc2440e_hst_960.jpg
 
-## A December Summer Night
+## NGC 2440: Cocoon of a New White Dwarf
 
-Copyright: Ian Griffin
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Colours of a serene evening sky are captured in this 8 minute exposure, made near this December's solstice from New Zealand, southern hemisphere, planet Earth. Looking south, star trails form the short concentric arcs around the rotating planet's south celestial pole positioned just off the top of the frame. At top and left of center are trails of the Southern Cross stars and a dark smudge from the Milky Way's Coalsack Nebula. Alpha and Beta Centauri make the brighter yellow and blue tinted trails, reflected below in the waters of Hoopers Inlet in the Pacific coast of the South Island's Otago Peninsula. On that short December summer night, aurora australis also gave luminous, green and reddish hues to the sky above the hills. Aurora shine as atoms and molecules in the upper atmosphere are excited by collisions with energetic particles. An upper atmospheric glow distinct from the aurora, a pale greenish airglow caused by a cascade of chemical reactions excited by sunlight, can be traced in diagonal bands at top left._
+_Explanation: What's that in the center?  Like a butterfly, a white dwarf star begins its life by casting off a cocoon of gas that enclosed its former self.  In this analogy, however, the Sun would be a caterpillar and the ejected shell of gas would become the prettiest cocoon of all.  In the featured cocoon, the planetary nebula designated NGC 2440 contains one of the hottest white dwarf stars known.  The white dwarf can be seen as the bright orange dot near the image center.  Our Sun will eventually become a white dwarf butterfly, but not for another 5 billion years._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2312/DSCF6968-Enhanced-NR1024.jpg
+[1]: image/2312/ngc2440e_hst_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2312/DSCF6968-Enhanced-NR1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
