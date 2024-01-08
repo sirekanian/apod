@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/PpyPgJHKxSw?rel=0
+https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2401/Image964_1024.jpg
+https://sirekanian.com/apod/image/2401/CatsEye_HubblePohl_960.jpg
 
-## The Snows of Churyumov-Gerasimenko
+## The Cat's Eye Nebula in Optical and X-ray
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: You couldn't really be caught in this blizzard while standing by a cliff on periodic comet 67P/Churyumov-Gerasimenko. Orbiting the comet in June of 2016, the Rosetta spacecraft's narrow angle camera did record streaks of dust and ice particles similar to snow as they drifted across the field of view close to the camera and above the comet's surface. Still, some of the bright specks in the scene are likely due to a rain of energetic charged particles or cosmic rays hitting the camera, and the dense background of stars in the direction of the constellation of the Big Dog (Canis Major). In the video, the background stars are easy to spot trailing from top to bottom. The stunning movie was constructed from 33 consecutive images taken over 25 minutes while Rosetta cruised some 13 kilometers from the comet's nucleus. In September 2016, the nucleus became the final resting place for the Rosetta spacecraft after its mission was ended with a successful controlled impact on 67P/Churyumov-Gerasimenko._
+_Explanation: To some it looks like a cat's eye. To others, perhaps like a giant cosmic conch shell.  It is actually one of the brightest and most highly detailed planetary nebula known, composed of gas expelled in the brief yet glorious phase near the end of life of a Sun-like star. This nebula's dying central star may have produced the outer circular concentric shells by shrugging off outer layers in a series of regular convulsions. The formation of the beautiful, complex-yet-symmetric inner structures, however, is not well understood. The featured image is a composite of a digitally sharpened Hubble Space Telescope image with X-ray light captured by the orbiting Chandra Observatory.  The exquisite floating space statue spans over half a light-year across. Of course, gazing into this Cat's Eye, humanity may well be seeing the fate of our sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.   Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2401/Image964_1024.jpg
+[1]: image/2401/CatsEye_HubblePohl_960.jpg
 
-[2]: https://www.youtube.com/embed/PpyPgJHKxSw?rel=0
+[2]: https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
