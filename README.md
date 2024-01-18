@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg
+https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2401/IC348_webb_960.jpg
+https://sirekanian.com/apod/image/2401/22466-22467anaVantuyne900.jpg
 
-## Star Cluster IC 348 from Webb
+## America and the Sea of Serenity
 
-Copyright: (empty)
+Copyright: Gene Cernan
 
 [![the picture of the day][1]][2]
 
-_Explanation: Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star._
+_Explanation: Get out your red/blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17's landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif's peak. Beyond the mountains, toward the lunar limb, lies the Moon's Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2401/IC348_webb_960.jpg
+[1]: image/2401/22466-22467anaVantuyne900.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg
 
 [3]: https://github.com/sirekanian/spacetime
