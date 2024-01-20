@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg
+https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2401/MagneticStormRohner1024.jpg
+https://sirekanian.com/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png
 
-## Northern Lights from the Stratosphere
+## Jupiter over 2 Hours and 30 Minutes
 
-Copyright: Ralf Rohner
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Northern lights shine in this night skyview from planet Earth's stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth's magnetic field at the planet's polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora's characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left._
+_Explanation: Jupiter, our Solar System's ruling gas giant, is also the fastest spinning planet, rotating once in less than 10 hours. The gas giant doesn't rotate like a solid body though. A day on Jupiter is about 9 hours and 56 minutes long at the poles, decreasing to 9 hours and 50 minutes near the equator. The giant planet's fast rotation creates strong jet streams, separating its clouds into planet girdling bands of dark belts and bright zones. You can easily follow Jupiter's rapid rotation in this sharp sequence of images from the night of January 15, all taken with a camera and small telescope outside of Paris, France. Located just south of the equator, the giant planet's giant storm system, also known as the Great Red Spot, can be seen moving left to right with the planet's rotation. From lower left to upper right, the sequence spans about 2 hours and 30 minutes._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2401/MagneticStormRohner1024.jpg
+[1]: image/2401/2024_01_15-Jup-2h30-Chronograph600.png
 
-[2]: https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png
 
 [3]: https://github.com/sirekanian/spacetime
