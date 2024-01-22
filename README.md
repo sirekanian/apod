@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2401/DSC07781_12Huff800.jpg
+https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2401/DSC07781_12Huff800.jpg
+https://sirekanian.com/apod/image/2401/snowpoles_brinkman_960.jpg
 
-## Falcon Heavy Boostback Burn
+## The Upper Michigan Blizzard of 1938
 
-Copyright: Dennis Huff
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: The December 28 night launch of a Falcon Heavy rocket from Kennedy Space Center in Florida marked the fifth launch for the rocket's reusable side boosters. About 2 minutes 20 seconds into the flight, the two side boosters separated from the rocket's core stage. Starting just after booster separation, this three minute long exposure captures the pair's remarkable boostback burns, maneuvers executed prior to their return to landing zones on planet Earth. While no attempt was made to recover the Falcon Heavy's core stage, both side boosters landed successfully and can be flown again. The four previous flights for these side boosters included last October's launch of NASA's asteroid-bound Psyche mission. Their next planned flight is on the Europa Clipper mission scheduled for launch in October 2024._
+_Explanation: Yes, but can your blizzard do this? In the Upper Peninsula of Michigan's Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2401/DSC07781_12Huff800.jpg
+[1]: image/2401/snowpoles_brinkman_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2401/DSC07781_12Huff800.jpg
+[2]: https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
