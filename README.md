@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg
+https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2401/image-20240116164558_v11024.jpg
+https://sirekanian.com/apod/image/2401/Ain_1024.jpg
 
-## Jyväskylä in the Sky
+## Epsilon Tauri: Star with Planet
 
-Copyright: Harri Kiiskinen
+Copyright: Reg Pratt
 
 [![the picture of the day][1]][2]
 
-_Explanation: You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night._
+_Explanation: silon Tauri lies 146 light-years away. A K-type red giant star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it shines with nearly 100 times the solar luminosity. A member of the Hyades open star cluster the giant star is known by the proper name Ain, and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull. Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet. Discovered by radial velocity measurements in 2006, epsilon Tauri b is a gas giant planet larger than Jupiter with an orbital period of 1.6 years. And though the exoplanet can't be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2401/image-20240116164558_v11024.jpg
+[1]: image/2401/Ain_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg
+[2]: https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
