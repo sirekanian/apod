@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy1024.png
+https://apod.nasa.gov/apod/image/2402/PIA26243-1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2402/Rosette2024newt533mmcopy1024.png
+https://sirekanian.com/apod/image/2402/PIA26243-1024.jpg
 
-## When Roses Aren't Red
+## The Shadow of Ingenuity's Damaged Rotor Blade
 
-Copyright: Tommy Lease
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Not all roses are red of course, but they can still be very pretty. Likewise, the beautiful Rosette Nebula and other star forming regions are often shown in astronomical images with a predominately red hue, in part because the dominant emission in the nebula is from hydrogen atoms. Hydrogen's strongest optical emission line, known as H-alpha, is in the red region of the spectrum. But the beauty of an emission nebula need not be appreciated in red light alone. Other atoms in the nebula are also excited by energetic starlight and produce narrow emission lines as well. In this close-up view of the Rosette Nebula, narrowband images are mapped into broadband colors to show emission from Sulfur atoms in red, Hydrogen in green, and Oxygen in blue. In fact, the scheme of mapping these narrow atomic emission lines (SHO) into the broader colors (RGB) is adopted in many Hubble images of emission nebulae. This image spans about 50 light-years across the center of the Rosette Nebula. The nebula lies some 3,000 light-years away in the constellation Monoceros._
+_Explanation: On January 18, 2024, during its 72nd flight in the thin Martian atmosphere, autonomous Mars Helicopter Ingenuity rose to an altitude of 12 meters (40 feet) and hovered for 4.5 seconds above the Red Planet.  Ingenuity's 72nd landing was a rough one though. During descent it lost contact with the Perseverance rover about 1 meter above the Martian surface. Ingenuity was able to transmit this image after contact was re-established, showing the shadow of one of its rotor blades likely damaged during landing. And so, after wildly exceeding expectations during over 1,000 days of exploring Mars, the history-making Ingenuity has ended its flight operations. Nicknamed Ginny, Mars Helicopter Ingenuity became the first aircraft to achieve powered, controlled flight on another planet on April 19, 2021. Before launch, a small piece of material from the lower-left wing of the Wright Brothers Flyer 1, the first aircraft to achieve powered, controlled flight on planet Earth, was fixed to the underside of Ingenuity's solar panel._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2402/Rosette2024newt533mmcopy1024.png
+[1]: image/2402/PIA26243-1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy1024.png
+[2]: https://apod.nasa.gov/apod/image/2402/PIA26243-1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
