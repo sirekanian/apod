@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg
+https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2402/AM1054_Hubble_960.jpg
+https://sirekanian.com/apod/image/2402/M106field_KyunghoonLim1024.jpg
 
-## AM1054: Stars Form as Galaxies Collide
+## A View Toward M106
 
-Copyright: (empty)
+Copyright: Kyunghoon Lim
 
 [![the picture of the day][1]][2]
 
-_Explanation: When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325’s yellowish body due to the other galaxy’s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy._
+_Explanation: Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2402/AM1054_Hubble_960.jpg
+[1]: image/2402/M106field_KyunghoonLim1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
