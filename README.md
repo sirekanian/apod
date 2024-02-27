@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg
+https://youtube.com/embed/hwQTH0IGrwE?rel=0
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2402/im-moon-imageFeb23_1024.jpg
+https://sirekanian.com/apod/image/2402/PhoenixAurora_Helgason_960.jpg
 
-## Odysseus to the Moon
+## Martian Moon Eclipses Martian Moon
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Intuitive Machines' robotic lander Odysseus has accomplished the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Launched on a SpaceX rocket on February 15, the phone booth sized lander reached lunar orbit on the 21st and touched down on the lunar surface at 6:23 pm ET on February 22nd. Its landing region is about 300 kilometers north of the Moon's south pole, near a crater designated Malapert A. Resting on its side, the lander is presently collecting solar power and transmitting data back to the Intuitive Machines' mission control center in Houston. The mission marks the first commercial uncrewed landing on the Moon. Prior to landing, Odysseus’ camera captured this extreme wide angle image (landing legs visible at right) as it flew over Schomberger crater some 200 kilometers from its landing site. Odysseus was still about 10 kilometers above the lunar surface._
+_Explanation: What if there were two moons in the sky -- and they eclipsed each other? This happens on Mars. The featured video shows a version of this unusual eclipse from space. Pictured are the two moons of Mars: the larger Phobos, which orbits closer to the red planet, and the smaller Deimos, which orbits further out. The sequence was captured last year by the ESA’s Mars Express, a robotic spacecraft that itself orbits Mars. A similar eclipse is visible from the Martian surface, although very rarely.  From the surface, though, the closer moon Phobos would appear to pass in front of farther moon Deimos. Most oddly, Phobos orbit Mars so close that it appears to move backwards when compared to Earth's Moon from Earth, rising in west and setting in the east. Phobos, the closer moon, orbits so close and so fast that it passes nearly overhead about three times a day._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2402/im-moon-imageFeb23_1024.jpg
+[1]: image/2402/PhoenixAurora_Helgason_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg
+[2]: https://youtube.com/embed/hwQTH0IGrwE?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
