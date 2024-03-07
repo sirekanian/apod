@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png
+https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2403/IM_Odysseus_landing-1100x600.png
+https://sirekanian.com/apod/image/2403/M102_HubbleEbrahimian_960.jpg
 
-## Odysseus on the Moon
+## M102: Edge-on Disk Galaxy
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Methalox rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware._
+_Explanation: What kind of celestial object is this? A relatively normal galaxy -- but seen from its edge.  Many disk galaxies are actually just as thin as NGC 5866, the Spindle galaxy, pictured here, but are not seen edge-on from our vantage point.  A perhaps more familiar galaxy seen edge-on is our own Milky Way galaxy.  Also cataloged as M102, the Spindle galaxy has numerous and complex dust lanes appearing dark and red, while many of the bright stars in the disk give it a more blue underlying hue.  The blue disk of young stars can be seen in this Hubble image extending past the dust in the extremely thin galactic plane. There is evidence that the Spindle galaxy has cannibalized smaller galaxies over the past billion years or so, including multiple streams of faint stars, dark dust that extends away from the main galactic plane, and a surrounding group of galaxies (not shown).  In general, many disk galaxies become thin because the gas that forms them collides with itself as it rotates about the gravitational center. The Spindle galaxy lies about 50 million light years distant toward the constellation of the Dragon (Draco)._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2403/IM_Odysseus_landing-1100x600.png
+[1]: image/2403/M102_HubbleEbrahimian_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png
+[2]: https://apod.nasa.gov/apod/image/2403/M102_HubbleEbrahimian_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
