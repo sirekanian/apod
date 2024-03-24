@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp1024.jpg
+https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2403/STSCI-MarsPhobosComp1024.jpg
+https://sirekanian.com/apod/image/2403/PIA19363_1024.jpg
 
-## Phobos: Moon over Mars
+## Ares 3 Landing Site: The Martian Revisited
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: A tiny moon with a scary name, Phobos emerges from behind the Red Planet in this timelapse sequence from the Earth-orbiting Hubble Space Telescope. Over 22 minutes the 13 separate exposures were captured near the 2016 closest approach of Mars to planet Earth. Martians have to look to the west to watch Phobos rise, though. The small moon is closer to its parent planet than any other moon in the Solar System, about 3,700 miles (6,000 kilometers) above the Martian surface. It completes one orbit in just 7 hours and 39 minutes. That's faster than a Mars rotation, which corresponds to about 24 hours and 40 minutes. So on Mars, Phobos can be seen to rise above the western horizon 3 times a day. Still, Phobos is doomed._
+_Explanation: This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the scifi novel The Martian by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site corresponding to the coordinates of this cropped HiRISE frame. For scale Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2403/STSCI-MarsPhobosComp1024.jpg
+[1]: image/2403/PIA19363_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
