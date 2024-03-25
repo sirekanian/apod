@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg
+https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2403/PIA19363_1024.jpg
+https://sirekanian.com/apod/image/2403/eclipse99_mir_960.jpg
 
-## Ares 3 Landing Site: The Martian Revisited
+## Looking Back at an Eclipsed Earth
 
-Copyright: (empty)
+Copyright: CNES
 
 [![the picture of the day][1]][2]
 
-_Explanation: This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the scifi novel The Martian by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site corresponding to the coordinates of this cropped HiRISE frame. For scale Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site._
+_Explanation: Here is what the Earth looks like during a solar eclipse. The shadow of the Moon can be seen darkening part of Earth. This shadow moved across the Earth at nearly 2000 kilometers per hour. Only observers near the center of the dark circle see a total solar eclipse - others see a partial eclipse where only part of the Sun appears blocked by the Moon. This spectacular picture of the 1999 August 11 solar eclipse was one of the last ever taken from the Mir space station. The two bright spots that appear on the upper left are thought to be Jupiter and Saturn. Mir was deorbited in a controlled re-entry in 2001. A new solar eclipse will occur over North America in about two weeks._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2403/PIA19363_1024.jpg
+[1]: image/2403/eclipse99_mir_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
