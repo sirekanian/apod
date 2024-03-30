@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg
+https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2403/CometPons_Peirce_1080.jpg
+https://sirekanian.com/apod/image/2403/PIA19048europa1024.jpg
 
-## Comet Pons-Brooks' Ion Tail
+## Galileo's Europa
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons–Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8._
+_Explanation: Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2403/CometPons_Peirce_1080.jpg
+[1]: image/2403/PIA19048europa1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
