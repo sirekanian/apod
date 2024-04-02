@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg
+https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2403/medieval_fragmentW600.jpg
+https://sirekanian.com/apod/image/2404/SagAstarB_EHT_960.jpg
 
-## Medieval Astronomy from Melk Abbey
+## Swirling Magnetic Field around Our Galaxy's Central Black Hole
 
-Copyright: Library of Melk Abbey, Frag. 229
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria._
+_Explanation: What's happening to the big black hole in the center of our galaxy?  It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole's accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy's central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration.  Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million mass central black hole.  The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole.  Continued EHT monitoring of this and M87's central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.    NASA Predicts:  Moon to Get in Way of Sun_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2403/medieval_fragmentW600.jpg
+[1]: image/2404/SagAstarB_EHT_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg
+[2]: https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
