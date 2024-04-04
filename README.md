@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg
+https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2404/SagAstarB_EHT_960.jpg
+https://sirekanian.com/apod/image/2404/Pa30V_NASA_960.jpg
 
-## Swirling Magnetic Field around Our Galaxy's Central Black Hole
+## Unusual Nebula Pa 30
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What's happening to the big black hole in the center of our galaxy?  It is sucking in matter from a swirling disk -- a disk that is magnetized, it has now been confirmed. Specifically, the black hole's accretion disk has recently been seen to emit polarized light, radiation frequently associated with a magnetized source. Pictured here is a close-up of Sgr A*, our Galaxy's central black hole, taken by radio telescopes around the world participating in the Event Horizon Telescope (EHT) Collaboration.  Superposed are illustrative curved lines indicating polarized light likely emitted from swirling magnetized gas that will soon fall into the 4+ million mass central black hole.  The central part of this image is likely dark because little light-emitting gas is visible between us and the dark event horizon of the black hole.  Continued EHT monitoring of this and M87's central black hole may yield new clues about the gravity of black holes and how infalling matter creates disks and jets.    NASA Predicts:  Moon to Get in Way of Sun_
+_Explanation: What created this unusual celestial firework? The nebula, dubbed Pa 30, appears in the same sky direction now as a bright "guest star" did in the year 1181. Although Pa 30's filaments look similar to that created by a nova (for example GK Per), and a planetary nebula (for example NGC 6751), some astronomers now propose that it was created by a rare type of supernova: a thermonuclear Type Iax, and so is (also) named SN 1181.  In this model, the supernova was not the result of the detonation of a single star, but rather a blast that occurred when two white dwarf stars spiraled together and merged.  The blue dot in the center is hypothesized to be a zombie star, the remnant white dwarf that somehow survived this supernova-level explosion.  The featured image combines images and data obtained with infrared (WISE), visible  (MDM, Pan-STARRS), and X-ray (Chandra, XMM) telescopes.  Future observations and analyses may tell us more.   NASA Coverage: Total Solar Eclipse of 2024 April 8_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2404/SagAstarB_EHT_960.jpg
+[1]: image/2404/Pa30V_NASA_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2404/SagAstarB_EHT_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
