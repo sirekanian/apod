@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg
+https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2404/Pa30V_NASA_960.jpg
+https://sirekanian.com/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg
 
-## Unusual Nebula Pa 30
+## Comet Pons-Brooks at Night
 
-Copyright: (empty)
+Copyright: Dan Bartlett
 
 [![the picture of the day][1]][2]
 
-_Explanation: What created this unusual celestial firework? The nebula, dubbed Pa 30, appears in the same sky direction now as a bright "guest star" did in the year 1181. Although Pa 30's filaments look similar to that created by a nova (for example GK Per), and a planetary nebula (for example NGC 6751), some astronomers now propose that it was created by a rare type of supernova: a thermonuclear Type Iax, and so is (also) named SN 1181.  In this model, the supernova was not the result of the detonation of a single star, but rather a blast that occurred when two white dwarf stars spiraled together and merged.  The blue dot in the center is hypothesized to be a zombie star, the remnant white dwarf that somehow survived this supernova-level explosion.  The featured image combines images and data obtained with infrared (WISE), visible  (MDM, Pan-STARRS), and X-ray (Chandra, XMM) telescopes.  Future observations and analyses may tell us more.   NASA Coverage: Total Solar Eclipse of 2024 April 8_
+_Explanation: In dark evening skies over June Lake, northern hemisphere, planet Earth, Comet 12P/Pons-Brooks stood just above the western horizon on March 30. Its twisted turbulent ion tail and diffuse greenish coma are captured in this two degree wide telescopic field of view along with bright yellowish star Hamal also known as Alpha Arietis. Now Pons-Brooks has moved out of the northern night though, approaching perihelion on April 21. On April 8 you might still spot the comet in daytime skies. But to do it, you will have to stand in the path of totality and look away from the spectacle of an alluring solar corona and totally eclipsed Sun.   NASA Coverage: Total Solar Eclipse of 2024 April 8_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2404/Pa30V_NASA_960.jpg
+[1]: image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2404/Pa30V_NASA_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
