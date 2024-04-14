@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg
+https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2404/image0tseKorona_1100.jpg
+https://sirekanian.com/apod/image/2404/pinholepalm1024.png
 
-## Total Totality
+## Palm Tree Partial Eclipse
 
-Copyright: Daniel Korona
+Copyright: Lori Haffelt
 
 [![the picture of the day][1]][2]
 
-_Explanation: Baily's beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon's edge from beginning through the end of totality during April 8's solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon's shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD_
+_Explanation: Only those along the narrow track of the Moon's shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2404/image0tseKorona_1100.jpg
+[1]: image/2404/pinholepalm1024.png
 
-[2]: https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg
+[2]: https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png
 
 [3]: https://github.com/sirekanian/spacetime
