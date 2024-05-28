@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2405/filament_sdo_960.jpg
+https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2405/filament_sdo_960.jpg
+https://sirekanian.com/apod/image/2405/Cederblad111-110_1024.jpg
 
-## A Solar Filament Erupts
+## Chamaeleon I Molecular Cloud
 
-Copyright: (empty)
+Copyright: Amiel Contuliano
 
 [![the picture of the day][1]][2]
 
-_Explanation: What's happened to our Sun?  Nothing very unusual -- it just threw a filament. Toward the middle of 2012, a long standing solar filament suddenly erupted into space, producing an energetic coronal mass ejection (CME).  The filament had been held up for days by the Sun's ever changing magnetic field and the timing of the eruption was unexpected. Watched closely by the Sun-orbiting Solar Dynamics Observatory, the resulting explosion shot electrons and ions into the Solar System, some of which arrived at Earth three days later and impacted Earth's magnetosphere, causing visible auroras. Loops of plasma surrounding the active region can be seen above the erupting filament in the featured ultraviolet image. Our Sun is nearing the most active time in its 11-year cycle, creating many coronal holes that allow for the ejection of charged particles into space. As before, these charged particles can create auroras.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)_
+_Explanation: Dark markings and bright nebulae in this telescopic southern sky view are telltale signs of young stars and active star formation. They lie a mere 650 light-years away, at the boundary of the local bubble and the Chamaeleon molecular cloud complex. Regions with young stars identified as dusty reflection nebulae from the 1946 Cederblad catalog include the C-shaped Ced 110 just above and right of center, and bluish Ced 111 below it. Also a standout in the frame, the orange tinted V-shape of the Chamaeleon Infrared Nebula (Cha IRN) was carved by material streaming from a newly formed low-mass star.  The well-composed image spans 1.5 degrees. That's about 17 light-years at the estimated distance of the nearby Chamaeleon I molecular cloud._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2405/filament_sdo_960.jpg
+[1]: image/2405/Cederblad111-110_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2405/filament_sdo_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
