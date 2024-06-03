@@ -11,18 +11,18 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
 
 The thumbnail url will look like this:<br>
 https://sirekanian.com/apod/image/2406/N00172886_92_beltramini.jpg
 
-## Stereo Helene
+## Rotating Moon from LRO
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features._
+_Explanation: No one, presently, sees the Moon rotate like this. That's because the Earth's moon is tidally locked to the Earth, showing us only one side.  Given modern digital technology, however, combined with many detailed images returned by the Lunar Reconnaissance Orbiter (LRO), a high resolution virtual Moon rotation movie has been composed. The featured time-lapse video starts with the standard Earth view of the Moon. Quickly, though, Mare Orientale, a large crater with a dark center that is difficult to see from the Earth, rotates into view just below the equator.  From an entire lunar month condensed into 24 seconds, the video clearly shows that the Earth side of the Moon contains an abundance of dark lunar maria, while the lunar far side is dominated by bright lunar highlands. Currently, over 32 new missions to the Moon are under active development from multiple countries and companies, including NASA's Artemis program which aims to land people on the Moon again within the next few years._
 
 ## Usages
 
@@ -30,6 +30,6 @@ The repository is used by [Spacetime][3] android application.
 
 [1]: image/2406/N00172886_92_beltramini.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2406/N00172886_92_beltramini.jpg
+[2]: https://www.youtube.com/embed/sNUNB6CMnE8?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
