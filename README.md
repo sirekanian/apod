@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+https://sirekanian.com/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
 
-## NGC 2403 in Camelopardalis
+## Shadow of a Martian Robot
 
-Copyright: (Team F.A.C.T.)
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Magnificent island universe NGC 2403 stands within the boundaries of the long-necked constellation Camelopardalis. Some 10 million light-years distant and about 50,000 light-years across, the spiral galaxy also seems to have more than its fair share of giant star forming HII regions, marked by the telltale reddish glow of atomic hydrogen gas. The giant HII regions are energized by clusters of hot, massive stars that explode as bright supernovae at the end of their short and furious lives. A member of the M81 group of galaxies, NGC 2403 closely resembles a galaxy in our own local galaxy group with an abundance of star forming regions, M33, the Triangulum Galaxy. Spiky in appearance, bright stars in this portrait of NGC 2403 are in the foreground, within our own Milky Way. Also in the foreground of the deep, wide-field, telescopic image are the Milky Way's dim and dusty interstellar clouds also known as galactic cirrus or integrated flux nebulae. But faint features that seem to extend from NGC 2403 itself are likely tidal stellar streams drawn out by gravitational interactions with neighboring galaxies._
+_Explanation: What if you saw your shadow on Mars and it wasn't human?  Then you might be the Perseverance rover exploring Mars.  Perseverance has been examining the Red Planet since 2021, finding evidence of its complex history of volcanism and ancient flowing water, and sending breathtaking images across the inner Solar System.  Pictured here in February of 2024, Perseverance looks opposite the Sun and across Neretva Vallis in Jezero Crater, with a local hill visible at the top of the frame.  The distinctively non-human shadow of the car-sized rover is visible below center, superposed on scattered rocks.  Perseverance, now working without its flying companion Ingenuity, continues to search Mars for signs of ancient life._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+[1]: image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2406/NeretvaVallis_PerseveranceNevT_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
