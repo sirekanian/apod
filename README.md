@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2406/heic1006a_M66_1024.jpg
+https://sirekanian.com/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
 
-## Messier 66 Close Up
+## RCW 85
 
-Copyright: (empty)
+Copyright: Martin Pugh
 
 [![the picture of the day][1]][2]
 
-_Explanation: Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet._
+_Explanation: From the 1960 astronomical catalog of Rodgers, Campbell and Whiteoak, emission region RCW 85 shines in southern night skies between bright stars Alpha and Beta Centauri. About 5,000 light years distant, the hazy interstellar cloud of glowing hydrogen gas and dust is faint. But detailed structures along well-defined rims within RCW 85 are traced in this cosmic skyscape composed of 28 hours of narrow and broadband exposures. Suggestive of dramatic shapes in other stellar nurseries where natal clouds of gas and dust are sculpted by energetic winds and radiation from newborn stars, the tantalizing nebula has been called the Devil's Tower. This telescopic frame would span around 100 light-years at the estimated distance of RCW 85._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2406/heic1006a_M66_1024.jpg
+[1]: image/2406/HaLRGB+v2Pugh1100c.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh1100c.jpg
 
 [3]: https://github.com/sirekanian/spacetime
