@@ -11,18 +11,18 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
 
 The thumbnail url will look like this:<br>
 https://sirekanian.com/apod/image/2406/Halpha_sondergaard1024.jpg
 
-## Prominences and Filaments on the Active Sun
+## Animation: Black Hole Destroys Star
 
-Copyright: solar cycle 25
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: This colorized and digitally sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of planet-dwarfing active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspended in the active regions' strong magnetic fields, the filaments of plasma lofted beyond the Sun's edge appear as bright solar prominences. The large prominences seen near 4 o'clock, and just before 9 o'clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o'clock prominence is associated with the monster active region AR 3664 just rotating off the Sun's edge._
+_Explanation: What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator_
 
 ## Usages
 
@@ -30,6 +30,6 @@ The repository is used by [Spacetime][3] android application.
 
 [1]: image/2406/Halpha_sondergaard1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg
+[2]: https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
