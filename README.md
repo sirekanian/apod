@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2406/Halpha_sondergaard1024.jpg
+https://sirekanian.com/apod/image/2406/MoonHalo_pace.jpg
 
-## Animation: Black Hole Destroys Star
+## Sandy and the Moon Halo
 
-Copyright: (empty)
+Copyright: Marcella Giulia Pace
 
 [![the picture of the day][1]][2]
 
-_Explanation: What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator_
+_Explanation: Last April's Full Moon shines through high clouds near the horizon, casting shadows in this garden-at-night skyscape. Along with canine sentinel Sandy watching the garden gate, the wide-angle snapshot also captured the bright Moon's 22 degree ice halo. But June's bright Full Moon will cast shadows too. This month, the Moon's exact full phase occurs at 01:08 UTC June 22. That's a mere 28 hours or so after today's June solstice (at 20:51 UTC June 20), the moment when the Sun reaches its maximum northern declination. Known to some as a Strawberry Moon, June's Full Moon is at its southernmost declination, and of course will create its own 22 degree halos in hazy night skies._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2406/Halpha_sondergaard1024.jpg
+[1]: image/2406/MoonHalo_pace.jpg
 
-[2]: https://www.youtube.com/embed/ubBzcSD8G8k?rel=0
+[2]: https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg
 
 [3]: https://github.com/sirekanian/spacetime
