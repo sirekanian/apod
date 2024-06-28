@@ -227,5 +227,33 @@
     "service_version": "v1",
     "title": "JADES-GS-z14-0: A New Farthest Object",
     "url": "https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg"
+  },
+  {
+    "copyright": "\nMartin Pugh &  \nRocco Sung\n",
+    "date": "2024-06-25",
+    "explanation": "What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).",
+    "hdurl": "https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_9193.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Dark Doodad Nebula",
+    "url": "https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg"
+  },
+  {
+    "copyright": "\nJeff Dai\n(TWAN); \nMusic \n(License): \nSuite bergamasque by \nClaude Debussy\n",
+    "date": "2024-06-26",
+    "explanation": "What's happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That's because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.",
+    "media_type": "video",
+    "service_version": "v1",
+    "title": "Timelapse: Aurora, SAR, and the Milky Way",
+    "url": "https://www.youtube.com/embed/fisAZYNwDgk?rel=0"
+  },
+  {
+    "date": "2024-06-27",
+    "explanation": "Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb's detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb's characteristic diffraction spikes. At the Serpens Nebula's estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth.png",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Protostellar Outflows in Serpens",
+    "url": "https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png"
   }
 ]
