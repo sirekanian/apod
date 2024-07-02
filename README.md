@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2406/SolsMoon2024c1024.jpg
+https://sirekanian.com/apod/image/2407/TimeSpiral_Budassi_960.jpg
 
-## A Solstice Moon
+## Time Spiral
 
-Copyright: Tunc Tezel
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Rising opposite the setting Sun, June's Full Moon occurred within about 28 hours of the solstice. The Moon stays close to the Sun's path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June's Full Moon remained low that night as seen from northern latitudes. In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset. In 2024 the Moon also reached a major lunar standstill, an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, this June solstice Full Moon was at its southernmost moonrise and moonset along the horizon._
+_Explanation: What's happened since the universe started? The time spiral shown here features a few notable highlights. At the spiral's center is the Big Bang, the place where time, as we know it, began about 13.8 billion years ago. Within a few billion years atoms formed, then stars formed from atoms, galaxies formed from stars and gas, our Sun formed, soon followed by our Earth, about 4.6 billion years ago.  Life on Earth begins about 3.8 billion years ago, followed by cells, then photosynthesis within a billion years.  About 1.7 billion years ago, multicellular life on Earth began to flourish.  Fish began to swim about 500 million years ago, and mammals began walking on land about 200 million years ago. Humans first appeared only about 6 million years ago, and made the first cities only about 10,000 years ago.  The time spiral illustrated stops there, but human spaceflight might be added, which started only 75 years ago, and useful artificial intelligence began to take hold within only the past few years.   Explore Your Universe: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2406/SolsMoon2024c1024.jpg
+[1]: image/2407/TimeSpiral_Budassi_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
