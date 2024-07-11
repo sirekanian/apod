@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2407/IridescentClouds_Strand_960.jpg
+https://sirekanian.com/apod/image/2407/sagittariusTri1024.jpg
 
-## Iridescent Clouds over Sweden
+## A Sagittarius Triplet
 
-Copyright: (empty)
+Copyright: Andy Ermolli
 
 [![the picture of the day][1]][2]
 
-_Explanation: Why are these clouds multi-colored?  A relatively rare phenomenon in clouds known as iridescence can bring up unusual colors vividly -- or even a whole spectrum of colors simultaneously. These polar stratospheric clouds also, known as nacreous and mother-of-pearl clouds,  are formed of small water droplets of nearly uniform size. When the Sun is in the right position and, typically, hidden from direct view, these thin clouds can be seen significantly diffracting sunlight in a nearly coherent manner, with different colors being deflected by different amounts. Therefore, different colors will come to the observer from slightly different directions. Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too angularly far from the Sun to exhibit striking colors. The featured image and an accompanying video were taken late in 2019 over Ostersund, Sweden._
+_Explanation: These three bright nebulae are often featured on telescopic tours of the constellation Sagittarius and the crowded starfields of the central Milky Way. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the large nebula above center, and colorful M20 below and left in the frame. The third emission region includes NGC 6559, right of M8 and separated from the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula. M20's popular moniker is the Trifid. Glowing hydrogen gas creates the dominant red color of the emission nebulae. But for striking contrast, blue hues in the Trifid are due to dust reflected starlight. The broad interstellar skyscape spans almost 4 degrees or 8 full moons on the sky._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2407/IridescentClouds_Strand_960.jpg
+[1]: image/2407/sagittariusTri1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
