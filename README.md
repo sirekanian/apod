@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2407/a11pan1040226lftsm600.jpg
+https://sirekanian.com/apod/image/2407/Crab_MultiChandra_960.jpg
 
-## Apollo 11 Landing Panorama
+## The Crab Nebula from Visible to X-Ray
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Have you seen a panorama from another world lately? Assembled from high-resolution scans of the original film frames, this one sweeps across the magnificent desolation of the Apollo 11 landing site on the Moon's Sea of Tranquility. The images were taken 55 years ago by Neil Armstrong looking out his window on the Eagle Lunar Module shortly after the July 20, 1969 landing. The frame at the far left (AS11-37-5449) is the first picture taken by a person on another world. Thruster nozzles can be seen in the foreground on the left (toward the south), while at the right (west), the shadow of the Eagle is visible. For scale, the large, shallow crater on the right has a diameter of about 12 meters. Frames taken from the Lunar Module windows about an hour and a half after landing, before walking on the lunar surface, were intended to document the landing site in case an early departure was necessary._
+_Explanation: What powers the Crab Nebula? A city-sized magnetized neutron star spinning around 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core.  About 10 light-years across, the spectacular picture of the Crab Nebula (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas. The picture combines visible light from the Hubble Space Telescope in red and blue with X-ray light from the Chandra X-ray Observatory shown in white, and diffuse X-ray emission detected by Imaging X-ray Polarimetry Explorer (IXPE) in diffuse purple.  The central pulsar powers the Crab Nebula's emission and expansion by slightly slowing its spin rate, which drives out a wind of energetic electrons.  The featured image released today, the 25th Anniversary of the launch of NASA's flagship-class X-ray Observatory: Chandra.    Many Discoveries: Chandra Celebrates 25th Anniversary_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2407/a11pan1040226lftsm600.jpg
+[1]: image/2407/Crab_MultiChandra_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2407/a11pan1040226lftsm600.jpg
+[2]: https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
