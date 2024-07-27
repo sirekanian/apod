@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+https://sirekanian.com/apod/image/2407/NGC6946_verB1024c.jpg
 
-## NGC 7023: The Iris Nebula
+## Facing NGC 6946
 
-Copyright: Robert Shepherd
+Copyright: Roberto Marinoni
 
 [![the picture of the day][1]][2]
 
-_Explanation: These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years._
+_Explanation: From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation Cepheus. In this sharp telescopic portrait, from the core outward the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century ten confirmed supernovae, the death explosions of massive stars, were discovered in NGC 6946. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2407/NGC7023_LRGB_fin_sig1024.jpg
+[1]: image/2407/NGC6946_verB1024c.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg
 
 [3]: https://github.com/sirekanian/spacetime
