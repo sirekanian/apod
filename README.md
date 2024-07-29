@@ -11,18 +11,18 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+https://www.youtube.com/embed/hQFEHH5E69s?rel=0
 
 The thumbnail url will look like this:<br>
 https://sirekanian.com/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
 
-## Saturn at the Moon's Edge
+## Sun Dance
 
-Copyright: Chengcheng Xu
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Saturn now rises before midnight in planet Earth's sky. On July 24, the naked-eye planet was in close conjunction, close on the sky, to a waning gibbous Moon. But from some locations on planet Earth the ringed gas giant was occulted, disappearing behind the Moon for about an hour from skies over parts of Asia and Africa. Because the Moon and bright planets wander through the sky near the ecliptic plane, such occultation events are not uncommon, but they can be dramatic. In this telescopic view from Nanjing, Jiangsu, China, Saturn is caught moments before its disappearance behind the lunar disk. The snapshot gives the illusion that Saturn hangs just above Glushko crater, a 43 kilometer diameter, young, ray crater near the Moon's western edge. Of course, the Moon is 400 thousand kilometers away, compared to Saturn's distance of 1.4 billion kilometers._
+_Explanation: Sometimes, the surface of our Sun seems to dance. In the middle of 2012, for example, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressive prominence that seemed to perform a running dive roll like an acrobatic dancer.  The dramatic explosion was captured in ultraviolet light in the featured time-lapse video covering about three hours. A looping magnetic field directed the flow of hot plasma on the Sun. The scale of the   dancing prominence is huge -- the entire Earth would easily fit under the flowing   arch of hot gas.  A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME), expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is still a topic of research.  Like in 2012, this year the Sun's surface is again quite active and features many filaments and prominences._
 
 ## Usages
 
@@ -30,6 +30,6 @@ The repository is used by [Spacetime][3] android application.
 
 [1]: image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+[2]: https://www.youtube.com/embed/hQFEHH5E69s?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
