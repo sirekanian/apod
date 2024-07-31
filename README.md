@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+https://sirekanian.com/apod/image/2407/Arp142_Webb_960.jpg
 
-## Sun Dance
+## Arp 142: Interacting Galaxies from Webb
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Sometimes, the surface of our Sun seems to dance. In the middle of 2012, for example, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressive prominence that seemed to perform a running dive roll like an acrobatic dancer.  The dramatic explosion was captured in ultraviolet light in the featured time-lapse video covering about three hours. A looping magnetic field directed the flow of hot plasma on the Sun. The scale of the   dancing prominence is huge -- the entire Earth would easily fit under the flowing   arch of hot gas.  A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME), expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is still a topic of research.  Like in 2012, this year the Sun's surface is again quite active and features many filaments and prominences._
+_Explanation: To some, it looks like a penguin. But to people who study the universe, it is an interesting example of two big galaxies interacting. Just a few hundred million years ago, the upper NGC 2936 was likely a normal spiral galaxy: spinning, creating stars, and minding its own business.  Then it got too close to the massive elliptical galaxy NGC 2937, below, and took a dive.  Together known as Arp 142, they are featured in this new Webb infrared image, while a visible light Hubble image appears in comparison.  NGC 2936 is not only being deflected, but distorted, by this close gravitational interaction.  When massive galaxies pass near each other, gas is typically condensed from which new stars form.  A young group of stars appears as the nose of the penguin toward the right of the upper galaxy, while in the center of the spiral, bright stars together appear as an eye.  Before a billion years, the two galaxies will likely merge into one larger galaxy.   Explore Your Universe: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2407/MoonSaturnOcc_Xu20240725_1024.jpg
+[1]: image/2407/Arp142_Webb_960.jpg
 
-[2]: https://www.youtube.com/embed/hQFEHH5E69s?rel=0
+[2]: https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
