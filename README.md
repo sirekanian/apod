@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2407/Arp142_Webb_960.jpg
+https://sirekanian.com/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
 
-## Arp 142: Interacting Galaxies from Webb
+## Comet Olbers over Kunetice Castle
 
-Copyright: (empty)
+Copyright: Petr Horálek
 
 [![the picture of the day][1]][2]
 
-_Explanation: To some, it looks like a penguin. But to people who study the universe, it is an interesting example of two big galaxies interacting. Just a few hundred million years ago, the upper NGC 2936 was likely a normal spiral galaxy: spinning, creating stars, and minding its own business.  Then it got too close to the massive elliptical galaxy NGC 2937, below, and took a dive.  Together known as Arp 142, they are featured in this new Webb infrared image, while a visible light Hubble image appears in comparison.  NGC 2936 is not only being deflected, but distorted, by this close gravitational interaction.  When massive galaxies pass near each other, gas is typically condensed from which new stars form.  A young group of stars appears as the nose of the penguin toward the right of the upper galaxy, while in the center of the spiral, bright stars together appear as an eye.  Before a billion years, the two galaxies will likely merge into one larger galaxy.   Explore Your Universe: Random APOD Generator_
+_Explanation: A visitor to the inner solar system every 70 years or so Comet 13P/Olbers reached its most recent perihelion, or closest approach to the Sun, on June 30 2024. Now on a return voyage to the distant Oort cloud the Halley-type comet is recorded here sweeping through northern summer night skies over historic Kunetice Castle, Czech Republic. Along with a broad dust tail, and brighter coma, this comet's long ion tail buffeted by storms and winds from the Sun, is revealed in the composite of tracked exposures for comet and sky, and fixed exposures for foreground landscape recorded on July 28. The comet is about 16 light-minutes beyond the castle and seen against faint background stars below the northern constellation Ursa Major. The hilltop castle dates to the 15th century, while Heinrich Olbers discovered the comet in 1815. Captured here low in northwestern skies just after sunset Comet Olbers, for now, offers skywatchers on planet Earth rewarding telescopic and binocular views. Comet 13P/Olbers next perihelion passage will be in 2094._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2407/Arp142_Webb_960.jpg
+[1]: image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2407/Arp142_Webb_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg
 
 [3]: https://github.com/sirekanian/spacetime
