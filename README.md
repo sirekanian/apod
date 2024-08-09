@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/XORui0wFKnE?rel=0
+https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2408/GloryFog_label.png
+https://sirekanian.com/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
 
-## Gaia: Here Comes the Sun
+## Periodic Comet Swift-Tuttle
 
-Copyright: (empty)
+Copyright: Gerald Rhemann
 
 [![the picture of the day][1]][2]
 
-_Explanation: What would it look like to return home from outside our galaxy? Although designed to answer greater questions, data from ESA's robotic Gaia mission is helping to provide a uniquely modern perspective on humanity's place in the universe.  Gaia orbits the Sun near the Earth and resolves stars' positions so precisely that it can determine a slight shift from its changing vantage point over the course of a year, a shift that is proportionately smaller for more distant stars -- and so determines distance.  In the first sequence of the video, an illustration of the Milky Way is shown that soon resolves into a three-dimensional visualization of Gaia star data.  A few notable stars are labelled with their common names, while others stars are labelled with numbers from a Gaia catalog. Eventually, the viewer arrives in our stellar neighborhood where many stars were tracked by Gaia, and soon at our home star Sol, the Sun. At the video's end, the reflective glow of Sol's third planet becomes visible: Earth._
+_Explanation: A Halley-type comet with an orbital period of about 133 years, Comet 109P/Swift-Tuttle is recognized as the parent of the annual Perseid Meteor Shower. The comet's last visit to the inner Solar System was in 1992. Then, it did not become easily visible to the naked eye, but it did become bright enough to see from most locations with binoculars and small telescopes. This stunning color image of Swift-Tuttle's greenish coma, long ion tail and dust tail was recorded using film on November 24, 1992. That was about 16 days after the large periodic comet's closest approach to Earth. Comet Swift-Tuttle is expected to next make an impressive appearance in night skies in 2126. Meanwhile, dusty cometary debris left along the orbit of Swift-Tuttle will continue to be swept up creating planet Earth's best-known July and August meteor shower._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2408/GloryFog_label.png
+[1]: image/2408/Rhemann799_109P_24_11_92_1100px.jpg
 
-[2]: https://www.youtube.com/embed/XORui0wFKnE?rel=0
+[2]: https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
 
 [3]: https://github.com/sirekanian/spacetime
