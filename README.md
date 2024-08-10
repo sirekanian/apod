@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+https://sirekanian.com/apod/image/2408/perseid_iss_4256_1024c.jpg
 
-## Periodic Comet Swift-Tuttle
+## A Perseid Below
 
-Copyright: Gerald Rhemann
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: A Halley-type comet with an orbital period of about 133 years, Comet 109P/Swift-Tuttle is recognized as the parent of the annual Perseid Meteor Shower. The comet's last visit to the inner Solar System was in 1992. Then, it did not become easily visible to the naked eye, but it did become bright enough to see from most locations with binoculars and small telescopes. This stunning color image of Swift-Tuttle's greenish coma, long ion tail and dust tail was recorded using film on November 24, 1992. That was about 16 days after the large periodic comet's closest approach to Earth. Comet Swift-Tuttle is expected to next make an impressive appearance in night skies in 2126. Meanwhile, dusty cometary debris left along the orbit of Swift-Tuttle will continue to be swept up creating planet Earth's best-known July and August meteor shower._
+_Explanation: Denizens of planet Earth typically watch meteor showers by looking up. But this remarkable view, captured on August 13, 2011 by astronaut Ron Garan, caught a Perseid meteor by looking down. From Garan's perspective on board the International Space Station orbiting at an altitude of about 380 kilometers, the Perseid meteors streak below, swept up dust from comet Swift-Tuttle. The vaporizing comet dust grains are traveling at about 60 kilometers per second through the denser atmosphere around 100 kilometers above Earth's surface. In this case, the foreshortened meteor flash is near frame center, below the curving limb of the Earth and a layer of greenish airglow, just below bright star Arcturus. Want to look up at a meteor shower?  You're in luck, as the 2024 Perseid meteor shower is active now and predicted to peak near August 12. With interfering bright moonlight absent, this year you'll likely see many Perseid meteors under clear, dark skies after midnight._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+[1]: image/2408/perseid_iss_4256_1024c.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg
+[2]: https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg
 
 [3]: https://github.com/sirekanian/spacetime
