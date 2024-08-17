@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+https://sirekanian.com/apod/image/2408/JZ8_3744Dain_1024c.jpg
 
-## Late Night Vallentuna
+## Meteor Borealis
 
-Copyright: Clear Skies
+Copyright: Jason Dain
 
 [![the picture of the day][1]][2]
 
-_Explanation: Bright Mars and even brighter Jupiter are in close conjunction just above the pine trees in this post-midnight skyscape from Vallentuna, Sweden. Taken on August 12 during a geomagnetic storm, the snapshot records the glow of aurora borealis or northern lights, beaming from the left side of the frame. Of course on that date Perseid meteors rained through planet Earth's skies, grains of dust from the shower's parent, periodic comet Swift-Tuttle. The meteor streak at the upper right is a Perseid plowing through the atmosphere at about 60 kilometers per second. Also well-known in Earth's night sky, the bright Pleiades star cluster shines below the Perseid meteor streak. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. The Pleiades and their parents' names are given to the cluster's nine brightest stars.   Gallery: Perseid Meteor Shower 2024 and Aurorae_
+_Explanation: A single exposure made with a camera pointed almost due north on August 12 recorded this bright Perseid meteor in the night sky west of Halifax, Nova Scotia, Canada. The meteor's incandescent trace is fleeting. It appears to cross the stars of the Big Dipper, famous northern asterism and celestial kitchen utensil, while shimmering curtains of aurora borealis, also known as the northern lights, dance in the night. Doubling the wow factor for night skywatchers near the peak of this year's Perseid meteor shower auroral activity on planet Earth was enhanced by geomagnetic storms. The intense space weather was triggered by flares from an active Sun.   Gallery: Perseid Meteor Shower 2024 and Aurorae_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2408/PerseidM45Aurora_Heden1024.jpg
+[1]: image/2408/JZ8_3744Dain_1024c.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg
 
 [3]: https://github.com/sirekanian/spacetime
