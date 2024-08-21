@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2408/RocketGannaway_1100c.jpg
+https://sirekanian.com/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
 
-## A Solar Prominence Eruption from SDO
+## Supermoon Beyond the Temple of Poseidon
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: One of the most spectacular solar sights is an erupting prominence. In 2011, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressively large prominence erupting from the surface. The dramatic explosion was captured in ultraviolet light in the featured time lapse video covering 90 minutes, where a new frame was taken every 24 seconds.  The scale of the prominence is huge -- the entire Earth would easily fit under the flowing  curtain of hot gas.  A solar prominence is channeled and sometimes held above the Sun's surface by the Sun's magnetic field. A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is a continuing topic of research.  Our Sun is again near solar maximum and so very active, featuring numerous erupting prominences and CMEs, one of which resulted in picturesque auroras just over the past week._
+_Explanation: A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2408/RocketGannaway_1100c.jpg
+[1]: image/2408/SupermoonPoseidon_Maragos_960.jpg
 
-[2]: https://www.youtube.com/embed/PBL1RBj-P1g?rel=0
+[2]: https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
