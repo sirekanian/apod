@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2408/EnceladusStripes_Cassini_960.jpg
+https://sirekanian.com/apod/image/2408/M17SwanMaxant_1024.jpg
 
-## Perseid Meteors Over Inner Mongolia
+## Star Factory Messier 17
 
-Copyright: (empty)
+Copyright: Gaetan Maxant
 
 [![the picture of the day][1]][2]
 
-_Explanation: Did you see it?  One of the more common questions during a meteor shower occurs because the time it takes for a meteor to flash is similar to the time it takes for a head to turn.  Possibly, though, the glory of seeing bright meteors shoot across the sky -- while knowing that they were once small pebbles on another world -- might make it all worthwhile, even if your observing partner(s) can't always share in your experience. The featured video is composed of short clips taken in Inner Mongolia, China during the 2023 Perseid Meteor Shower. Several bright meteors were captured while live-reaction audio was being recorded -- just as the meteors flashed.  This year's 2024 Perseids also produced many beautiful meteors. Another good meteor shower to watch for is the Geminids which peak yearly in mid-December, this year with relatively little competing glow from a nearly new Moon.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)_
+_Explanation: A nearby star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1.5 degree wide field-of-view would span about 150 light-years. In the sharp color composite image faint details of the region's gas and dust clouds are highlighted with narrowband image data against a backdrop of central Milky Way stars. The stellar winds and energetic radiation from hot, massive stars already formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the nebula's cavernous appearance and the undulating shapes within. A popular stop on telescopic tours of the cosmos, M17 is also known as the Omega or the Swan Nebula._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2408/EnceladusStripes_Cassini_960.jpg
+[1]: image/2408/M17SwanMaxant_1024.jpg
 
-[2]: https://www.youtube.com/embed/CwrvN0Q9_Sg?rel=0
+[2]: https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
