@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg
+https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2409/Moonalisa_Example1024.jpg
+https://sirekanian.com/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
 
-## The Moona Lisa
+## Mercury's Vivaldi Crater from BepiColombo
 
-Copyright: Gianni Sarcone
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Only natural colors of the Moon in planet Earth's sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci's most famous works of art.  Tonight: International Observe the Moon Night_
+_Explanation: Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2409/Moonalisa_Example1024.jpg
+[1]: image/2409/MercuryCaloris_BepiColombo_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
