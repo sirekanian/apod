@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
+https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
+https://sirekanian.com/apod/image/2409/LDN1082_px1024.jpg
 
-## Mercury's Vivaldi Crater from BepiColombo
+## The Dark Seahorse of Cepheus
 
-Copyright: (empty)
+Copyright: Davide Broise
 
 [![the picture of the day][1]][2]
 
-_Explanation: Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026._
+_Explanation: Spanning light-years, this suggestive shape known as the Seahorse Nebula floats in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, dark nebula is part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful Milky Way stars of Cepheus add to this stunning galactic skyscape.   Growing Gallery: This week's supermoon eclipse_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2409/MercuryCaloris_BepiColombo_960.jpg
+[1]: image/2409/LDN1082_px1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
