@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg
+https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2409/Galileo_L13_DSC_9929.jpg
+https://sirekanian.com/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
 
-## Rocket Eclipse at Sunset
+## Seven Dusty Sisters
 
-Copyright: Ben Cooper
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Shockwaves ripple across the glare as a launch eclipses the setting Sun in this exciting close-up. Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit after a lift-off from Cape Canaveral on Florida's space coast.  The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch and landing for the reusable workhorse launch vehicle. But where did it land? Just Read the Instructions._
+_Explanation: Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here, three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6 microns). The base images were taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus)._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2409/Galileo_L13_DSC_9929.jpg
+[1]: image/2409/Pleiades_WiseAntonucci_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg
+[2]: https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
