@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
+https://www.youtube.com/embed/ExGvwNuKyMc?rel=0
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
+https://sirekanian.com/apod/
 
-## Seven Dusty Sisters
+## Porphyrion: The Longest Known Black Hole Jets
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here, three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6 microns). The base images were taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus)._
+_Explanation: How far can black hole jets extend? A new record was found just recently with the discovery of a 23-million light-year long jet pair from a black hole active billions of years ago.  Dubbed Porphyrion for a mythological Greek giant, the impressive jets were created by a type of black hole that does not usually create long jets -- one that is busy creating radiation from infalling gas. The featured animated video depicts what it might look like to circle around this powerful black hole system.  Porphyrion is shown as a fast stream of energetic particles, and the bright areas are where these particles are impacting surrounding gas. The discovery was made using data from the Keck and Mayall  (DESI) optical observatories as well as LOFAR and the Giant Metrewave Radio Telescope.  The existence of these jets demonstrates that black holes can affect not only their home galaxies but far out into the surrounding universe.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2409/Pleiades_WiseAntonucci_960.jpg
+[1]: 
 
-[2]: https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg
+[2]: https://www.youtube.com/embed/ExGvwNuKyMc?rel=0
 
 [3]: https://github.com/sirekanian/spacetime
