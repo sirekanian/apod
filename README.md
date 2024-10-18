@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg
+https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2410/SohoKy3_1024.jpg
+https://sirekanian.com/apod/image/2410/EuropaComet_cooper3.jpg
 
-## Five Bright Comets from SOHO
+## The Clipper and the Comet
 
-Copyright: (empty)
+Copyright: Ben Cooper
 
 [![the picture of the day][1]][2]
 
-_Explanation: Five bright comets are compared in these panels, recorded by a coronograph on board the long-lived, sun-staring SOHO spacecraft. Arranged chronologically all are recognizable by their tails streaming away from the Sun at the center of each field of view, where a direct view of the overwhelmingly bright Sun is blocked by the coronagraph's occulting disk. Each comet was memorable for earthbound skygazers, starting at top left with Comet McNaught, the 21st century's brightest comet (so far). C/2023 A3 Tsuchinshan-Atlas, approaching its perihelion with the active Sun at bottom center, has most recently grabbed the attention of comet watchers around the globe. By the end of October 2024, the blank 6th panel may be filled with bright sungrazer comet C/2024 S1 Atlas. ... or not._
+_Explanation: NASA's Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission's successful October 14 launch. Europa Clipper's interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet's closest approach to Earth. A current darling of evening skies, the naked-eye comet is a visitor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2410/SohoKy3_1024.jpg
+[1]: image/2410/EuropaComet_cooper3.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg
 
 [3]: https://github.com/sirekanian/spacetime
