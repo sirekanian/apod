@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg
+https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2410/M16_HubbleWebbPisano_960.jpg
+https://sirekanian.com/apod/image/2410/NGC7293_preview1024.png
 
-## M16: Pillars of Star Creation
+## NGC 7293: The Helix Nebula
 
-Copyright: (empty)
+Copyright: Patrick Winkler
 
 [![the picture of the day][1]][2]
 
-_Explanation: These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day_
+_Explanation: A mere seven hundred light years from Earth toward the constellation Aquarius, a star is dying. The once sun-like star's last few thousand years have produced the Helix Nebula. Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix's center is this Planetary Nebula's hot, dying central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2410/M16_HubbleWebbPisano_960.jpg
+[1]: image/2410/NGC7293_preview1024.png
 
-[2]: https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png
 
 [3]: https://github.com/sirekanian/spacetime
