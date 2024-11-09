@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg
+https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2411/NGC474_S1_Crop1024.jpg
+https://sirekanian.com/apod/image/2411/Ldn1355HelpingHandFR1024.png
 
-## Shell Galaxies in Pisces
+## Helping Hand in Cassiopeia
 
-Copyright: George Williams
+Copyright: Francesco Radici
 
 [![the picture of the day][1]][2]
 
-_Explanation: This spectacular intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966 Atlas of Peculiar Galaxies. Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The readily apparent shells and star streams of NGC 474 are likely tidal features originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago. The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another merging galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The telescopic field of view spans 25 arc minutes or just under 1/2 degree on the sky._
+_Explanation: Drifting near the plane of our Milky Way galaxy these dusty molecular clouds seem to extend a helping hand on a cosmic scale. Part of a local complex of star-forming interstellar clouds they include LDN 1358, 1357, and 1355 from American astronomer Beverly Lynds' 1962 Catalog of Dark Nebulae. Presenting a challenging target for astro-imagers, the obscuring dark nebulae are nearly 3,000 light-years away, toward rich starfields in the northern constellation Cassiopeia. At that distance, this deep, telescopic field of view would span about 80 light-years._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2411/NGC474_S1_Crop1024.jpg
+[1]: image/2411/Ldn1355HelpingHandFR1024.png
 
-[2]: https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2411/Ldn1355HelpingHandFR1024.png
 
 [3]: https://github.com/sirekanian/spacetime
