@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg
+https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2411/LDN1105ElephantTrunk1024.jpg
+https://sirekanian.com/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg
 
-## The Elephant's Trunk in Cepheus
+## The Medusa Nebula
 
-Copyright: Giorgio Ferrari
+Copyright: Bruno Rota Sargi
 
 [![the picture of the day][1]][2]
 
-_Explanation: Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons._
+_Explanation: Braided and serpentine filaments of glowing gas suggest this nebula's popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa's transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend below and to the left. The Medusa Nebula is estimated to be over 4 light-years across._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2411/LDN1105ElephantTrunk1024.jpg
+[1]: image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
