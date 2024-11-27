@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/FNHexFdacK0?rel=0
+https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2411/earth_cassinimessenger_1024c.jpg
+https://sirekanian.com/apod/image/2411/Sombrero_WebbHubble_960.jpg
 
-## Journey to the Center of the Galaxy
+## The Sombrero Galaxy from Webb and Hubble
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What lies at the center of our galaxy? In Jules Verne's science fiction classic, A Journey to the Center of the Earth, Professor Liedenbrock and his fellow explorers encounter many strange and exciting wonders. Astronomers already know of some of the bizarre objects that exist at our Galactic Center, including vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. The featured video is actually a digital zoom into the Milky Way's center which starts by utilizing visible light images from the Digitized Sky Survey. As the movie proceeds, the light shown shifts to dust-penetrating infrared and highlights gas clouds that were recently discovered in 2013 to be falling toward the central black hole._
+_Explanation: This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy is one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in visible light (bottom panel) actually glows brightly in infrared light (top panel).  The featured image shows the infrared glow in false blue, recorded recently by the space-based James Webb Space Telescope (JWST) and released yesterday,  pictured above an archival image taken by NASA's Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2411/earth_cassinimessenger_1024c.jpg
+[1]: image/2411/Sombrero_WebbHubble_960.jpg
 
-[2]: https://www.youtube.com/embed/FNHexFdacK0?rel=0
+[2]: https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
