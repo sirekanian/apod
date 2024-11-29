@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg
+https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2411/Sombrero_WebbHubble_960.jpg
+https://sirekanian.com/apod/image/2411/NGC206_APOD1024.jpg
 
-## The Sombrero Galaxy from Webb and Hubble
+## NGC 206 and the Star Clouds of Andromeda
 
-Copyright: (empty)
+Copyright: Roberto Marinoni
 
 [![the picture of the day][1]][2]
 
-_Explanation: This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy is one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in visible light (bottom panel) actually glows brightly in infrared light (top panel).  The featured image shows the infrared glow in false blue, recorded recently by the space-based James Webb Space Telescope (JWST) and released yesterday,  pictured above an archival image taken by NASA's Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo._
+_Explanation: The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2411/Sombrero_WebbHubble_960.jpg
+[1]: image/2411/NGC206_APOD1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
