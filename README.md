@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg
+https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2412/SaturnAurora_Hubble_960.jpg
+https://sirekanian.com/apod/image/2601/M51_Sleeman_960.jpg
 
-## Aurora around Saturn's North Pole
+## M51: The Whirlpool Galaxy
 
-Copyright: (empty)
+Copyright: Michael Sleeman
 
 [![the picture of the day][1]][2]
 
-_Explanation: Are Saturn's auroras like Earth's?  To help answer this question, the Hubble Space Telescope and the Cassini spacecraft monitored Saturn's North Pole simultaneously during Cassini's final orbits around the gas giant in September 2017.  During this time, Saturn's tilt caused its North Pole to be clearly visible from Earth. The featured image is a composite of ultraviolet images of auroras and optical images of Saturn's clouds and rings, all taken by Hubble.  Like on Earth, Saturn's northern auroras can make total or partial rings around the pole. Unlike on Earth, however, Saturn's auroras are frequently spirals -- and more likely to peak in brightness just before midnight and dawn.  In contrast to Jupiter's auroras, Saturn's auroras appear better related to connecting Saturn's internal magnetic field to the nearby, variable, solar wind.  Saturn's southern auroras were similarly imaged back in 2004 when the planet's South Pole was clearly visible to Earth.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)_
+_Explanation: The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2412/SaturnAurora_Hubble_960.jpg
+[1]: image/2601/M51_Sleeman_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
