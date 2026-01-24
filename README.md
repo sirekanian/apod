@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg
+https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2601/ldn1622fellows1024.jpg
+https://sirekanian.com/apod/image/2601/Abell7pugh1024.jpg
 
-## LDN 1622: Dark Nebula in Orion
+## Planetary Nebula Abell 7
 
-Copyright: Chris Fellows
+Copyright: Martin Pugh
 
 [![the picture of the day][1]][2]
 
-_Explanation: The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula._
+_Explanation: Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2601/ldn1622fellows1024.jpg
+[1]: image/2601/Abell7pugh1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
