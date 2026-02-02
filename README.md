@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg
+https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2601/NGC1333_Robert_Eder1024.jpg
+https://sirekanian.com/apod/image/2602/MarsHappyFace_mgs_960.jpg
 
-## NGC 1333: Stellar Nursery in Perseus
+## Galle: Happy Face Crater on Mars
 
-Copyright: Robert Eder
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago._
+_Explanation: Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2601/NGC1333_Robert_Eder1024.jpg
+[1]: image/2602/MarsHappyFace_mgs_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
