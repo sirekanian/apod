@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg
+https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg
+https://sirekanian.com/apod/image/2602/greencompany_rive_960.jpg
 
-## Miranda Revisited
+## In Green Company: Aurora over Norway
 
-Copyright: (empty)
+Copyright: Max Rive
 
 [![the picture of the day][1]][2]
 
-_Explanation: What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day_
+_Explanation: Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2602/Miranda_Voyager2Zelario12_960.jpg
+[1]: image/2602/greencompany_rive_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
