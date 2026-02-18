@@ -9,7 +9,7 @@
     "url": "https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_960.jpg"
   },
   {
-    "copyright": "\nRobert G. Lyons  \n(Robservatory) \n",
+    "copyright": "Robert G. Lyons  \n(Robservatory)",
     "date": "2026-02-02",
     "explanation": "What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg",
@@ -28,7 +28,7 @@
     "url": "https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg"
   },
   {
-    "copyright": "\nDaniel Stern\n",
+    "copyright": "Daniel Stern",
     "date": "2026-02-04",
     "explanation": "Most galaxies don't have any rings -- why does this galaxy have three?  To begin, a ring that's near NGC 1512's center -- and so hard to see here -- is the nuclear ring which glows brightly with recently formed stars.  Next out is a ring of stars and dust appearing both red and blue, called, counter-intuitively, the inner ring.  This inner ring connects ends of a diffuse central bar of stars that runs horizontally across the galaxy.  Farthest out in this wide field image is a ragged structure that might be considered an outer ring. This outer ring appears spiral-like and is dotted with clusters of bright blue stars.  All these ring structures are thought to be affected by NGC 1512's own gravitational asymmetries in a drawn-out process called secular evolution.  The featured image was captured last month from a telescope at Deep Sky Chile in Chile.",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg",
@@ -66,7 +66,7 @@
     "url": "https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg"
   },
   {
-    "copyright": "\nDaniel Korona\n",
+    "copyright": "Daniel Korona",
     "date": "2026-02-08",
     "explanation": "An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg",
@@ -85,7 +85,7 @@
     "url": "https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg"
   },
   {
-    "copyright": "\nMax Rive\n",
+    "copyright": "Max Rive",
     "date": "2026-02-10",
     "explanation": "Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator",
     "hdurl": "https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg",
@@ -150,5 +150,15 @@
     "service_version": "v1",
     "title": "Unexplained Shocks Around a White Dwarf Star",
     "url": "https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg"
+  },
+  {
+    "copyright": "José J. Chambó; \n Text: \nCecilia Chirenti \n(NASA\nGSFC, \nUMCP, \nCRESST II)",
+    "date": "2026-02-17",
+    "explanation": "Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1280.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Tails of Comet Wierzchoś",
+    "url": "https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg"
   }
 ]
