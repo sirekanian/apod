@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg
+https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2602/Wierzchos_Chabo_1080.jpg
+https://sirekanian.com/apod/image/2602/IC2574Vetter1050.jpg
 
-## Tails of Comet Wierzchoś
+## IC 2574: Coddington's Nebula
 
-Copyright: José J. Chambó;  Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II)
+Copyright: Dane Vetter
 
 [![the picture of the day][1]][2]
 
-_Explanation: Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300._
+_Explanation: Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2602/Wierzchos_Chabo_1080.jpg
+[1]: image/2602/IC2574Vetter1050.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg
 
 [3]: https://github.com/sirekanian/spacetime
