@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg
+https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2602/B93_bertincourt_1080.jpg
+https://sirekanian.com/apod/image/2602/20260219a_c1024.jpg
 
-## B93: A Dark Interstellar Ghost
+## Twilight with Moon and Planets
 
-Copyright: Christian Bertincourt; Text:Keighley Rockcliffe  (NASAGSFC, UMBCCSST, CRESST II)
+Copyright: Tunc Tezel
 
 [![the picture of the day][1]][2]
 
-_Explanation: "A ghost in the Milky Way…” says Christian Bertincourt, the astrophotographer behind this striking image of Barnard 93 (B93).  The 93rd entry in Barnard’s Catalogue of Dark Nebulae, B93 lies within the Small Sagittarius Star Cloud (Messier 24), where its darkness stands in stark contrast to bright stars and gas in the background.  In some ways, B93 is really like a ghost, because it contains gas and dust that was dispersed by the deaths of stars, like supernovas.  B93 appears as a dark void not because it is empty, but because its dust blocks the light emitted by more distant stars and glowing gas.  Like other dark nebulas, some gas from B93, if dense and massive enough, will eventually gravitationally condense to form new stars.  If so, then once these stars ignite, B93 will transform from a dark ghost into a brilliant cradle of newborn stars._
+_Explanation: Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2602/B93_bertincourt_1080.jpg
+[1]: image/2602/20260219a_c1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
