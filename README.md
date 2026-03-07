@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg
+https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/EclipseSequence_Murata_1080.jpg
+https://sirekanian.com/apod/image/2603/astrosphere_labeled_1024.jpg
 
-## Total Lunar Eclipse over Tsé Bit'a'í
+## The Astrosphere of HD 61005
 
-Copyright: Satoru Murata;Text: Keighley Rockcliffe (NASAGSFC, UMCP, CRESST II)
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: rlier this week, Earth’s shadow swept across the full Moon in the year’s only total lunar eclipse. This stunning sequence combines images showing the Moon’s path across the night sky.  Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.  Sunlight scatters and refracts as it passes through Earth’s atmosphere toward the Moon. Shorter wavelength light (blue and green) scatters more efficiently, leaving red, orange, and yellow hues to paint the lunar surface. Tsé Bit'a'í (”rock with wings”, also known as Shiprock), located in Navajo Nation, provides a powerful volcanic foreground central to this photo and to stories of Navajo origin, adventure, and heroism. As the first full moon of the lunar new year, this eclipse held significance across cultures. Visible from East Asia to North America, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.   Growing Gallery: Total Lunar Eclipse of March 3_
+_Explanation: Do young stars blow bubbles? The larger view shows a stellar field observed with the Cerro Tololo Inter-American Observatory in Chile, and the inset highlights HD 61005, a star like our Sun, only 120 light-years away. Much younger than the Sun, at just about 100 million years old, it blows a fast and dense stellar wind that pushes out the cooler dust and gas that surrounds it, forming a bubble called an astrosphere. The star-blown bubble was detected with the Chandra X-ray Observatory, and it has a diameter roughly 200 times the Earth-Sun distance.  Our Sun has a bubble too, called the heliosphere, which protects the planets from cosmic radiation. Also shown in the inset is debris left behind from star formation, observed by Hubble. The debris appears as wings, giving the star its nickname: the Moth._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/EclipseSequence_Murata_1080.jpg
+[1]: image/2603/astrosphere_labeled_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2603/astrosphere_labeled_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
