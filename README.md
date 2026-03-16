@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
+https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
+https://sirekanian.com/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
 
-## A Year for K2-315b
+## Equinox at the Pyramid of the Feathered Serpent
 
-Copyright: (empty)
+Copyright: Robert Fedez
 
 [![the picture of the day][1]][2]
 
-_Explanation: Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth._
+_Explanation: To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
+[1]: image/2603/MayanMilkyWay_Fernandez_1080.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
 
 [3]: https://github.com/sirekanian/spacetime
