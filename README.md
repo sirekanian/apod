@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
+https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
+https://sirekanian.com/apod/image/2603/SpanishDancer_Hubble_960.jpg
 
-## Equinox at the Pyramid of the Feathered Serpent
+## NGC 1566: The Spanish Dancer Galaxy
 
-Copyright: Robert Fedez
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth._
+_Explanation: If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/MayanMilkyWay_Fernandez_1080.jpg
+[1]: image/2603/SpanishDancer_Hubble_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
