@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
+https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/cygnus_tree_crop.jpg
+https://sirekanian.com/apod/image/2603/jellyfish_1024.jpg
 
-## Cygnus and the Solitary Tree
+## Launch Plume: SpaceX Jellyfish
 
-Copyright: 2025 Horacio Lander / AstroHoracioText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
+Copyright: Michael Seeley
 
 [![the picture of the day][1]][2]
 
-_Explanation: A lone tree stands in a quiet meadow in Guadalajara, Spain, silhouetted against the Cygnus region rising above like flames in the night sky.  This deep night skyscape is a composite of exposures that reveals a range of brightness and color human eyes can't quite see on their own. Spanning over a thousand times the angular size of the full moon, Cygnus sets the sky afire with active star formation where clouds of gas and dust collapse under gravity until nuclear fusion ignites and new stars are born. These stars  ionize the surrounding hydrogen gas, causing it to glow crimson, while tendrils of interstellar dust absorb some of that light and cast dark shadows across the sky. Cygnus is a trove of celestial treasures, notably the Veil, Crescent, and Pelican nebulae, as well as  Cygnus X-1, the first confirmed black hole.  Cygnus continues to yield fresh science, including a new three-dimensional model of the Cygnus Loop made possible by the Chandra X-ray Observatory.   Almost Hyperspace: Random APOD Generator_
+_Explanation: ven if you live with your head in the clouds, you won’t find a jellyfish like this one very often. The featured image shows a SpaceX Falcon 9 rocket launch from Cape Canaveral in Florida on March 4. The launch happened 52 minutes before sunrise, and the second stage rocket exhaust plume was high enough in the sky to catch the light of the rising sun, while the photographer was still in the dark. This combination of light and shadow, possible at dawn or dusk, makes the exhaust, mostly water vapor and carbon dioxide, appear as a glowing cloud. It only looks like it's going down, as the rocket follows the curvature of the Earth on its way to space. A related effect is the twilight phenomenon, which causes colorful contrails sometimes mistaken for UFOs. But, in case you are wondering: real jellyfish were sent to space by NASA in the 1990s as part of a science experiment._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/cygnus_tree_crop.jpg
+[1]: image/2603/jellyfish_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/cygnus_tree_crop.jpg
+[2]: https://apod.nasa.gov/apod/image/2603/jellyfish_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
