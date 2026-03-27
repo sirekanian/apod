@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg
+https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/rapa_nui_milky_way_1024.jpeg
+https://sirekanian.com/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 
-## The Guardians of Rapa Nui beneath the Milky Way
+## Black Holes and Neutron Stars: 218 Mergers and Counting
 
-Copyright: Rositsa DimitrovaText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: In the words of today's astrophotographer, Rositsa Dimitrova, "What have these silent sentinels watched pass across the sky?" The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire._
+_Explanation: What is the sound of two black holes merging in deep space? Sound waves don't propagate in vacuum, but gravitational waves do. In 2015 we were able to "hear" them for the first time and confirm one of Albert Einstein's theoretical predictions. Each square on the grid of the featured image represents one of the gravitational wave detections announced so far by the LIGO-VIRGO-KAGRA Collaboration. These plots show how the binary pair accelerates in their orbit around each other towards merger: the rising frequency effect is called a "chirp". Although there are significantly more neutron stars than black holes, most of the detections are binary black hole mergers. That happens because black holes are heavier and their signals are louder and can be seen farther away, resulting in more detections. These events are rare, and we don't expect to see one close by in our Galaxy any time soon. But they are happening continuously throughout the cosmos._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/rapa_nui_milky_way_1024.jpeg
+[1]: image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg
+[2]: https://apod.nasa.gov/apod/image/2603/GWTC4-Events-Poster-Landscape_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
