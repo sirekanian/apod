@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg
+https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2603/CenA_SADR_1080.jpg
+https://sirekanian.com/apod/image/2604/claw_bubble_800.jpg
 
-## Peculiar Elliptical Galaxy Centaurus A
+## The Claw and Bubble Nebulae
 
-Copyright: SADR Observatory Team: J-C Dalouzy, P. Bazart, M. Dherbécourt, C. Humbert,  G. Leroy, J-P Quéau, H. Talbot, (empty) E. Valin
+Copyright: Richard WhiteheadText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day_
+_Explanation: What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2603/CenA_SADR_1080.jpg
+[1]: image/2604/claw_bubble_800.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2603/CenA_SADR_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg
 
 [3]: https://github.com/sirekanian/spacetime
