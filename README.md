@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg
+https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/art002e000192_1050.jpg
+https://sirekanian.com/apod/image/2604/ngc3310_gemini_960.jpg
 
-## Hello World
+## NGC 3310: A Starburst Spiral Galaxy
 
-Copyright: (empty)
+Copyright: AAO ITSO Office, Gemini Obs./AURA (empty) T. A. Rector (U. Alaska Anchorage)
 
 [![the picture of the day][1]][2]
 
-_Explanation: From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago. (Editor's note: Venus is photobombing Wiseman's historic pic. Currently appearing in our western skies after sunset, the inner planet is in the frame below and right of Earth's bright limb, immersed in a faint band of zodiacal light.)_
+_Explanation: The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/art002e000192_1050.jpg
+[1]: image/2604/ngc3310_gemini_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg
+[2]: https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
