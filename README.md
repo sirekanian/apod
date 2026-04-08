@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/moonGamera_velHighRes_3-3-2026c_artemisII_wind_1080p30_2.mp4
+https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/ngc3310_gemini_960.jpg
+https://sirekanian.com/apod/image/2604/BlueHorse_Alkuwari_960.jpg
 
-## The Path of Artemis II
+## IC 4592: The Blue Horsehead Reflection Nebula
 
-Copyright: (empty)
+Copyright: Rabeea Alkuwari
 
 [![the picture of the day][1]][2]
 
-_Explanation: Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 -- which landed.  As the trajectory in the featured animated video shows, Artemis II will loop around both the Earth and the Moon before returning to the Earth about 10 days after launch. The Artemis II mission will take humans outside the Earth's magnetosphere for the first time since the Apollo missions 50 years ago.  In the video, particles from the solar wind are shown as streaks, while the Earth's reacting magnetosphere is shown in flickering green.  The Earth's magnetosphere is important in deflecting powerful particles arriving from the Sun as well as creating picturesque auroras visible from the Earth's surface.    Explore the Universe: Random APOD Generator_
+_Explanation: Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/ngc3310_gemini_960.jpg
+[1]: image/2604/BlueHorse_Alkuwari_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2604/moonGamera_velHighRes_3-3-2026c_artemisII_wind_1080p30_2.mp4
+[2]: https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
