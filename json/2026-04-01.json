@@ -65,5 +65,32 @@
     "service_version": "v1",
     "title": "IC 4592: The Blue Horsehead Reflection Nebula",
     "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg"
+  },
+  {
+    "date": "2026-04-08",
+    "explanation": "And to all of you down there on Earth and around Earth, we love you, from the Moon. We will see you on the other side, said Artemis II pilot Victor Glover on \r April 6th at 6:44pm ET \r as 8.3 billion minus four people and one Earth \r set \r below the Moon's horizon. The Orion spacecraft, Integrity, then traveled behind the Moon as part of its seven-hour lunar flyby. \r The crew characterized \r never-before-seen regions of \r the far side of the Moon, \r which is \r puzzlingly less volcanically active \r than the near side. New observations of \r crater peaks, floors, terraces, and rings \r preserved on the lunar surface will \r help piece together the impact history of the Solar System. \r Among many other surface characterizations, the crew observed one of the Moon's best-preserved basins, \r the Orientale basin, \r and identified \r two new craters. \r As \r Earth rose \r above the Moon’s horizon and Integrity began its return home, Artemis II mission specialist Christina Koch powerfully summarized humanity’s grander mission: ...we will always choose Earth. We will always choose each other.",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/earthset_original.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earthset",
+    "url": "https://apod.nasa.gov/apod/image/2604/earthset_700.jpg"
+  },
+  {
+    "date": "2026-04-09",
+    "explanation": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.",
+    "media_type": "video",
+    "service_version": "v1",
+    "title": "Destruction of Comet C/2026 A1 (MAPS)",
+    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4"
+  },
+  {
+    "copyright": "Mike Selby",
+    "date": "2026-04-10",
+    "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 50 thousand light-years, this stunning telescopic frame also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.   Artemis II: Splashdown",
+    "hdurl": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Exploring the Antennae",
+    "url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg"
   }
 ]
