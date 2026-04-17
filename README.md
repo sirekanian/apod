@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg
+https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg
+https://sirekanian.com/apod/image/2604/Southern_Celestial_Pole_800.jpg
 
-## Exploring the Antennae
+## South Celestial Tree
 
-Copyright: Mike Selby
+Copyright: Kiko Fairbairn
 
 [![the picture of the day][1]][2]
 
-_Explanation: Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large clouds of molecular gas and dust often do, triggering furious episodes of star formation near the center of the cosmic wreckage. Spanning over 50 thousand light-years, this stunning telescopic frame also reveals new star clusters and matter flung far from the scene of the accident by gravitational tidal forces. The remarkably sharp ground-based image follows the faint tidal tails and distant background galaxies in the field of view. The suggestive overall visual appearance of the extended arcing structures gives the galaxy pair, also known as Arp 244, its popular name - The Antennae.   Artemis II: Splashdown_
+_Explanation: If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the Southern Cross can be used to find south. The featured image was taken in Padre Bernardo (GO), Brazil. It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018. Each star takes about 24 hours to make a complete turn around the pole in the sky. Padre Bernardo is located in the Cerrado region, a tropical savanna that occupies most of central Brazil and supports rich biodiversity. The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the dry season during the southern winter._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg
+[1]: image/2604/Southern_Celestial_Pole_800.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
 
 [3]: https://github.com/sirekanian/spacetime
