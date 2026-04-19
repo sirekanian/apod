@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
+https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/Southern_Celestial_Pole_800.jpg
+https://sirekanian.com/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
 
-## South Celestial Tree
+## PanSTARRS and Planets
 
-Copyright: Kiko Fairbairn
+Copyright: Luc Perrot
 
 [![the picture of the day][1]][2]
 
-_Explanation: If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the Southern Cross can be used to find south. The featured image was taken in Padre Bernardo (GO), Brazil. It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018. Each star takes about 24 hours to make a complete turn around the pole in the sky. Padre Bernardo is located in the Cerrado region, a tropical savanna that occupies most of central Brazil and supports rich biodiversity. The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the dry season during the southern winter._
+_Explanation: Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune. Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon. This is a good weekend for northern hemisphere comet watchers to try to catch PanSTARRS an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19. On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare. Good views of this comet PanSTARRS in late April and early May will be from the southern hemisphere._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/Southern_Celestial_Pole_800.jpg
+[1]: image/2604/PanstarrsPlanetsPerrotLab1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg
+[2]: https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
