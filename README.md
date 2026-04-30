@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg
+https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/CG30Globules_Salamme_960.jpg
+https://sirekanian.com/apod/image/2604/moon_venus_pleiades_zoom.jpg
 
-## CG 30: Cometary Globules
+## The Moon, Venus, and the Pleiades
 
-Copyright: Marcelo Salemme
+Copyright: Gianni TuminoText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
 
 [![the picture of the day][1]][2]
 
-_Explanation: They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation._
+_Explanation: No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/CG30Globules_Salamme_960.jpg
+[1]: image/2604/moon_venus_pleiades_zoom.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg
 
 [3]: https://github.com/sirekanian/spacetime
