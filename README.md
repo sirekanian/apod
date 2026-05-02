@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg
+https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2604/moon_venus_pleiades_zoom.jpg
+https://sirekanian.com/apod/image/2605/M84andM86_1024.png
 
-## The Moon, Venus, and the Pleiades
+## Markarian's Chain
 
-Copyright: Gianni TuminoText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
+Copyright: Chuck Ayoub
 
 [![the picture of the day][1]][2]
 
-_Explanation: No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades._
+_Explanation: Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2604/moon_venus_pleiades_zoom.jpg
+[1]: image/2605/M84andM86_1024.png
 
-[2]: https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg
+[2]: https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png
 
 [3]: https://github.com/sirekanian/spacetime
