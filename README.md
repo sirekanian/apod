@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg
+https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2605/Angel_Marriott_960.jpg
+https://sirekanian.com/apod/image/2605/dark_wolf_1024.jpg
 
-## NGC 2170: The Angel Nebula
+## The Dark Wolf Nebula
 
-Copyright: Jason Marriott
+Copyright: William VrbassoText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator_
+_Explanation: A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2605/Angel_Marriott_960.jpg
+[1]: image/2605/dark_wolf_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
