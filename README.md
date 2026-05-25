@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg
+https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2605/WR134morrone1024.jpg
+https://sirekanian.com/apod/image/2605/potw1913aM2_1024.jpg
 
-## The Nebulous Realm of WR 134
+## A Martian Eclipse: Phobos Crosses the Sun
 
-Copyright: Luigi Morrone
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars._
+_Explanation: What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2605/WR134morrone1024.jpg
+[1]: image/2605/potw1913aM2_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4
 
 [3]: https://github.com/sirekanian/spacetime
