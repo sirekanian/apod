@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg
+https://apod.nasa.gov/apod/image/2606/andromeda_1024.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2606/Vela_Mtanous_960.jpg
+https://sirekanian.com/apod/image/2606/andromeda_1024.png
 
-## The Vela Supernova Remnant
+## Andromeda Through Gas and Dust
 
-Copyright: José Mtanous
+Copyright: Nick FritzText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
 
 [![the picture of the day][1]][2]
 
-_Explanation: The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator_
+_Explanation: Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in "The Book of Fixed Stars" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s "Catalogue of Nebulae and Star Clusters". From “a small cloud” to “nebula” and now known to be our nearest major galaxy, Andromeda has remained a fundamental astronomical object. Today’s image, taken over 202 hours, shows how far we have come in our ability to observe our neighbor. The diffuse red and blue clouds are mostly foreground ionized hydrogen and oxygen well within our Milky Way. Pink-red clouds of hydrogen ionized by the energetic light of young stars trace the galaxy’s dusty spiral arms. M32 and M110 are satellite galaxies pictured orbiting the larger Andromeda. Despite its long history of observation through ancient unaided eyes to modern telescopes, Andromeda still holds countless secrets that astronomers will continue to search for, including how galaxies merge and evolve, as well as the nature of the dark matter that galaxies reside in.   Teachers! the NASA/IPAC Teacher Archive Research Program is officially open for applications!_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2606/Vela_Mtanous_960.jpg
+[1]: image/2606/andromeda_1024.png
 
-[2]: https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2606/andromeda_1024.png
 
 [3]: https://github.com/sirekanian/spacetime
