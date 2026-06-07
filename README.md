@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg
+https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2606/buckyballs_1024.jpg
+https://sirekanian.com/apod/image/2606/charon_then_now_1024.jpg
 
-## A Planetary Nebula with Cosmic Buckyballs
+## Charon: Moon of Pluto
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckminster Fuller because of its resemblance to the geodesic dome he helped popularize.   Webb’s new data reveal where the C60 molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.   Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an upside-down question mark, fitting punctuation for the many questions this nebula still poses._
+_Explanation: A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, red, and infrared image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left. That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2606/buckyballs_1024.jpg
+[1]: image/2606/charon_then_now_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
