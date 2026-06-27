@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4
+https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2606/M27_antonucci_960.jpg
+https://sirekanian.com/apod/image/2606/MilkyWaySeoulShingooLee800.jpg
 
-## Flying Past Neptune's Moon Triton
+## Milky Way Urban Style
 
-Copyright: (empty)
+Copyright: Shingoo Lee
 
 [![the picture of the day][1]][2]
 
-_Explanation: What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator_
+_Explanation: In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2606/M27_antonucci_960.jpg
+[1]: image/2606/MilkyWaySeoulShingooLee800.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4
+[2]: https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg
 
 [3]: https://github.com/sirekanian/spacetime
