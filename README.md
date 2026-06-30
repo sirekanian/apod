@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg
+https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2606/PIA26726_figA1024c.jpg
+https://sirekanian.com/apod/image/2606/M82_HubbleWebb_960.jpg
 
-## Mars Marathon by Perseverance
+## M82: Galaxy with a Supergalactic Wind
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta._
+_Explanation: Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic combines images taken in visible light from the Hubble Space Telescope and images taken in infrared light from James Webb Space Telescope.  It shows the light-colored central galaxy nearly edge on across the image center with tremendous orange and red colored filaments of gas and dust extending both up and down.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major)._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2606/PIA26726_figA1024c.jpg
+[1]: image/2606/M82_HubbleWebb_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg
+[2]: https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
