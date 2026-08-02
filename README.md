@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg
+https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2607/red_sun_1024.jpg
+https://sirekanian.com/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg
 
-## Red Sun through Wildfire Smoke
+## Buck Moon and Belt of Venus
 
-Copyright: Debra Ceravolo Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II)
+Copyright: Branko Nadj
 
 [![the picture of the day][1]][2]
 
-_Explanation: This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photographer to take this photo of the Sun directly.   Several sunspots are also visible in this eerie image; just below and right of the center is AR 4493, a fast evolving, giant active solar region and sunspot group.     The smoke is made of tiny particles that help block and scatter light with bluer colors, so the light we see coming from the Sun is dimmer and redder than usual (but it is never safe to stare directly at the Sun).   Sunsets and sunrises are also more colorful because of the smoke.      Some 6 billion years from now, the Sun will actually start to turn redder as it approaches its red giant phase._
+_Explanation: The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2607/red_sun_1024.jpg
+[1]: image/2608/FullMoon28-7-2026BrankoNadj1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
