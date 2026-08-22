@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4
+https://apod.nasa.gov/apod/image/2608/eso2612b.mp4
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2608/Perseids_karuk_960.jpg
+https://sirekanian.com/apod/image/2608/IMG_5201_sgarbossa1024.jpeg
 
-## The Case of the Mysterious Maybe Meteor
+## Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!_
+_Explanation: What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with the Very Large Telescope Interferometer of the European Southern Observatory, located in the Atacama Desert in Chile.   Astronomers recently found that S301 takes approximately 8.7 years to go around the black hole and reaches speeds of 25,000 km/s.   It comes closer to the black hole than any other stars detected before, at a distance similar to that from Saturn to the Sun.   Because it comes so close to Sagittarius A*, S301 could be used to directly measure how fast the black hole spins and test Einstein's theory of general relativity.   According to the theory, a spinning black hole drags the fabric of spacetime around itself, affecting the orbits of close-by objects._
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2608/Perseids_karuk_960.jpg
+[1]: image/2608/IMG_5201_sgarbossa1024.jpeg
 
-[2]: https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4
+[2]: https://apod.nasa.gov/apod/image/2608/eso2612b.mp4
 
 [3]: https://github.com/sirekanian/spacetime
