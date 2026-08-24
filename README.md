@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2608/eso2612b.mp4
+https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j{{url}}t=23
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2608/IMG_5201_sgarbossa1024.jpeg
+https://sirekanian.com/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
 
-## Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy
+## Cassini Approaches Saturn
 
-Copyright: (empty)
+Copyright: Cassini Imaging Team,ISS,JPL,NASA,ESA,S. Van Vuuren et al.;Music:Adagio for Strings (NY Philharmonic)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with the Very Large Telescope Interferometer of the European Southern Observatory, located in the Atacama Desert in Chile.   Astronomers recently found that S301 takes approximately 8.7 years to go around the black hole and reaches speeds of 25,000 km/s.   It comes closer to the black hole than any other stars detected before, at a distance similar to that from Saturn to the Sun.   Because it comes so close to Sagittarius A*, S301 could be used to directly measure how fast the black hole spins and test Einstein's theory of general relativity.   According to the theory, a spinning black hole drags the fabric of spacetime around itself, affecting the orbits of close-by objects._
+_Explanation: What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2608/IMG_5201_sgarbossa1024.jpeg
+[1]: image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2608/eso2612b.mp4
+[2]: https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j{{url}}t=23
 
 [3]: https://github.com/sirekanian/spacetime
