@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j{{url}}t=23
+https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
+https://sirekanian.com/apod/image/2608/Comet220P_SA_960.jpg
 
-## Cassini Approaches Saturn
+## Comet 220P in Outburst
 
-Copyright: Cassini Imaging Team,ISS,JPL,NASA,ESA,S. Van Vuuren et al.;Music:Adagio for Strings (NY Philharmonic)
+Copyright: Spilios Asimakopoulos
 
 [![the picture of the day][1]][2]
 
-_Explanation: What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg
+[1]: image/2608/Comet220P_SA_960.jpg
 
-[2]: https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j{{url}}t=23
+[2]: https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
