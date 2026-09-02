@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg
+https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2608/m74_hst_960.jpg
+https://sirekanian.com/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
 
-## M74: A Grand Design Spiral
+## A Plane Lunar Eclipse
 
 Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2608/m74_hst_960.jpg
+[1]: image/2608/PlaneEclipse_Ferreira_1059.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
 
 [3]: https://github.com/sirekanian/spacetime
