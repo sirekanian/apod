@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
+https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
+https://sirekanian.com/apod/image/2609/colors_of_eclipse_1024.jpg
 
-## A Plane Lunar Eclipse
+## Solar Eclipses and Culture
 
-Copyright: (empty)
+Copyright: Javier CastroText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II)
 
 [![the picture of the day][1]][2]
 
-_Explanation: Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2608/PlaneEclipse_Ferreira_1059.jpg
+[1]: image/2609/colors_of_eclipse_1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg
+[2]: https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
