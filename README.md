@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg
+https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2609/LDN1295_giraffe_1024.jpg
+https://sirekanian.com/apod/image/2609/M83_Final2_1x1024.jpg
 
-## LDN 1295: The Giraffe Nebula
+## M83: The Southern Pinwheel
 
-Copyright: Alessandro Merga Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II)
+Copyright: Aldo Zanetti
 
 [![the picture of the day][1]][2]
 
-_Explanation: What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2609/LDN1295_giraffe_1024.jpg
+[1]: image/2609/M83_Final2_1x1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg
+[2]: https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
