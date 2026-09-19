@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg
+https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2609/JWST_Treasure_Chest_800.jpg
+https://sirekanian.com/apod/image/2609/m33m14_rasa3NM1024.jpg
 
-## A Treasure Chest in the Carina Nebula
+## Messier 33: The Triangulum Galaxy
 
-Copyright: ESA/Webb, NASA (empty) CSA, M. Reiter; Acknowledgement: M. H. Özsaraç Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II)
+Copyright: George Chatzifrantzis
 
 [![the picture of the day][1]][2]
 
-_Explanation: This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2609/JWST_Treasure_Chest_800.jpg
+[1]: image/2609/m33m14_rasa3NM1024.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg
+[2]: https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg
 
 [3]: https://github.com/sirekanian/spacetime
