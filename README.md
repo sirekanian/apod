@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg
+https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2609/Cocoon_Czerski_1080.jpg
+https://sirekanian.com/apod/image/2609/PlaneIssSpots_Horalek_960.jpg
 
-## Cocoon Nebula Wide Field
+## Chance Triple Alignment: Plane, Space Station, Sun
 
-Copyright: Piotr Czerski
+Copyright: Petr Horalek /Inst. Physics Opava
 
 [![the picture of the day][1]][2]
 
-_Explanation: When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the lower right, with a long trail of interstellar dust clouds to the left, making the entire complex appear a bit like a comet.  Cataloged as IC 5146, the central bright head of the nebula spans about 10 light years, while the dark dusty tail spans nearly 100 light years.  Both are located about 2,500 light years away.  A bright star near the colorful nebula's center likely supplies power and helps clear out a cavity.  The long dusty filaments of the tail, although dark in this visible light image, hide stars in the process of formation. The featured image was captured in July from Death Valley, California, USA.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the International Space Station (ISS), the small dark structure on the middle left.  This is because the featured picture was planned with sub-second timing to record the iconic structure passing before the Sun.  It is the airplane.  Just as this exposure was taking place in June, from Prasek in the Czech Republic, an airplane began its own miniature partial eclipse.  The result is this triply aligned image of our Sun.  The photographer estimates that the chance of any random Sun image containing silhouettes of both a space station and an airplane, from that location, is about 30 million to one.    APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2609/Cocoon_Czerski_1080.jpg
+[1]: image/2609/PlaneIssSpots_Horalek_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg
+[2]: https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
