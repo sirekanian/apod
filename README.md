@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg
+https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2609/M31Before_Scherer_960.jpg
+https://sirekanian.com/apod/image/2609/Shrimp_Pawel_960.jpg
 
-## Andromeda before Photoshop
+## Sh2-188: The Shrimp Nebula
 
-Copyright: (empty)
+Copyright: Pawel Piechnik
 
 [![the picture of the day][1]][2]
 
-_Explanation: What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2609/M31Before_Scherer_960.jpg
+[1]: image/2609/Shrimp_Pawel_960.jpg
 
-[2]: https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg
+[2]: https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg
 
 [3]: https://github.com/sirekanian/spacetime
