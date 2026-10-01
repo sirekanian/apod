@@ -11,25 +11,25 @@ optimize them.
 For using thumbnails replace the host of the original image from `apod.nasa.gov` to `sirekanian.com`.
 
 For example if you have an image with url:<br>
-https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg
+https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 The thumbnail url will look like this:<br>
-https://sirekanian.com/apod/image/2609/Shrimp_Pawel_960.jpg
+https://sirekanian.com/apod/
 
-## Sh2-188: The Shrimp Nebula
+## NASA Science
 
-Copyright: Pawel Piechnik
+Copyright: (empty)
 
 [![the picture of the day][1]][2]
 
-_Explanation: What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod_
+_Explanation: Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest						_
 
 ## Usages
 
 The repository is used by [Spacetime][3] android application.
 
-[1]: image/2609/Shrimp_Pawel_960.jpg
+[1]: 
 
-[2]: https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg
+[2]: https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png
 
 [3]: https://github.com/sirekanian/spacetime
